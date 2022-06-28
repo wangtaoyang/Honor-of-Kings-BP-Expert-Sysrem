@@ -1,0 +1,1507 @@
+[
+    {
+        "name": "白起",
+        "kz_index_sum": 0.36991999999999997,
+        "reason": [
+            "白起: erupt (0.46) kz recover (-0.8) [0.4] score: 0.14720000000000003",
+            "白起: recover (0.75) kz defense (0.78) [0.4] score: 0.23399999999999999",
+            "白起: erupt (0.46) kz defense (0.78) [-0.6] score: -0.21528",
+            "白起: recover (0.75) kz poke (0.3) [0.4] score: 0.09",
+            "白起: defense (0.95) kz poke (0.3) [0.4] score: 0.11399999999999999"
+        ],
+        "hot": 2.0
+    },
+    {
+        "name": "程咬金",
+        "kz_index_sum": 0.51656,
+        "reason": [
+            "程咬金: recover (0.98) kz defense (0.78) [0.4] score: 0.30576000000000003",
+            "程咬金: speed (0.02) kz control (0.85) [-0.8] score: -0.013600000000000001",
+            "程咬金: recover (0.98) kz poke (0.3) [0.4] score: 0.1176",
+            "程咬金: defense (0.89) kz poke (0.3) [0.4] score: 0.1068"
+        ],
+        "hot": 3.0
+    },
+    {
+        "name": "达摩",
+        "kz_index_sum": -0.18172,
+        "reason": [
+            "达摩: erupt (0.79) kz recover (-0.8) [0.4] score: 0.2528000000000001",
+            "达摩: recover (0.4) kz defense (0.78) [0.4] score: 0.12480000000000002",
+            "达摩: erupt (0.79) kz defense (0.78) [-0.6] score: -0.36972000000000005",
+            "达摩: speed (0.45) kz control (0.85) [-0.8] score: -0.30600000000000005",
+            "达摩: recover (0.4) kz poke (0.3) [0.4] score: 0.048",
+            "达摩: defense (0.57) kz poke (0.3) [0.4] score: 0.0684"
+        ],
+        "hot": 4.0
+    },
+    {
+        "name": "铠",
+        "kz_index_sum": 0.40392000000000006,
+        "reason": [
+            "铠: erupt (0.74) kz recover (-0.8) [0.4] score: 0.2368",
+            "铠: poke (0.23) kz recover (-0.8) [0.8] score: 0.14720000000000003",
+            "铠: recover (0.71) kz defense (0.78) [0.4] score: 0.22152",
+            "铠: erupt (0.74) kz defense (0.78) [-0.6] score: -0.34632",
+            "铠: penetrate (0.17) kz defense (0.78) [0.8] score: 0.10608000000000002",
+            "铠: poke (0.23) kz defense (0.78) [-0.4] score: -0.07176",
+            "铠: speed (0.09) kz control (0.85) [-0.8] score: -0.061200000000000004",
+            "铠: recover (0.71) kz poke (0.3) [0.4] score: 0.0852",
+            "铠: defense (0.72) kz poke (0.3) [0.4] score: 0.0864"
+        ],
+        "hot": 2.0
+    },
+    {
+        "name": "吕布",
+        "kz_index_sum": 0.8846400000000001,
+        "reason": [
+            "吕布: erupt (0.54) kz recover (-0.8) [0.4] score: 0.17280000000000004",
+            "吕布: recover (0.62) kz defense (0.78) [0.4] score: 0.19344000000000003",
+            "吕布: erupt (0.54) kz defense (0.78) [-0.6] score: -0.25272",
+            "吕布: penetrate (0.98) kz defense (0.78) [0.8] score: 0.6115200000000001",
+            "吕布: recover (0.62) kz poke (0.3) [0.4] score: 0.07440000000000001",
+            "吕布: defense (0.71) kz poke (0.3) [0.4] score: 0.0852"
+        ],
+        "hot": 1.0
+    },
+    {
+        "name": "蒙恬",
+        "kz_index_sum": 0.45444,
+        "reason": [
+            "蒙恬: erupt (0.69) kz recover (-0.8) [0.4] score: 0.2208",
+            "蒙恬: recover (0.7) kz defense (0.78) [0.4] score: 0.21839999999999998",
+            "蒙恬: erupt (0.69) kz defense (0.78) [-0.6] score: -0.32292",
+            "蒙恬: penetrate (0.24) kz defense (0.78) [0.8] score: 0.14976",
+            "蒙恬: recover (0.7) kz poke (0.3) [0.4] score: 0.084",
+            "蒙恬: defense (0.87) kz poke (0.3) [0.4] score: 0.1044"
+        ],
+        "hot": 1.0
+    },
+    {
+        "name": "孙策",
+        "kz_index_sum": -0.24175999999999997,
+        "reason": [
+            "孙策: erupt (0.72) kz recover (-0.8) [0.4] score: 0.2304",
+            "孙策: recover (0.3) kz defense (0.78) [0.4] score: 0.0936",
+            "孙策: erupt (0.72) kz defense (0.78) [-0.6] score: -0.33696",
+            "孙策: speed (0.49) kz control (0.85) [-0.8] score: -0.3332",
+            "孙策: recover (0.3) kz poke (0.3) [0.4] score: 0.036",
+            "孙策: defense (0.57) kz poke (0.3) [0.4] score: 0.0684"
+        ],
+        "hot": 2.0
+    },
+    {
+        "name": "夏侯惇",
+        "kz_index_sum": 0.47280000000000005,
+        "reason": [
+            "夏侯惇: recover (0.68) kz defense (0.78) [0.4] score: 0.21216000000000004",
+            "夏侯惇: penetrate (0.21) kz defense (0.78) [0.8] score: 0.13104000000000002",
+            "夏侯惇: speed (0.09) kz control (0.85) [-0.8] score: -0.061200000000000004",
+            "夏侯惇: recover (0.68) kz poke (0.3) [0.4] score: 0.0816",
+            "夏侯惇: defense (0.91) kz poke (0.3) [0.4] score: 0.10920000000000002"
+        ],
+        "hot": 2.0
+    },
+    {
+        "name": "亚瑟",
+        "kz_index_sum": 0.15327999999999997,
+        "reason": [
+            "亚瑟: recover (0.58) kz defense (0.78) [0.4] score: 0.18096",
+            "亚瑟: penetrate (0.08) kz defense (0.78) [0.8] score: 0.049920000000000006",
+            "亚瑟: speed (0.34) kz control (0.85) [-0.8] score: -0.23120000000000004",
+            "亚瑟: recover (0.58) kz poke (0.3) [0.4] score: 0.0696",
+            "亚瑟: defense (0.7) kz poke (0.3) [0.4] score: 0.084"
+        ],
+        "hot": 4.0
+    },
+    {
+        "name": "钟无艳",
+        "kz_index_sum": -0.27283999999999997,
+        "reason": [
+            "钟无艳: erupt (0.47) kz recover (-0.8) [0.4] score: 0.1504",
+            "钟无艳: erupt (0.47) kz defense (0.78) [-0.6] score: -0.21996",
+            "钟无艳: penetrate (0.08) kz defense (0.78) [0.8] score: 0.049920000000000006",
+            "钟无艳: speed (0.21) kz control (0.85) [-0.8] score: -0.1428",
+            "钟无艳: recover (-0.79) kz poke (0.3) [-0.8] score: -0.1896",
+            "钟无艳: defense (0.66) kz poke (0.3) [0.4] score: 0.0792"
+        ],
+        "hot": 3.0
+    },
+    {
+        "name": "猪八戒",
+        "kz_index_sum": 0.21839999999999993,
+        "reason": [
+            "猪八戒: recover (0.95) kz defense (0.78) [0.4] score: 0.2964",
+            "猪八戒: speed (0.45) kz control (0.85) [-0.8] score: -0.30600000000000005",
+            "猪八戒: recover (0.95) kz poke (0.3) [0.4] score: 0.11399999999999999",
+            "猪八戒: defense (0.95) kz poke (0.3) [0.4] score: 0.11399999999999999"
+        ],
+        "hot": 1.0
+    },
+    {
+        "name": "曹操",
+        "kz_index_sum": 0.13528000000000004,
+        "reason": [
+            "曹操: erupt (0.58) kz recover (-0.8) [0.4] score: 0.1856",
+            "曹操: poke (0.08) kz recover (-0.8) [0.8] score: 0.0512",
+            "曹操: recover (0.89) kz defense (0.78) [0.4] score: 0.27768000000000004",
+            "曹操: erupt (0.58) kz defense (0.78) [-0.6] score: -0.27143999999999996",
+            "曹操: poke (0.08) kz defense (0.78) [-0.4] score: -0.024960000000000003",
+            "曹操: speed (0.39) kz control (0.85) [-0.8] score: -0.26520000000000005",
+            "曹操: recover (0.89) kz poke (0.3) [0.4] score: 0.1068",
+            "曹操: defense (0.63) kz poke (0.3) [0.4] score: 0.0756"
+        ],
+        "hot": 2.0
+    },
+    {
+        "name": "关羽",
+        "kz_index_sum": -0.4667599999999999,
+        "reason": [
+            "关羽: erupt (0.43) kz recover (-0.8) [0.4] score: 0.13760000000000003",
+            "关羽: poke (0.55) kz recover (-0.8) [0.8] score: 0.3520000000000001",
+            "关羽: erupt (0.43) kz defense (0.78) [-0.6] score: -0.20124",
+            "关羽: penetrate (0.07) kz defense (0.78) [0.8] score: 0.04368000000000001",
+            "关羽: poke (0.55) kz defense (0.78) [-0.4] score: -0.17160000000000003",
+            "关羽: speed (0.88) kz control (0.85) [-0.8] score: -0.5984",
+            "关羽: recover (-0.45) kz poke (0.3) [-0.8] score: -0.10800000000000001",
+            "关羽: defense (0.66) kz poke (0.3) [0.4] score: 0.0792"
+        ],
+        "hot": 1.0
+    },
+    {
+        "name": "花木兰",
+        "kz_index_sum": -0.3396399999999999,
+        "reason": [
+            "花木兰: erupt (0.91) kz recover (-0.8) [0.4] score: 0.29120000000000007",
+            "花木兰: poke (0.45) kz recover (-0.8) [0.8] score: 0.28800000000000003",
+            "花木兰: erupt (0.91) kz defense (0.78) [-0.6] score: -0.42588000000000004",
+            "花木兰: penetrate (0.21) kz defense (0.78) [0.8] score: 0.13104000000000002",
+            "花木兰: poke (0.45) kz defense (0.78) [-0.4] score: -0.14040000000000002",
+            "花木兰: speed (0.51) kz control (0.85) [-0.8] score: -0.3468",
+            "花木兰: recover (-0.91) kz poke (0.3) [-0.8] score: -0.21840000000000004",
+            "花木兰: defense (0.68) kz poke (0.3) [0.4] score: 0.0816"
+        ],
+        "hot": 0.0
+    },
+    {
+        "name": "狂铁",
+        "kz_index_sum": 0.37812000000000007,
+        "reason": [
+            "狂铁: erupt (0.69) kz recover (-0.8) [0.4] score: 0.2208",
+            "狂铁: recover (0.88) kz defense (0.78) [0.4] score: 0.27456",
+            "狂铁: erupt (0.69) kz defense (0.78) [-0.6] score: -0.32292",
+            "狂铁: penetrate (0.22) kz defense (0.78) [0.8] score: 0.13728",
+            "狂铁: speed (0.15) kz control (0.85) [-0.8] score: -0.10200000000000001",
+            "狂铁: recover (0.88) kz poke (0.3) [0.4] score: 0.10560000000000001",
+            "狂铁: defense (0.54) kz poke (0.3) [0.4] score: 0.06480000000000001"
+        ],
+        "hot": 2.0
+    },
+    {
+        "name": "老夫子",
+        "kz_index_sum": 0.7396800000000001,
+        "reason": [
+            "老夫子: recover (0.33) kz defense (0.78) [0.4] score: 0.10296000000000001",
+            "老夫子: penetrate (0.78) kz defense (0.78) [0.8] score: 0.48672000000000004",
+            "老夫子: recover (0.33) kz poke (0.3) [0.4] score: 0.0396",
+            "老夫子: defense (0.92) kz poke (0.3) [0.4] score: 0.11040000000000001"
+        ],
+        "hot": 0.5
+    },
+    {
+        "name": "李信",
+        "kz_index_sum": 0.1654800000000001,
+        "reason": [
+            "李信: erupt (0.75) kz recover (-0.8) [0.4] score: 0.24000000000000005",
+            "李信: poke (0.59) kz recover (-0.8) [0.8] score: 0.3776",
+            "李信: recover (0.43) kz defense (0.78) [0.4] score: 0.13416000000000003",
+            "李信: erupt (0.75) kz defense (0.78) [-0.6] score: -0.351",
+            "李信: poke (0.59) kz defense (0.78) [-0.4] score: -0.18408000000000002",
+            "李信: speed (0.25) kz control (0.85) [-0.8] score: -0.17",
+            "李信: recover (0.43) kz poke (0.3) [0.4] score: 0.05160000000000001",
+            "李信: defense (0.56) kz poke (0.3) [0.4] score: 0.06720000000000001"
+        ],
+        "hot": 2.0
+    },
+    {
+        "name": "马超",
+        "kz_index_sum": -0.29188000000000003,
+        "reason": [
+            "马超: erupt (0.57) kz recover (-0.8) [0.4] score: 0.1824",
+            "马超: poke (0.43) kz recover (-0.8) [0.8] score: 0.27520000000000006",
+            "马超: recover (0.39) kz defense (0.78) [0.4] score: 0.12168000000000001",
+            "马超: erupt (0.57) kz defense (0.78) [-0.6] score: -0.26676",
+            "马超: penetrate (0.09) kz defense (0.78) [0.8] score: 0.05616",
+            "马超: poke (0.43) kz defense (0.78) [-0.4] score: -0.13416000000000003",
+            "马超: speed (0.91) kz control (0.85) [-0.8] score: -0.6188",
+            "马超: recover (0.39) kz poke (0.3) [0.4] score: 0.0468",
+            "马超: defense (0.38) kz poke (0.3) [0.4] score: 0.0456"
+        ],
+        "hot": 1.0
+    },
+    {
+        "name": "梦奇",
+        "kz_index_sum": 0.34592,
+        "reason": [
+            "梦奇: poke (0.85) kz recover (-0.8) [0.8] score: 0.544",
+            "梦奇: recover (0.31) kz defense (0.78) [0.4] score: 0.09672000000000001",
+            "梦奇: penetrate (0.15) kz defense (0.78) [0.8] score: 0.0936",
+            "梦奇: poke (0.85) kz defense (0.78) [-0.4] score: -0.26520000000000005",
+            "梦奇: speed (0.34) kz control (0.85) [-0.8] score: -0.23120000000000004",
+            "梦奇: recover (0.31) kz poke (0.3) [0.4] score: 0.037200000000000004",
+            "梦奇: defense (0.59) kz poke (0.3) [0.4] score: 0.0708"
+        ],
+        "hot": 1.0
+    },
+    {
+        "name": "哪吒",
+        "kz_index_sum": -0.39931999999999995,
+        "reason": [
+            "哪吒: erupt (0.39) kz recover (-0.8) [0.4] score: 0.12480000000000002",
+            "哪吒: erupt (0.39) kz defense (0.78) [-0.6] score: -0.18252000000000002",
+            "哪吒: penetrate (0.6) kz defense (0.78) [0.8] score: 0.3744",
+            "哪吒: speed (0.85) kz control (0.85) [-0.8] score: -0.578",
+            "哪吒: recover (-0.9) kz poke (0.3) [-0.8] score: -0.21600000000000003",
+            "哪吒: defense (0.65) kz poke (0.3) [0.4] score: 0.07800000000000001"
+        ],
+        "hot": 3.0
+    },
+    {
+        "name": "夏洛特",
+        "kz_index_sum": -0.11523999999999991,
+        "reason": [
+            "夏洛特: erupt (0.11) kz recover (-0.8) [0.4] score: 0.0352",
+            "夏洛特: poke (0.34) kz recover (-0.8) [0.8] score: 0.21760000000000002",
+            "夏洛特: recover (0.51) kz defense (0.78) [0.4] score: 0.15912000000000004",
+            "夏洛特: erupt (0.11) kz defense (0.78) [-0.6] score: -0.05148",
+            "夏洛特: poke (0.34) kz defense (0.78) [-0.4] score: -0.10608000000000002",
+            "夏洛特: speed (0.75) kz control (0.85) [-0.8] score: -0.51",
+            "夏洛特: recover (0.51) kz poke (0.3) [0.4] score: 0.061200000000000004",
+            "夏洛特: defense (0.66) kz poke (0.3) [0.4] score: 0.0792"
+        ],
+        "hot": 0.5
+    },
+    {
+        "name": "杨戬",
+        "kz_index_sum": 0.30052,
+        "reason": [
+            "杨戬: erupt (0.45) kz recover (-0.8) [0.4] score: 0.14400000000000002",
+            "杨戬: poke (0.09) kz recover (-0.8) [0.8] score: 0.0576",
+            "杨戬: recover (0.77) kz defense (0.78) [0.4] score: 0.24024",
+            "杨戬: erupt (0.45) kz defense (0.78) [-0.6] score: -0.2106",
+            "杨戬: penetrate (0.29) kz defense (0.78) [0.8] score: 0.18096",
+            "杨戬: poke (0.09) kz defense (0.78) [-0.4] score: -0.02808",
+            "杨戬: speed (0.34) kz control (0.85) [-0.8] score: -0.23120000000000004",
+            "杨戬: recover (0.77) kz poke (0.3) [0.4] score: 0.0924",
+            "杨戬: defense (0.46) kz poke (0.3) [0.4] score: 0.055200000000000006"
+        ],
+        "hot": 2.0
+    },
+    {
+        "name": "元歌",
+        "kz_index_sum": -0.8575600000000001,
+        "reason": [
+            "元歌: erupt (0.95) kz recover (-0.8) [0.4] score: 0.30400000000000005",
+            "元歌: poke (0.7) kz recover (-0.8) [0.8] score: 0.44799999999999995",
+            "元歌: erupt (0.95) kz defense (0.78) [-0.6] score: -0.4446",
+            "元歌: penetrate (0.56) kz defense (0.78) [0.8] score: 0.3494400000000001",
+            "元歌: poke (0.7) kz defense (0.78) [-0.4] score: -0.21839999999999998",
+            "元歌: speed (0.9) kz control (0.85) [-0.8] score: -0.6120000000000001",
+            "元歌: defense (-0.9) kz control (0.85) [-0.4] score: -0.30600000000000005",
+            "元歌: recover (-0.9) kz poke (0.3) [-0.8] score: -0.21600000000000003",
+            "元歌: defense (-0.9) kz poke (0.3) [-0.6] score: -0.162"
+        ],
+        "hot": 1.0
+    },
+    {
+        "name": "阿古朵",
+        "kz_index_sum": 0.3312,
+        "reason": [
+            "阿古朵: recover (0.6) kz defense (0.78) [0.4] score: 0.1872",
+            "阿古朵: recover (0.6) kz poke (0.3) [0.4] score: 0.072",
+            "阿古朵: defense (0.6) kz poke (0.3) [0.4] score: 0.072"
+        ],
+        "hot": 3.0
+    },
+    {
+        "name": "典韦",
+        "kz_index_sum": 0.42556000000000005,
+        "reason": [
+            "典韦: erupt (0.61) kz recover (-0.8) [0.4] score: 0.1952",
+            "典韦: recover (0.65) kz defense (0.78) [0.4] score: 0.2028",
+            "典韦: erupt (0.61) kz defense (0.78) [-0.6] score: -0.28548",
+            "典韦: penetrate (0.51) kz defense (0.78) [0.8] score: 0.3182400000000001",
+            "典韦: speed (0.23) kz control (0.85) [-0.8] score: -0.1564",
+            "典韦: recover (0.65) kz poke (0.3) [0.4] score: 0.07800000000000001",
+            "典韦: defense (0.61) kz poke (0.3) [0.4] score: 0.0732"
+        ],
+        "hot": 5.0
+    },
+    {
+        "name": "暃",
+        "kz_index_sum": -0.36191999999999996,
+        "reason": [
+            "暃: erupt (0.86) kz recover (-0.8) [0.4] score: 0.27520000000000006",
+            "暃: poke (0.25) kz recover (-0.8) [0.8] score: 0.16000000000000003",
+            "暃: recover (0.21) kz defense (0.78) [0.4] score: 0.06552000000000001",
+            "暃: erupt (0.86) kz defense (0.78) [-0.6] score: -0.40248",
+            "暃: penetrate (0.31) kz defense (0.78) [0.8] score: 0.19344000000000003",
+            "暃: poke (0.25) kz defense (0.78) [-0.4] score: -0.07800000000000001",
+            "暃: speed (0.91) kz control (0.85) [-0.8] score: -0.6188",
+            "暃: recover (0.21) kz poke (0.3) [0.4] score: 0.0252",
+            "暃: defense (0.15) kz poke (0.3) [0.4] score: 0.018"
+        ],
+        "hot": 1.0
+    },
+    {
+        "name": "宫本武藏",
+        "kz_index_sum": -0.43304,
+        "reason": [
+            "宫本武藏: erupt (0.58) kz recover (-0.8) [0.4] score: 0.1856",
+            "宫本武藏: erupt (0.58) kz defense (0.78) [-0.6] score: -0.27143999999999996",
+            "宫本武藏: speed (0.47) kz control (0.85) [-0.8] score: -0.3196",
+            "宫本武藏: recover (-0.19) kz poke (0.3) [-0.8] score: -0.0456",
+            "宫本武藏: defense (0.15) kz poke (0.3) [0.4] score: 0.018"
+        ],
+        "hot": 4.0
+    },
+    {
+        "name": "刘备",
+        "kz_index_sum": 0.03980000000000003,
+        "reason": [
+            "刘备: erupt (0.59) kz recover (-0.8) [0.4] score: 0.1888",
+            "刘备: recover (0.61) kz defense (0.78) [0.4] score: 0.19032000000000002",
+            "刘备: erupt (0.59) kz defense (0.78) [-0.6] score: -0.27612",
+            "刘备: speed (0.25) kz control (0.85) [-0.8] score: -0.17",
+            "刘备: recover (0.61) kz poke (0.3) [0.4] score: 0.0732",
+            "刘备: defense (0.28) kz poke (0.3) [0.4] score: 0.033600000000000005"
+        ],
+        "hot": 3.0
+    },
+    {
+        "name": "露娜",
+        "kz_index_sum": -0.28456000000000004,
+        "reason": [
+            "露娜: poke (0.22) kz recover (-0.8) [0.8] score: 0.1408",
+            "露娜: recover (0.54) kz defense (0.78) [0.4] score: 0.16848000000000002",
+            "露娜: poke (0.22) kz defense (0.78) [-0.4] score: -0.06864",
+            "露娜: speed (0.91) kz control (0.85) [-0.8] score: -0.6188",
+            "露娜: recover (0.54) kz poke (0.3) [0.4] score: 0.06480000000000001",
+            "露娜: defense (0.24) kz poke (0.3) [0.4] score: 0.0288"
+        ],
+        "hot": 1.0
+    },
+    {
+        "name": "盘古",
+        "kz_index_sum": 0.1862000000000001,
+        "reason": [
+            "盘古: erupt (0.29) kz recover (-0.8) [0.4] score: 0.0928",
+            "盘古: poke (0.23) kz recover (-0.8) [0.8] score: 0.14720000000000003",
+            "盘古: recover (0.44) kz defense (0.78) [0.4] score: 0.13728",
+            "盘古: erupt (0.29) kz defense (0.78) [-0.6] score: -0.13571999999999998",
+            "盘古: penetrate (0.15) kz defense (0.78) [0.8] score: 0.0936",
+            "盘古: poke (0.23) kz defense (0.78) [-0.4] score: -0.07176",
+            "盘古: speed (0.23) kz control (0.85) [-0.8] score: -0.1564",
+            "盘古: recover (0.44) kz poke (0.3) [0.4] score: 0.05280000000000001",
+            "盘古: defense (0.22) kz poke (0.3) [0.4] score: 0.026400000000000003"
+        ],
+        "hot": 3.0
+    },
+    {
+        "name": "裴擒虎",
+        "kz_index_sum": -0.021079999999999783,
+        "reason": [
+            "裴擒虎: erupt (0.77) kz recover (-0.8) [0.4] score: 0.24640000000000006",
+            "裴擒虎: poke (0.45) kz recover (-0.8) [0.8] score: 0.28800000000000003",
+            "裴擒虎: recover (0.55) kz defense (0.78) [0.4] score: 0.17160000000000003",
+            "裴擒虎: erupt (0.77) kz defense (0.78) [-0.6] score: -0.36036",
+            "裴擒虎: penetrate (0.32) kz defense (0.78) [0.8] score: 0.19968000000000002",
+            "裴擒虎: poke (0.45) kz defense (0.78) [-0.4] score: -0.14040000000000002",
+            "裴擒虎: speed (0.75) kz control (0.85) [-0.8] score: -0.51",
+            "裴擒虎: recover (0.55) kz poke (0.3) [0.4] score: 0.066",
+            "裴擒虎: defense (0.15) kz poke (0.3) [0.4] score: 0.018"
+        ],
+        "hot": 1.0
+    },
+    {
+        "name": "孙悟空",
+        "kz_index_sum": -0.36300000000000004,
+        "reason": [
+            "孙悟空: erupt (0.81) kz recover (-0.8) [0.4] score: 0.25920000000000004",
+            "孙悟空: recover (0.24) kz defense (0.78) [0.4] score: 0.07488",
+            "孙悟空: erupt (0.81) kz defense (0.78) [-0.6] score: -0.37908000000000003",
+            "孙悟空: penetrate (0.25) kz defense (0.78) [0.8] score: 0.15600000000000003",
+            "孙悟空: speed (0.78) kz control (0.85) [-0.8] score: -0.5304000000000001",
+            "孙悟空: recover (0.24) kz poke (0.3) [0.4] score: 0.0288",
+            "孙悟空: defense (0.23) kz poke (0.3) [0.4] score: 0.027600000000000003"
+        ],
+        "hot": 3.0
+    },
+    {
+        "name": "雅典娜",
+        "kz_index_sum": -0.04843999999999986,
+        "reason": [
+            "雅典娜: erupt (0.45) kz recover (-0.8) [0.4] score: 0.14400000000000002",
+            "雅典娜: recover (0.43) kz defense (0.78) [0.4] score: 0.13416000000000003",
+            "雅典娜: erupt (0.45) kz defense (0.78) [-0.6] score: -0.2106",
+            "雅典娜: penetrate (0.45) kz defense (0.78) [0.8] score: 0.28080000000000005",
+            "雅典娜: speed (0.7) kz control (0.85) [-0.8] score: -0.476",
+            "雅典娜: recover (0.43) kz poke (0.3) [0.4] score: 0.05160000000000001",
+            "雅典娜: defense (0.23) kz poke (0.3) [0.4] score: 0.027600000000000003"
+        ],
+        "hot": 3.0
+    },
+    {
+        "name": "云缨",
+        "kz_index_sum": -0.1115600000000001,
+        "reason": [
+            "云缨: erupt (0.45) kz recover (-0.8) [0.4] score: 0.14400000000000002",
+            "云缨: poke (0.32) kz recover (-0.8) [0.8] score: 0.2048",
+            "云缨: recover (0.39) kz defense (0.78) [0.4] score: 0.12168000000000001",
+            "云缨: erupt (0.45) kz defense (0.78) [-0.6] score: -0.2106",
+            "云缨: penetrate (0.15) kz defense (0.78) [0.8] score: 0.0936",
+            "云缨: poke (0.32) kz defense (0.78) [-0.4] score: -0.09984000000000001",
+            "云缨: speed (0.68) kz control (0.85) [-0.8] score: -0.4624000000000001",
+            "云缨: recover (0.39) kz poke (0.3) [0.4] score: 0.0468",
+            "云缨: defense (0.42) kz poke (0.3) [0.4] score: 0.0504"
+        ],
+        "hot": 1.0
+    },
+    {
+        "name": "云中君",
+        "kz_index_sum": -0.13651999999999995,
+        "reason": [
+            "云中君: erupt (0.77) kz recover (-0.8) [0.4] score: 0.24640000000000006",
+            "云中君: recover (0.87) kz defense (0.78) [0.4] score: 0.27144",
+            "云中君: erupt (0.77) kz defense (0.78) [-0.6] score: -0.36036",
+            "云中君: penetrate (0.15) kz defense (0.78) [0.8] score: 0.0936",
+            "云中君: speed (0.75) kz control (0.85) [-0.8] score: -0.51",
+            "云中君: recover (0.87) kz poke (0.3) [0.4] score: 0.1044",
+            "云中君: defense (0.15) kz poke (0.3) [0.4] score: 0.018"
+        ],
+        "hot": 4.0
+    },
+    {
+        "name": "赵云",
+        "kz_index_sum": -0.3396399999999999,
+        "reason": [
+            "赵云: erupt (0.75) kz recover (-0.8) [0.4] score: 0.24000000000000005",
+            "赵云: recover (0.27) kz defense (0.78) [0.4] score: 0.08424000000000001",
+            "赵云: erupt (0.75) kz defense (0.78) [-0.6] score: -0.351",
+            "赵云: penetrate (0.08) kz defense (0.78) [0.8] score: 0.049920000000000006",
+            "赵云: speed (0.65) kz control (0.85) [-0.8] score: -0.442",
+            "赵云: recover (0.27) kz poke (0.3) [0.4] score: 0.032400000000000005",
+            "赵云: defense (0.39) kz poke (0.3) [0.4] score: 0.0468"
+        ],
+        "hot": 3.0
+    },
+    {
+        "name": "阿轲",
+        "kz_index_sum": -0.44675999999999993,
+        "reason": [
+            "阿轲: erupt (0.77) kz recover (-0.8) [0.4] score: 0.24640000000000006",
+            "阿轲: recover (0.27) kz defense (0.78) [0.4] score: 0.08424000000000001",
+            "阿轲: erupt (0.77) kz defense (0.78) [-0.6] score: -0.36036",
+            "阿轲: penetrate (0.09) kz defense (0.78) [0.8] score: 0.05616",
+            "阿轲: speed (0.77) kz control (0.85) [-0.8] score: -0.5236",
+            "阿轲: recover (0.27) kz poke (0.3) [0.4] score: 0.032400000000000005",
+            "阿轲: defense (0.15) kz poke (0.3) [0.4] score: 0.018"
+        ],
+        "hot": 2.0
+    },
+    {
+        "name": "百里玄策",
+        "kz_index_sum": -0.33115999999999995,
+        "reason": [
+            "百里玄策: erupt (0.31) kz recover (-0.8) [0.4] score: 0.09920000000000001",
+            "百里玄策: poke (0.12) kz recover (-0.8) [0.8] score: 0.07680000000000001",
+            "百里玄策: recover (0.23) kz defense (0.78) [0.4] score: 0.07176",
+            "百里玄策: erupt (0.31) kz defense (0.78) [-0.6] score: -0.14508000000000001",
+            "百里玄策: poke (0.12) kz defense (0.78) [-0.4] score: -0.03744",
+            "百里玄策: speed (0.65) kz control (0.85) [-0.8] score: -0.442",
+            "百里玄策: recover (0.23) kz poke (0.3) [0.4] score: 0.027600000000000003",
+            "百里玄策: defense (0.15) kz poke (0.3) [0.4] score: 0.018"
+        ],
+        "hot": 3.0
+    },
+    {
+        "name": "韩信",
+        "kz_index_sum": -0.36035999999999996,
+        "reason": [
+            "韩信: erupt (0.31) kz recover (-0.8) [0.4] score: 0.09920000000000001",
+            "韩信: poke (0.23) kz recover (-0.8) [0.8] score: 0.14720000000000003",
+            "韩信: recover (0.45) kz defense (0.78) [0.4] score: 0.14040000000000002",
+            "韩信: erupt (0.31) kz defense (0.78) [-0.6] score: -0.14508000000000001",
+            "韩信: penetrate (0.07) kz defense (0.78) [0.8] score: 0.04368000000000001",
+            "韩信: poke (0.23) kz defense (0.78) [-0.4] score: -0.07176",
+            "韩信: speed (0.95) kz control (0.85) [-0.8] score: -0.646",
+            "韩信: recover (0.45) kz poke (0.3) [0.4] score: 0.054000000000000006",
+            "韩信: defense (0.15) kz poke (0.3) [0.4] score: 0.018"
+        ],
+        "hot": 2.0
+    },
+    {
+        "name": "镜",
+        "kz_index_sum": -0.3017199999999999,
+        "reason": [
+            "镜: erupt (0.95) kz recover (-0.8) [0.4] score: 0.30400000000000005",
+            "镜: poke (0.07) kz recover (-0.8) [0.8] score: 0.044800000000000006",
+            "镜: recover (0.56) kz defense (0.78) [0.4] score: 0.17472000000000004",
+            "镜: erupt (0.95) kz defense (0.78) [-0.6] score: -0.4446",
+            "镜: penetrate (0.25) kz defense (0.78) [0.8] score: 0.15600000000000003",
+            "镜: poke (0.07) kz defense (0.78) [-0.4] score: -0.021840000000000005",
+            "镜: speed (0.9) kz control (0.85) [-0.8] score: -0.6120000000000001",
+            "镜: recover (0.56) kz poke (0.3) [0.4] score: 0.06720000000000001",
+            "镜: defense (0.25) kz poke (0.3) [0.4] score: 0.03"
+        ],
+        "hot": 0.5
+    },
+    {
+        "name": "兰陵王",
+        "kz_index_sum": -0.25484,
+        "reason": [
+            "兰陵王: erupt (0.91) kz recover (-0.8) [0.4] score: 0.29120000000000007",
+            "兰陵王: poke (0.21) kz recover (-0.8) [0.8] score: 0.13440000000000002",
+            "兰陵王: recover (0.23) kz defense (0.78) [0.4] score: 0.07176",
+            "兰陵王: erupt (0.91) kz defense (0.78) [-0.6] score: -0.42588000000000004",
+            "兰陵王: penetrate (0.25) kz defense (0.78) [0.8] score: 0.15600000000000003",
+            "兰陵王: poke (0.21) kz defense (0.78) [-0.4] score: -0.06552000000000001",
+            "兰陵王: speed (0.68) kz control (0.85) [-0.8] score: -0.4624000000000001",
+            "兰陵王: recover (0.23) kz poke (0.3) [0.4] score: 0.027600000000000003",
+            "兰陵王: defense (0.15) kz poke (0.3) [0.4] score: 0.018"
+        ],
+        "hot": 2.0
+    },
+    {
+        "name": "澜",
+        "kz_index_sum": -0.2523599999999999,
+        "reason": [
+            "澜: erupt (0.25) kz recover (-0.8) [0.4] score: 0.08000000000000002",
+            "澜: recover (0.77) kz defense (0.78) [0.4] score: 0.24024",
+            "澜: erupt (0.25) kz defense (0.78) [-0.6] score: -0.11699999999999999",
+            "澜: speed (0.85) kz control (0.85) [-0.8] score: -0.578",
+            "澜: recover (0.77) kz poke (0.3) [0.4] score: 0.0924",
+            "澜: defense (0.25) kz poke (0.3) [0.4] score: 0.03"
+        ],
+        "hot": 0.5
+    },
+    {
+        "name": "李白",
+        "kz_index_sum": -0.2966,
+        "reason": [
+            "李白: erupt (0.45) kz recover (-0.8) [0.4] score: 0.14400000000000002",
+            "李白: poke (0.45) kz recover (-0.8) [0.8] score: 0.28800000000000003",
+            "李白: recover (0.45) kz defense (0.78) [0.4] score: 0.14040000000000002",
+            "李白: erupt (0.45) kz defense (0.78) [-0.6] score: -0.2106",
+            "李白: poke (0.45) kz defense (0.78) [-0.4] score: -0.14040000000000002",
+            "李白: speed (0.85) kz control (0.85) [-0.8] score: -0.578",
+            "李白: recover (0.45) kz poke (0.3) [0.4] score: 0.054000000000000006",
+            "李白: defense (0.05) kz poke (0.3) [0.4] score: 0.006"
+        ],
+        "hot": 1.0
+    },
+    {
+        "name": "娜可露露",
+        "kz_index_sum": -0.13783999999999993,
+        "reason": [
+            "娜可露露: erupt (0.86) kz recover (-0.8) [0.4] score: 0.27520000000000006",
+            "娜可露露: recover (0.45) kz defense (0.78) [0.4] score: 0.14040000000000002",
+            "娜可露露: erupt (0.86) kz defense (0.78) [-0.6] score: -0.40248",
+            "娜可露露: penetrate (0.46) kz defense (0.78) [0.8] score: 0.28704",
+            "娜可露露: speed (0.75) kz control (0.85) [-0.8] score: -0.51",
+            "娜可露露: recover (0.45) kz poke (0.3) [0.4] score: 0.054000000000000006",
+            "娜可露露: defense (0.15) kz poke (0.3) [0.4] score: 0.018"
+        ],
+        "hot": 0.0
+    },
+    {
+        "name": "嫦娥",
+        "kz_index_sum": 0.2980000000000001,
+        "reason": [
+            "嫦娥: erupt (0.7) kz recover (-0.8) [0.4] score: 0.22399999999999998",
+            "嫦娥: poke (0.2) kz recover (-0.8) [0.8] score: 0.12800000000000003",
+            "嫦娥: erupt (0.7) kz defense (0.78) [-0.6] score: -0.32759999999999995",
+            "嫦娥: penetrate (0.5) kz defense (0.78) [0.8] score: 0.31200000000000006",
+            "嫦娥: poke (0.2) kz defense (0.78) [-0.4] score: -0.06240000000000001",
+            "嫦娥: recover (-0.2) kz poke (0.3) [-0.8] score: -0.048",
+            "嫦娥: defense (0.6) kz poke (0.3) [0.4] score: 0.072"
+        ],
+        "hot": 1.0
+    },
+    {
+        "name": "墨子",
+        "kz_index_sum": 0.25808000000000014,
+        "reason": [
+            "墨子: poke (0.95) kz recover (-0.8) [0.8] score: 0.6080000000000001",
+            "墨子: recover (0.14) kz defense (0.78) [0.4] score: 0.04368000000000001",
+            "墨子: poke (0.95) kz defense (0.78) [-0.4] score: -0.2964",
+            "墨子: speed (0.21) kz control (0.85) [-0.8] score: -0.1428",
+            "墨子: recover (0.14) kz poke (0.3) [0.4] score: 0.016800000000000002",
+            "墨子: defense (0.24) kz poke (0.3) [0.4] score: 0.0288"
+        ],
+        "hot": 2.0
+    },
+    {
+        "name": "不知火舞",
+        "kz_index_sum": -0.2097999999999997,
+        "reason": [
+            "不知火舞: erupt (0.85) kz recover (-0.8) [0.4] score: 0.272",
+            "不知火舞: poke (0.85) kz recover (-0.8) [0.8] score: 0.544",
+            "不知火舞: recover (0.45) kz defense (0.78) [0.4] score: 0.14040000000000002",
+            "不知火舞: erupt (0.85) kz defense (0.78) [-0.6] score: -0.3978",
+            "不知火舞: penetrate (0.45) kz defense (0.78) [0.8] score: 0.28080000000000005",
+            "不知火舞: poke (0.85) kz defense (0.78) [-0.4] score: -0.26520000000000005",
+            "不知火舞: speed (0.85) kz control (0.85) [-0.8] score: -0.578",
+            "不知火舞: defense (-0.5) kz control (0.85) [-0.4] score: -0.17",
+            "不知火舞: recover (0.45) kz poke (0.3) [0.4] score: 0.054000000000000006",
+            "不知火舞: defense (-0.5) kz poke (0.3) [-0.6] score: -0.09"
+        ],
+        "hot": 0.5
+    },
+    {
+        "name": "貂蝉",
+        "kz_index_sum": 0.43520000000000014,
+        "reason": [
+            "貂蝉: poke (0.4) kz recover (-0.8) [0.8] score: 0.25600000000000006",
+            "貂蝉: recover (0.85) kz defense (0.78) [0.4] score: 0.26520000000000005",
+            "貂蝉: penetrate (0.95) kz defense (0.78) [0.8] score: 0.5928",
+            "貂蝉: poke (0.4) kz defense (0.78) [-0.4] score: -0.12480000000000002",
+            "貂蝉: speed (0.85) kz control (0.85) [-0.8] score: -0.578",
+            "貂蝉: defense (-0.15) kz control (0.85) [-0.4] score: -0.051000000000000004",
+            "貂蝉: recover (0.85) kz poke (0.3) [0.4] score: 0.10200000000000001",
+            "貂蝉: defense (-0.15) kz poke (0.3) [-0.6] score: -0.027"
+        ],
+        "hot": 1.0
+    },
+    {
+        "name": "上官婉儿",
+        "kz_index_sum": -0.3245999999999999,
+        "reason": [
+            "上官婉儿: erupt (0.85) kz recover (-0.8) [0.4] score: 0.272",
+            "上官婉儿: poke (0.5) kz recover (-0.8) [0.8] score: 0.32000000000000006",
+            "上官婉儿: recover (0.45) kz defense (0.78) [0.4] score: 0.14040000000000002",
+            "上官婉儿: erupt (0.85) kz defense (0.78) [-0.6] score: -0.3978",
+            "上官婉儿: penetrate (0.45) kz defense (0.78) [0.8] score: 0.28080000000000005",
+            "上官婉儿: poke (0.5) kz defense (0.78) [-0.4] score: -0.15600000000000003",
+            "上官婉儿: speed (0.85) kz control (0.85) [-0.8] score: -0.578",
+            "上官婉儿: defense (-0.5) kz control (0.85) [-0.4] score: -0.17",
+            "上官婉儿: recover (0.45) kz poke (0.3) [0.4] score: 0.054000000000000006",
+            "上官婉儿: defense (-0.5) kz poke (0.3) [-0.6] score: -0.09"
+        ],
+        "hot": 2.0
+    },
+    {
+        "name": "司马懿",
+        "kz_index_sum": -0.5424399999999999,
+        "reason": [
+            "司马懿: erupt (0.75) kz recover (-0.8) [0.4] score: 0.24000000000000005",
+            "司马懿: recover (0.45) kz defense (0.78) [0.4] score: 0.14040000000000002",
+            "司马懿: erupt (0.75) kz defense (0.78) [-0.6] score: -0.351",
+            "司马懿: penetrate (0.34) kz defense (0.78) [0.8] score: 0.21216000000000004",
+            "司马懿: speed (0.85) kz control (0.85) [-0.8] score: -0.578",
+            "司马懿: defense (-0.5) kz control (0.85) [-0.4] score: -0.17",
+            "司马懿: recover (0.45) kz poke (0.3) [0.4] score: 0.054000000000000006",
+            "司马懿: defense (-0.5) kz poke (0.3) [-0.6] score: -0.09"
+        ],
+        "hot": 2.0
+    },
+    {
+        "name": "安琪拉",
+        "kz_index_sum": 0.1372000000000002,
+        "reason": [
+            "安琪拉: erupt (0.8) kz recover (-0.8) [0.4] score: 0.25600000000000006",
+            "安琪拉: poke (0.65) kz recover (-0.8) [0.8] score: 0.41600000000000004",
+            "安琪拉: recover (0.05) kz defense (0.78) [0.4] score: 0.015600000000000003",
+            "安琪拉: erupt (0.8) kz defense (0.78) [-0.6] score: -0.37440000000000007",
+            "安琪拉: penetrate (0.45) kz defense (0.78) [0.8] score: 0.28080000000000005",
+            "安琪拉: poke (0.65) kz defense (0.78) [-0.4] score: -0.2028",
+            "安琪拉: defense (-0.5) kz control (0.85) [-0.4] score: -0.17",
+            "安琪拉: recover (0.05) kz poke (0.3) [0.4] score: 0.006",
+            "安琪拉: defense (-0.5) kz poke (0.3) [-0.6] score: -0.09"
+        ],
+        "hot": 3.0
+    },
+    {
+        "name": "扁鹊",
+        "kz_index_sum": 0.7604000000000001,
+        "reason": [
+            "扁鹊: poke (0.65) kz recover (-0.8) [0.8] score: 0.41600000000000004",
+            "扁鹊: recover (0.95) kz defense (0.78) [0.4] score: 0.2964",
+            "扁鹊: penetrate (0.2) kz defense (0.78) [0.8] score: 0.12480000000000002",
+            "扁鹊: poke (0.65) kz defense (0.78) [-0.4] score: -0.2028",
+            "扁鹊: recover (0.95) kz poke (0.3) [0.4] score: 0.11399999999999999",
+            "扁鹊: defense (0.1) kz poke (0.3) [0.4] score: 0.012"
+        ],
+        "hot": 3.0
+    },
+    {
+        "name": "妲己",
+        "kz_index_sum": -0.2541999999999999,
+        "reason": [
+            "妲己: erupt (0.95) kz recover (-0.8) [0.4] score: 0.30400000000000005",
+            "妲己: recover (0.05) kz defense (0.78) [0.4] score: 0.015600000000000003",
+            "妲己: erupt (0.95) kz defense (0.78) [-0.6] score: -0.4446",
+            "妲己: penetrate (0.2) kz defense (0.78) [0.8] score: 0.12480000000000002",
+            "妲己: defense (-0.5) kz control (0.85) [-0.4] score: -0.17",
+            "妲己: recover (0.05) kz poke (0.3) [0.4] score: 0.006",
+            "妲己: defense (-0.5) kz poke (0.3) [-0.6] score: -0.09"
+        ],
+        "hot": 4.0
+    },
+    {
+        "name": "干将莫邪",
+        "kz_index_sum": 0.15692000000000017,
+        "reason": [
+            "干将莫邪: erupt (0.91) kz recover (-0.8) [0.4] score: 0.29120000000000007",
+            "干将莫邪: poke (0.95) kz recover (-0.8) [0.8] score: 0.6080000000000001",
+            "干将莫邪: recover (0.05) kz defense (0.78) [0.4] score: 0.015600000000000003",
+            "干将莫邪: erupt (0.91) kz defense (0.78) [-0.6] score: -0.42588000000000004",
+            "干将莫邪: penetrate (0.35) kz defense (0.78) [0.8] score: 0.21839999999999998",
+            "干将莫邪: poke (0.95) kz defense (0.78) [-0.4] score: -0.2964",
+            "干将莫邪: defense (-0.5) kz control (0.85) [-0.4] score: -0.17",
+            "干将莫邪: recover (0.05) kz poke (0.3) [0.4] score: 0.006",
+            "干将莫邪: defense (-0.5) kz poke (0.3) [-0.6] score: -0.09"
+        ],
+        "hot": 2.0
+    },
+    {
+        "name": "高渐离",
+        "kz_index_sum": 0.44276000000000004,
+        "reason": [
+            "高渐离: erupt (0.55) kz recover (-0.8) [0.4] score: 0.17600000000000005",
+            "高渐离: recover (0.68) kz defense (0.78) [0.4] score: 0.21216000000000004",
+            "高渐离: erupt (0.55) kz defense (0.78) [-0.6] score: -0.2574",
+            "高渐离: penetrate (0.35) kz defense (0.78) [0.8] score: 0.21839999999999998",
+            "高渐离: recover (0.68) kz poke (0.3) [0.4] score: 0.0816",
+            "高渐离: defense (0.1) kz poke (0.3) [0.4] score: 0.012"
+        ],
+        "hot": 3.0
+    },
+    {
+        "name": "姜子牙",
+        "kz_index_sum": 0.26839999999999986,
+        "reason": [
+            "姜子牙: erupt (0.4) kz recover (-0.8) [0.4] score: 0.12800000000000003",
+            "姜子牙: poke (0.95) kz recover (-0.8) [0.8] score: 0.6080000000000001",
+            "姜子牙: erupt (0.4) kz defense (0.78) [-0.6] score: -0.18720000000000003",
+            "姜子牙: penetrate (0.75) kz defense (0.78) [0.8] score: 0.46799999999999997",
+            "姜子牙: poke (0.95) kz defense (0.78) [-0.4] score: -0.2964",
+            "姜子牙: defense (-0.5) kz control (0.85) [-0.4] score: -0.17",
+            "姜子牙: recover (-0.8) kz poke (0.3) [-0.8] score: -0.192",
+            "姜子牙: defense (-0.5) kz poke (0.3) [-0.6] score: -0.09"
+        ],
+        "hot": 2.0
+    },
+    {
+        "name": "金蝉",
+        "kz_index_sum": -0.17904000000000003,
+        "reason": [
+            "金蝉: poke (0.68) kz recover (-0.8) [0.8] score: 0.43520000000000003",
+            "金蝉: penetrate (0.08) kz defense (0.78) [0.8] score: 0.049920000000000006",
+            "金蝉: poke (0.68) kz defense (0.78) [-0.4] score: -0.21216000000000004",
+            "金蝉: defense (-0.5) kz control (0.85) [-0.4] score: -0.17",
+            "金蝉: recover (-0.8) kz poke (0.3) [-0.8] score: -0.192",
+            "金蝉: defense (-0.5) kz poke (0.3) [-0.6] score: -0.09"
+        ],
+        "hot": 1.0
+    },
+    {
+        "name": "米莱狄",
+        "kz_index_sum": -0.37583999999999995,
+        "reason": [
+            "米莱狄: poke (0.08) kz recover (-0.8) [0.8] score: 0.0512",
+            "米莱狄: penetrate (0.08) kz defense (0.78) [0.8] score: 0.049920000000000006",
+            "米莱狄: poke (0.08) kz defense (0.78) [-0.4] score: -0.024960000000000003",
+            "米莱狄: defense (-0.5) kz control (0.85) [-0.4] score: -0.17",
+            "米莱狄: recover (-0.8) kz poke (0.3) [-0.8] score: -0.192",
+            "米莱狄: defense (-0.5) kz poke (0.3) [-0.6] score: -0.09"
+        ],
+        "hot": 2.0
+    },
+    {
+        "name": "女娲",
+        "kz_index_sum": -0.08651999999999993,
+        "reason": [
+            "女娲: erupt (0.89) kz recover (-0.8) [0.4] score: 0.28480000000000005",
+            "女娲: poke (0.85) kz recover (-0.8) [0.8] score: 0.544",
+            "女娲: erupt (0.89) kz defense (0.78) [-0.6] score: -0.41652",
+            "女娲: penetrate (0.35) kz defense (0.78) [0.8] score: 0.21839999999999998",
+            "女娲: poke (0.85) kz defense (0.78) [-0.4] score: -0.26520000000000005",
+            "女娲: defense (-0.5) kz control (0.85) [-0.4] score: -0.17",
+            "女娲: recover (-0.8) kz poke (0.3) [-0.8] score: -0.192",
+            "女娲: defense (-0.5) kz poke (0.3) [-0.6] score: -0.09"
+        ],
+        "hot": 2.0
+    },
+    {
+        "name": "沈梦溪",
+        "kz_index_sum": 0.011399999999999993,
+        "reason": [
+            "沈梦溪: erupt (0.45) kz recover (-0.8) [0.4] score: 0.14400000000000002",
+            "沈梦溪: poke (0.95) kz recover (-0.8) [0.8] score: 0.6080000000000001",
+            "沈梦溪: erupt (0.45) kz defense (0.78) [-0.6] score: -0.2106",
+            "沈梦溪: penetrate (0.35) kz defense (0.78) [0.8] score: 0.21839999999999998",
+            "沈梦溪: poke (0.95) kz defense (0.78) [-0.4] score: -0.2964",
+            "沈梦溪: defense (-0.5) kz control (0.85) [-0.4] score: -0.17",
+            "沈梦溪: recover (-0.8) kz poke (0.3) [-0.8] score: -0.192",
+            "沈梦溪: defense (-0.5) kz poke (0.3) [-0.6] score: -0.09"
+        ],
+        "hot": 1.0
+    },
+    {
+        "name": "王昭君",
+        "kz_index_sum": 0.04512,
+        "reason": [
+            "王昭君: poke (0.65) kz recover (-0.8) [0.8] score: 0.41600000000000004",
+            "王昭君: penetrate (0.08) kz defense (0.78) [0.8] score: 0.049920000000000006",
+            "王昭君: poke (0.65) kz defense (0.78) [-0.4] score: -0.2028",
+            "王昭君: defense (-0.05) kz control (0.85) [-0.4] score: -0.017",
+            "王昭君: recover (-0.8) kz poke (0.3) [-0.8] score: -0.192",
+            "王昭君: defense (-0.05) kz poke (0.3) [-0.6] score: -0.009"
+        ],
+        "hot": 3.0
+    },
+    {
+        "name": "武则天",
+        "kz_index_sum": -0.25547999999999993,
+        "reason": [
+            "武则天: erupt (0.45) kz recover (-0.8) [0.4] score: 0.14400000000000002",
+            "武则天: poke (0.65) kz recover (-0.8) [0.8] score: 0.41600000000000004",
+            "武则天: erupt (0.45) kz defense (0.78) [-0.6] score: -0.2106",
+            "武则天: penetrate (0.08) kz defense (0.78) [0.8] score: 0.049920000000000006",
+            "武则天: poke (0.65) kz defense (0.78) [-0.4] score: -0.2028",
+            "武则天: defense (-0.5) kz control (0.85) [-0.4] score: -0.17",
+            "武则天: recover (-0.8) kz poke (0.3) [-0.8] score: -0.192",
+            "武则天: defense (-0.5) kz poke (0.3) [-0.6] score: -0.09"
+        ],
+        "hot": 3.0
+    },
+    {
+        "name": "西施",
+        "kz_index_sum": -0.03687999999999996,
+        "reason": [
+            "西施: poke (0.4) kz recover (-0.8) [0.8] score: 0.25600000000000006",
+            "西施: penetrate (0.08) kz defense (0.78) [0.8] score: 0.049920000000000006",
+            "西施: poke (0.4) kz defense (0.78) [-0.4] score: -0.12480000000000002",
+            "西施: defense (-0.05) kz control (0.85) [-0.4] score: -0.017",
+            "西施: recover (-0.8) kz poke (0.3) [-0.8] score: -0.192",
+            "西施: defense (-0.05) kz poke (0.3) [-0.6] score: -0.009"
+        ],
+        "hot": 0.5
+    },
+    {
+        "name": "小乔",
+        "kz_index_sum": -0.09219999999999995,
+        "reason": [
+            "小乔: erupt (0.75) kz recover (-0.8) [0.4] score: 0.24000000000000005",
+            "小乔: poke (0.55) kz recover (-0.8) [0.8] score: 0.3520000000000001",
+            "小乔: erupt (0.75) kz defense (0.78) [-0.6] score: -0.351",
+            "小乔: penetrate (0.35) kz defense (0.78) [0.8] score: 0.21839999999999998",
+            "小乔: poke (0.55) kz defense (0.78) [-0.4] score: -0.17160000000000003",
+            "小乔: defense (-0.5) kz control (0.85) [-0.4] score: -0.17",
+            "小乔: recover (-0.5) kz poke (0.3) [-0.8] score: -0.12",
+            "小乔: defense (-0.5) kz poke (0.3) [-0.6] score: -0.09"
+        ],
+        "hot": 3.0
+    },
+    {
+        "name": "杨玉环",
+        "kz_index_sum": 0.29432,
+        "reason": [
+            "杨玉环: poke (0.55) kz recover (-0.8) [0.8] score: 0.3520000000000001",
+            "杨玉环: recover (0.75) kz defense (0.78) [0.4] score: 0.23399999999999999",
+            "杨玉环: penetrate (0.08) kz defense (0.78) [0.8] score: 0.049920000000000006",
+            "杨玉环: poke (0.55) kz defense (0.78) [-0.4] score: -0.17160000000000003",
+            "杨玉环: defense (-0.5) kz control (0.85) [-0.4] score: -0.17",
+            "杨玉环: recover (0.75) kz poke (0.3) [0.4] score: 0.09",
+            "杨玉环: defense (-0.5) kz poke (0.3) [-0.6] score: -0.09"
+        ],
+        "hot": 1.0
+    },
+    {
+        "name": "奕星",
+        "kz_index_sum": 0.028959999999999975,
+        "reason": [
+            "奕星: poke (0.68) kz recover (-0.8) [0.8] score: 0.43520000000000003",
+            "奕星: penetrate (0.08) kz defense (0.78) [0.8] score: 0.049920000000000006",
+            "奕星: poke (0.68) kz defense (0.78) [-0.4] score: -0.21216000000000004",
+            "奕星: defense (-0.1) kz control (0.85) [-0.4] score: -0.034",
+            "奕星: recover (-0.8) kz poke (0.3) [-0.8] score: -0.192",
+            "奕星: defense (-0.1) kz poke (0.3) [-0.6] score: -0.018"
+        ],
+        "hot": 1
+    },
+    {
+        "name": "嬴政",
+        "kz_index_sum": 0.061599999999999905,
+        "reason": [
+            "嬴政: poke (0.9) kz recover (-0.8) [0.8] score: 0.5760000000000001",
+            "嬴政: penetrate (0.35) kz defense (0.78) [0.8] score: 0.21839999999999998",
+            "嬴政: poke (0.9) kz defense (0.78) [-0.4] score: -0.28080000000000005",
+            "嬴政: defense (-0.5) kz control (0.85) [-0.4] score: -0.17",
+            "嬴政: recover (-0.8) kz poke (0.3) [-0.8] score: -0.192",
+            "嬴政: defense (-0.5) kz poke (0.3) [-0.6] score: -0.09"
+        ],
+        "hot": 1.0
+    },
+    {
+        "name": "张良",
+        "kz_index_sum": 0.24824000000000007,
+        "reason": [
+            "张良: erupt (0.3) kz recover (-0.8) [0.4] score: 0.096",
+            "张良: poke (0.68) kz recover (-0.8) [0.8] score: 0.43520000000000003",
+            "张良: erupt (0.3) kz defense (0.78) [-0.6] score: -0.1404",
+            "张良: penetrate (0.4) kz defense (0.78) [0.8] score: 0.24960000000000004",
+            "张良: poke (0.68) kz defense (0.78) [-0.4] score: -0.21216000000000004",
+            "张良: recover (-0.8) kz poke (0.3) [-0.8] score: -0.192",
+            "张良: defense (0.1) kz poke (0.3) [0.4] score: 0.012"
+        ],
+        "hot": 1.0
+    },
+    {
+        "name": "甄姬",
+        "kz_index_sum": -0.26103999999999994,
+        "reason": [
+            "甄姬: poke (0.43) kz recover (-0.8) [0.8] score: 0.27520000000000006",
+            "甄姬: penetrate (0.08) kz defense (0.78) [0.8] score: 0.049920000000000006",
+            "甄姬: poke (0.43) kz defense (0.78) [-0.4] score: -0.13416000000000003",
+            "甄姬: defense (-0.5) kz control (0.85) [-0.4] score: -0.17",
+            "甄姬: recover (-0.8) kz poke (0.3) [-0.8] score: -0.192",
+            "甄姬: defense (-0.5) kz poke (0.3) [-0.6] score: -0.09"
+        ],
+        "hot": 5.0
+    },
+    {
+        "name": "周瑜",
+        "kz_index_sum": 0.7057200000000002,
+        "reason": [
+            "周瑜: erupt (0.15) kz recover (-0.8) [0.4] score: 0.048",
+            "周瑜: poke (0.75) kz recover (-0.8) [0.8] score: 0.4800000000000001",
+            "周瑜: recover (0.51) kz defense (0.78) [0.4] score: 0.15912000000000004",
+            "周瑜: erupt (0.15) kz defense (0.78) [-0.6] score: -0.0702",
+            "周瑜: penetrate (0.4) kz defense (0.78) [0.8] score: 0.24960000000000004",
+            "周瑜: poke (0.75) kz defense (0.78) [-0.4] score: -0.23399999999999999",
+            "周瑜: recover (0.51) kz poke (0.3) [0.4] score: 0.061200000000000004",
+            "周瑜: defense (0.1) kz poke (0.3) [0.4] score: 0.012"
+        ],
+        "hot": 1.0
+    },
+    {
+        "name": "百里守约",
+        "kz_index_sum": 0.014400000000000066,
+        "reason": [
+            "百里守约: erupt (0.6) kz recover (-0.8) [0.4] score: 0.192",
+            "百里守约: poke (0.9) kz recover (-0.8) [0.8] score: 0.5760000000000001",
+            "百里守约: erupt (0.6) kz defense (0.78) [-0.6] score: -0.2808",
+            "百里守约: penetrate (0.5) kz defense (0.78) [0.8] score: 0.31200000000000006",
+            "百里守约: poke (0.9) kz defense (0.78) [-0.4] score: -0.28080000000000005",
+            "百里守约: defense (-0.6) kz control (0.85) [-0.4] score: -0.20400000000000001",
+            "百里守约: recover (-0.8) kz poke (0.3) [-0.8] score: -0.192",
+            "百里守约: defense (-0.6) kz poke (0.3) [-0.6] score: -0.108"
+        ],
+        "hot": 1.0
+    },
+    {
+        "name": "艾琳",
+        "kz_index_sum": 0.1692000000000001,
+        "reason": [
+            "艾琳: erupt (0.2) kz recover (-0.8) [0.4] score: 0.06400000000000002",
+            "艾琳: poke (0.75) kz recover (-0.8) [0.8] score: 0.4800000000000001",
+            "艾琳: recover (0.65) kz defense (0.78) [0.4] score: 0.2028",
+            "艾琳: erupt (0.2) kz defense (0.78) [-0.6] score: -0.09360000000000002",
+            "艾琳: poke (0.75) kz defense (0.78) [-0.4] score: -0.23399999999999999",
+            "艾琳: speed (0.1) kz control (0.85) [-0.8] score: -0.068",
+            "艾琳: defense (-0.5) kz control (0.85) [-0.4] score: -0.17",
+            "艾琳: recover (0.65) kz poke (0.3) [0.4] score: 0.07800000000000001",
+            "艾琳: defense (-0.5) kz poke (0.3) [-0.6] score: -0.09"
+        ],
+        "hot": 2.0
+    },
+    {
+        "name": "成吉思汗",
+        "kz_index_sum": 0.020399999999999988,
+        "reason": [
+            "成吉思汗: erupt (0.2) kz recover (-0.8) [0.4] score: 0.06400000000000002",
+            "成吉思汗: poke (0.65) kz recover (-0.8) [0.8] score: 0.41600000000000004",
+            "成吉思汗: recover (0.2) kz defense (0.78) [0.4] score: 0.06240000000000001",
+            "成吉思汗: erupt (0.2) kz defense (0.78) [-0.6] score: -0.09360000000000002",
+            "成吉思汗: penetrate (0.1) kz defense (0.78) [0.8] score: 0.06240000000000001",
+            "成吉思汗: poke (0.65) kz defense (0.78) [-0.4] score: -0.2028",
+            "成吉思汗: defense (-0.6) kz control (0.85) [-0.4] score: -0.20400000000000001",
+            "成吉思汗: recover (0.2) kz poke (0.3) [0.4] score: 0.024",
+            "成吉思汗: defense (-0.6) kz poke (0.3) [-0.6] score: -0.108"
+        ],
+        "hot": 2.0
+    },
+    {
+        "name": "狄仁杰",
+        "kz_index_sum": 0.2580000000000001,
+        "reason": [
+            "狄仁杰: erupt (0.3) kz recover (-0.8) [0.4] score: 0.096",
+            "狄仁杰: poke (0.5) kz recover (-0.8) [0.8] score: 0.32000000000000006",
+            "狄仁杰: recover (0.2) kz defense (0.78) [0.4] score: 0.06240000000000001",
+            "狄仁杰: erupt (0.3) kz defense (0.78) [-0.6] score: -0.1404",
+            "狄仁杰: penetrate (0.5) kz defense (0.78) [0.8] score: 0.31200000000000006",
+            "狄仁杰: poke (0.5) kz defense (0.78) [-0.4] score: -0.15600000000000003",
+            "狄仁杰: defense (-0.5) kz control (0.85) [-0.4] score: -0.17",
+            "狄仁杰: recover (0.2) kz poke (0.3) [0.4] score: 0.024",
+            "狄仁杰: defense (-0.5) kz poke (0.3) [-0.6] score: -0.09"
+        ],
+        "hot": 1.0
+    },
+    {
+        "name": "伽罗",
+        "kz_index_sum": 0.30280000000000024,
+        "reason": [
+            "伽罗: erupt (0.2) kz recover (-0.8) [0.4] score: 0.06400000000000002",
+            "伽罗: poke (0.75) kz recover (-0.8) [0.8] score: 0.4800000000000001",
+            "伽罗: recover (0.2) kz defense (0.78) [0.4] score: 0.06240000000000001",
+            "伽罗: erupt (0.2) kz defense (0.78) [-0.6] score: -0.09360000000000002",
+            "伽罗: penetrate (0.5) kz defense (0.78) [0.8] score: 0.31200000000000006",
+            "伽罗: poke (0.75) kz defense (0.78) [-0.4] score: -0.23399999999999999",
+            "伽罗: defense (-0.6) kz control (0.85) [-0.4] score: -0.20400000000000001",
+            "伽罗: recover (0.2) kz poke (0.3) [0.4] score: 0.024",
+            "伽罗: defense (-0.6) kz poke (0.3) [-0.6] score: -0.108"
+        ],
+        "hot": 3.0
+    },
+    {
+        "name": "公孙离",
+        "kz_index_sum": -0.16400000000000015,
+        "reason": [
+            "公孙离: erupt (0.6) kz recover (-0.8) [0.4] score: 0.192",
+            "公孙离: poke (0.85) kz recover (-0.8) [0.8] score: 0.544",
+            "公孙离: recover (0.65) kz defense (0.78) [0.4] score: 0.2028",
+            "公孙离: erupt (0.6) kz defense (0.78) [-0.6] score: -0.2808",
+            "公孙离: penetrate (0.3) kz defense (0.78) [0.8] score: 0.1872",
+            "公孙离: poke (0.85) kz defense (0.78) [-0.4] score: -0.26520000000000005",
+            "公孙离: speed (0.75) kz control (0.85) [-0.8] score: -0.51",
+            "公孙离: defense (-0.6) kz control (0.85) [-0.4] score: -0.20400000000000001",
+            "公孙离: recover (0.65) kz poke (0.3) [0.4] score: 0.07800000000000001",
+            "公孙离: defense (-0.6) kz poke (0.3) [-0.6] score: -0.108"
+        ],
+        "hot": 0.5
+    },
+    {
+        "name": "后裔",
+        "kz_index_sum": 0.0636,
+        "reason": [
+            "后裔: erupt (0.2) kz recover (-0.8) [0.4] score: 0.06400000000000002",
+            "后裔: poke (0.65) kz recover (-0.8) [0.8] score: 0.41600000000000004",
+            "后裔: recover (0.3) kz defense (0.78) [0.4] score: 0.0936",
+            "后裔: erupt (0.2) kz defense (0.78) [-0.6] score: -0.09360000000000002",
+            "后裔: penetrate (0.1) kz defense (0.78) [0.8] score: 0.06240000000000001",
+            "后裔: poke (0.65) kz defense (0.78) [-0.4] score: -0.2028",
+            "后裔: defense (-0.6) kz control (0.85) [-0.4] score: -0.20400000000000001",
+            "后裔: recover (0.3) kz poke (0.3) [0.4] score: 0.036",
+            "后裔: defense (-0.6) kz poke (0.3) [-0.6] score: -0.108"
+        ],
+        "hot": 1
+    },
+    {
+        "name": "黄忠",
+        "kz_index_sum": 0.10520000000000015,
+        "reason": [
+            "黄忠: erupt (0.2) kz recover (-0.8) [0.4] score: 0.06400000000000002",
+            "黄忠: poke (0.75) kz recover (-0.8) [0.8] score: 0.4800000000000001",
+            "黄忠: recover (0.2) kz defense (0.78) [0.4] score: 0.06240000000000001",
+            "黄忠: erupt (0.2) kz defense (0.78) [-0.6] score: -0.09360000000000002",
+            "黄忠: penetrate (0.1) kz defense (0.78) [0.8] score: 0.06240000000000001",
+            "黄忠: poke (0.75) kz defense (0.78) [-0.4] score: -0.23399999999999999",
+            "黄忠: defense (-0.5) kz control (0.85) [-0.4] score: -0.17",
+            "黄忠: recover (0.2) kz poke (0.3) [0.4] score: 0.024",
+            "黄忠: defense (-0.5) kz poke (0.3) [-0.6] score: -0.09"
+        ],
+        "hot": 4.0
+    },
+    {
+        "name": "李元芳",
+        "kz_index_sum": -0.1667999999999998,
+        "reason": [
+            "李元芳: erupt (0.5) kz recover (-0.8) [0.4] score: 0.16000000000000003",
+            "李元芳: poke (0.75) kz recover (-0.8) [0.8] score: 0.4800000000000001",
+            "李元芳: recover (0.2) kz defense (0.78) [0.4] score: 0.06240000000000001",
+            "李元芳: erupt (0.5) kz defense (0.78) [-0.6] score: -0.23399999999999999",
+            "李元芳: penetrate (0.2) kz defense (0.78) [0.8] score: 0.12480000000000002",
+            "李元芳: poke (0.75) kz defense (0.78) [-0.4] score: -0.23399999999999999",
+            "李元芳: speed (0.35) kz control (0.85) [-0.8] score: -0.238",
+            "李元芳: defense (-0.6) kz control (0.85) [-0.4] score: -0.20400000000000001",
+            "李元芳: recover (0.2) kz poke (0.3) [0.4] score: 0.024",
+            "李元芳: defense (-0.6) kz poke (0.3) [-0.6] score: -0.108"
+        ],
+        "hot": 1.0
+    },
+    {
+        "name": "鲁班七号",
+        "kz_index_sum": 0.22560000000000008,
+        "reason": [
+            "鲁班七号: erupt (0.2) kz recover (-0.8) [0.4] score: 0.06400000000000002",
+            "鲁班七号: poke (0.8) kz recover (-0.8) [0.8] score: 0.5120000000000001",
+            "鲁班七号: recover (0.2) kz defense (0.78) [0.4] score: 0.06240000000000001",
+            "鲁班七号: erupt (0.2) kz defense (0.78) [-0.6] score: -0.09360000000000002",
+            "鲁班七号: penetrate (0.35) kz defense (0.78) [0.8] score: 0.21839999999999998",
+            "鲁班七号: poke (0.8) kz defense (0.78) [-0.4] score: -0.24960000000000004",
+            "鲁班七号: defense (-0.6) kz control (0.85) [-0.4] score: -0.20400000000000001",
+            "鲁班七号: recover (0.2) kz poke (0.3) [0.4] score: 0.024",
+            "鲁班七号: defense (-0.6) kz poke (0.3) [-0.6] score: -0.108"
+        ],
+        "hot": 2.0
+    },
+    {
+        "name": "马可波罗",
+        "kz_index_sum": 0.1656000000000001,
+        "reason": [
+            "马可波罗: erupt (0.5) kz recover (-0.8) [0.4] score: 0.16000000000000003",
+            "马可波罗: poke (0.8) kz recover (-0.8) [0.8] score: 0.5120000000000001",
+            "马可波罗: recover (0.2) kz defense (0.78) [0.4] score: 0.06240000000000001",
+            "马可波罗: erupt (0.5) kz defense (0.78) [-0.6] score: -0.23399999999999999",
+            "马可波罗: penetrate (0.95) kz defense (0.78) [0.8] score: 0.5928",
+            "马可波罗: poke (0.8) kz defense (0.78) [-0.4] score: -0.24960000000000004",
+            "马可波罗: speed (0.65) kz control (0.85) [-0.8] score: -0.442",
+            "马可波罗: defense (-0.5) kz control (0.85) [-0.4] score: -0.17",
+            "马可波罗: recover (0.2) kz poke (0.3) [0.4] score: 0.024",
+            "马可波罗: defense (-0.5) kz poke (0.3) [-0.6] score: -0.09"
+        ],
+        "hot": 1.0
+    },
+    {
+        "name": "蒙犽",
+        "kz_index_sum": -0.1027999999999999,
+        "reason": [
+            "蒙犽: erupt (0.3) kz recover (-0.8) [0.4] score: 0.096",
+            "蒙犽: poke (0.65) kz recover (-0.8) [0.8] score: 0.41600000000000004",
+            "蒙犽: recover (0.5) kz defense (0.78) [0.4] score: 0.15600000000000003",
+            "蒙犽: erupt (0.3) kz defense (0.78) [-0.6] score: -0.1404",
+            "蒙犽: penetrate (0.1) kz defense (0.78) [0.8] score: 0.06240000000000001",
+            "蒙犽: poke (0.65) kz defense (0.78) [-0.4] score: -0.2028",
+            "蒙犽: speed (0.35) kz control (0.85) [-0.8] score: -0.238",
+            "蒙犽: defense (-0.6) kz control (0.85) [-0.4] score: -0.20400000000000001",
+            "蒙犽: recover (0.5) kz poke (0.3) [0.4] score: 0.06",
+            "蒙犽: defense (-0.6) kz poke (0.3) [-0.6] score: -0.108"
+        ],
+        "hot": 2.0
+    },
+    {
+        "name": "孙尚香",
+        "kz_index_sum": -0.02559999999999983,
+        "reason": [
+            "孙尚香: erupt (0.6) kz recover (-0.8) [0.4] score: 0.192",
+            "孙尚香: poke (0.75) kz recover (-0.8) [0.8] score: 0.4800000000000001",
+            "孙尚香: recover (0.2) kz defense (0.78) [0.4] score: 0.06240000000000001",
+            "孙尚香: erupt (0.6) kz defense (0.78) [-0.6] score: -0.2808",
+            "孙尚香: penetrate (0.45) kz defense (0.78) [0.8] score: 0.28080000000000005",
+            "孙尚香: poke (0.75) kz defense (0.78) [-0.4] score: -0.23399999999999999",
+            "孙尚香: speed (0.35) kz control (0.85) [-0.8] score: -0.238",
+            "孙尚香: defense (-0.6) kz control (0.85) [-0.4] score: -0.20400000000000001",
+            "孙尚香: recover (0.2) kz poke (0.3) [0.4] score: 0.024",
+            "孙尚香: defense (-0.6) kz poke (0.3) [-0.6] score: -0.108"
+        ],
+        "hot": 2.0
+    },
+    {
+        "name": "虞姬",
+        "kz_index_sum": 0.09400000000000017,
+        "reason": [
+            "虞姬: erupt (0.2) kz recover (-0.8) [0.4] score: 0.06400000000000002",
+            "虞姬: poke (0.75) kz recover (-0.8) [0.8] score: 0.4800000000000001",
+            "虞姬: recover (0.2) kz defense (0.78) [0.4] score: 0.06240000000000001",
+            "虞姬: erupt (0.2) kz defense (0.78) [-0.6] score: -0.09360000000000002",
+            "虞姬: penetrate (0.3) kz defense (0.78) [0.8] score: 0.1872",
+            "虞姬: poke (0.75) kz defense (0.78) [-0.4] score: -0.23399999999999999",
+            "虞姬: speed (0.2) kz control (0.85) [-0.8] score: -0.136",
+            "虞姬: defense (-0.5) kz control (0.85) [-0.4] score: -0.17",
+            "虞姬: recover (0.2) kz poke (0.3) [0.4] score: 0.024",
+            "虞姬: defense (-0.5) kz poke (0.3) [-0.6] score: -0.09"
+        ],
+        "hot": 1.0
+    },
+    {
+        "name": "盾山",
+        "kz_index_sum": 0.21696000000000004,
+        "reason": [
+            "盾山: recover (0.28) kz defense (0.78) [0.4] score: 0.08736000000000002",
+            "盾山: recover (0.28) kz poke (0.3) [0.4] score: 0.033600000000000005",
+            "盾山: defense (0.8) kz poke (0.3) [0.4] score: 0.096"
+        ],
+        "hot": 0.0
+    },
+    {
+        "name": "东皇太一",
+        "kz_index_sum": 0.58872,
+        "reason": [
+            "东皇太一: poke (0.15) kz recover (-0.8) [0.8] score: 0.096",
+            "东皇太一: recover (0.69) kz defense (0.78) [0.4] score: 0.21528000000000003",
+            "东皇太一: penetrate (0.21) kz defense (0.78) [0.8] score: 0.13104000000000002",
+            "东皇太一: poke (0.15) kz defense (0.78) [-0.4] score: -0.0468",
+            "东皇太一: recover (0.69) kz poke (0.3) [0.4] score: 0.0828",
+            "东皇太一: defense (0.92) kz poke (0.3) [0.4] score: 0.11040000000000001"
+        ],
+        "hot": 0.5
+    },
+    {
+        "name": "刘禅",
+        "kz_index_sum": -0.22479999999999994,
+        "reason": [
+            "刘禅: speed (0.35) kz control (0.85) [-0.8] score: -0.238",
+            "刘禅: recover (-0.4) kz poke (0.3) [-0.8] score: -0.096",
+            "刘禅: defense (0.91) kz poke (0.3) [0.4] score: 0.10920000000000002"
+        ],
+        "hot": 1.0
+    },
+    {
+        "name": "牛魔",
+        "kz_index_sum": -0.12480000000000005,
+        "reason": [
+            "牛魔: recover (-0.93) kz poke (0.3) [-0.8] score: -0.22320000000000004",
+            "牛魔: defense (0.82) kz poke (0.3) [0.4] score: 0.09839999999999999"
+        ],
+        "hot": 1.0
+    },
+    {
+        "name": "苏烈",
+        "kz_index_sum": -0.1068,
+        "reason": [
+            "苏烈: recover (-0.87) kz poke (0.3) [-0.8] score: -0.2088",
+            "苏烈: defense (0.85) kz poke (0.3) [0.4] score: 0.10200000000000001"
+        ],
+        "hot": 2.0
+    },
+    {
+        "name": "太乙真人",
+        "kz_index_sum": -0.11040000000000001,
+        "reason": [
+            "太乙真人: recover (-0.85) kz poke (0.3) [-0.8] score: -0.20400000000000001",
+            "太乙真人: defense (0.78) kz poke (0.3) [0.4] score: 0.0936"
+        ],
+        "hot": 0.0
+    },
+    {
+        "name": "张飞",
+        "kz_index_sum": 0.20136,
+        "reason": [
+            "张飞: recover (0.23) kz defense (0.78) [0.4] score: 0.07176",
+            "张飞: recover (0.23) kz poke (0.3) [0.4] score: 0.027600000000000003",
+            "张飞: defense (0.85) kz poke (0.3) [0.4] score: 0.10200000000000001"
+        ],
+        "hot": 0.5
+    },
+    {
+        "name": "庄周",
+        "kz_index_sum": -0.018720000000000014,
+        "reason": [
+            "庄周: poke (0.03) kz recover (-0.8) [0.8] score: 0.019200000000000002",
+            "庄周: penetrate (0.06) kz defense (0.78) [0.8] score: 0.03744",
+            "庄周: poke (0.03) kz defense (0.78) [-0.4] score: -0.00936",
+            "庄周: recover (-0.75) kz poke (0.3) [-0.8] score: -0.18",
+            "庄周: defense (0.95) kz poke (0.3) [0.4] score: 0.11399999999999999"
+        ],
+        "hot": 2.0
+    },
+    {
+        "name": "孙膑",
+        "kz_index_sum": -0.18160000000000004,
+        "reason": [
+            "孙膑: poke (0.5) kz recover (-0.8) [0.8] score: 0.32000000000000006",
+            "孙膑: recover (0.45) kz defense (0.78) [0.4] score: 0.14040000000000002",
+            "孙膑: poke (0.5) kz defense (0.78) [-0.4] score: -0.15600000000000003",
+            "孙膑: speed (0.9) kz control (0.85) [-0.8] score: -0.6120000000000001",
+            "孙膑: recover (0.45) kz poke (0.3) [0.4] score: 0.054000000000000006",
+            "孙膑: defense (0.6) kz poke (0.3) [0.4] score: 0.072"
+        ],
+        "hot": 1.0
+    },
+    {
+        "name": "蔡文姬",
+        "kz_index_sum": 0.492,
+        "reason": [
+            "蔡文姬: recover (0.95) kz defense (0.78) [0.4] score: 0.2964",
+            "蔡文姬: recover (0.95) kz poke (0.3) [0.4] score: 0.11399999999999999",
+            "蔡文姬: defense (0.68) kz poke (0.3) [0.4] score: 0.0816"
+        ],
+        "hot": 2.0
+    },
+    {
+        "name": "大乔",
+        "kz_index_sum": 0.004400000000000098,
+        "reason": [
+            "大乔: poke (0.2) kz recover (-0.8) [0.8] score: 0.12800000000000003",
+            "大乔: recover (0.85) kz defense (0.78) [0.4] score: 0.26520000000000005",
+            "大乔: poke (0.2) kz defense (0.78) [-0.4] score: -0.06240000000000001",
+            "大乔: speed (0.75) kz control (0.85) [-0.8] score: -0.51",
+            "大乔: recover (0.85) kz poke (0.3) [0.4] score: 0.10200000000000001",
+            "大乔: defense (0.68) kz poke (0.3) [0.4] score: 0.0816"
+        ],
+        "hot": 0.5
+    },
+    {
+        "name": "鬼谷子",
+        "kz_index_sum": -0.27399999999999997,
+        "reason": [
+            "鬼谷子: poke (0.2) kz recover (-0.8) [0.8] score: 0.12800000000000003",
+            "鬼谷子: penetrate (0.45) kz defense (0.78) [0.8] score: 0.28080000000000005",
+            "鬼谷子: poke (0.2) kz defense (0.78) [-0.4] score: -0.06240000000000001",
+            "鬼谷子: speed (0.75) kz control (0.85) [-0.8] score: -0.51",
+            "鬼谷子: recover (-0.8) kz poke (0.3) [-0.8] score: -0.192",
+            "鬼谷子: defense (0.68) kz poke (0.3) [0.4] score: 0.0816"
+        ],
+        "hot": 1.0
+    },
+    {
+        "name": "鲁班大师",
+        "kz_index_sum": -0.5224,
+        "reason": [
+            "鲁班大师: speed (0.65) kz control (0.85) [-0.8] score: -0.442",
+            "鲁班大师: recover (-0.8) kz poke (0.3) [-0.8] score: -0.192",
+            "鲁班大师: defense (0.93) kz poke (0.3) [0.4] score: 0.11160000000000002"
+        ],
+        "hot": 0.0
+    },
+    {
+        "name": "明世隐",
+        "kz_index_sum": 0.33320000000000005,
+        "reason": [
+            "明世隐: poke (0.3) kz recover (-0.8) [0.8] score: 0.192",
+            "明世隐: recover (0.65) kz defense (0.78) [0.4] score: 0.2028",
+            "明世隐: poke (0.3) kz defense (0.78) [-0.4] score: -0.0936",
+            "明世隐: speed (0.2) kz control (0.85) [-0.8] score: -0.136",
+            "明世隐: recover (0.65) kz poke (0.3) [0.4] score: 0.07800000000000001",
+            "明世隐: defense (0.75) kz poke (0.3) [0.4] score: 0.09"
+        ],
+        "hot": 4.0
+    },
+    {
+        "name": "桑启",
+        "kz_index_sum": 0.18239999999999995,
+        "reason": [
+            "桑启: poke (0.3) kz recover (-0.8) [0.8] score: 0.192",
+            "桑启: recover (0.95) kz defense (0.78) [0.4] score: 0.2964",
+            "桑启: poke (0.3) kz defense (0.78) [-0.4] score: -0.0936",
+            "桑启: speed (0.6) kz control (0.85) [-0.8] score: -0.40800000000000003",
+            "桑启: recover (0.95) kz poke (0.3) [0.4] score: 0.11399999999999999",
+            "桑启: defense (0.68) kz poke (0.3) [0.4] score: 0.0816"
+        ],
+        "hot": 1.0
+    },
+    {
+        "name": "瑶",
+        "kz_index_sum": 0.46040000000000014,
+        "reason": [
+            "瑶: poke (0.45) kz recover (-0.8) [0.8] score: 0.28800000000000003",
+            "瑶: recover (0.85) kz defense (0.78) [0.4] score: 0.26520000000000005",
+            "瑶: poke (0.45) kz defense (0.78) [-0.4] score: -0.14040000000000002",
+            "瑶: speed (0.2) kz control (0.85) [-0.8] score: -0.136",
+            "瑶: recover (0.85) kz poke (0.3) [0.4] score: 0.10200000000000001",
+            "瑶: defense (0.68) kz poke (0.3) [0.4] score: 0.0816"
+        ],
+        "hot": 2.0
+    },
+    {
+        "name": "芈月",
+        "kz_index_sum": 0.18632000000000004,
+        "reason": [
+            "芈月: recover (0.68) kz defense (0.78) [0.4] score: 0.21216000000000004",
+            "芈月: penetrate (0.49) kz defense (0.78) [0.8] score: 0.30576000000000003",
+            "芈月: speed (0.65) kz control (0.85) [-0.8] score: -0.442",
+            "芈月: recover (0.68) kz poke (0.3) [0.4] score: 0.0816",
+            "芈月: defense (0.24) kz poke (0.3) [0.4] score: 0.0288"
+        ],
+        "hot": 2.0
+    },
+    {
+        "name": "司空震",
+        "kz_index_sum": -0.14572000000000002,
+        "reason": [
+            "司空震: erupt (0.75) kz recover (-0.8) [0.4] score: 0.24000000000000005",
+            "司空震: poke (0.58) kz recover (-0.8) [0.8] score: 0.3712",
+            "司空震: recover (0.67) kz defense (0.78) [0.4] score: 0.20904000000000003",
+            "司空震: erupt (0.75) kz defense (0.78) [-0.6] score: -0.351",
+            "司空震: poke (0.58) kz defense (0.78) [-0.4] score: -0.18096",
+            "司空震: speed (0.79) kz control (0.85) [-0.8] score: -0.5372",
+            "司空震: recover (0.67) kz poke (0.3) [0.4] score: 0.08040000000000001",
+            "司空震: defense (0.19) kz poke (0.3) [0.4] score: 0.0228"
+        ],
+        "hot": 1.0
+    },
+    {
+        "name": "曜",
+        "kz_index_sum": -0.18932000000000004,
+        "reason": [
+            "曜: erupt (0.45) kz recover (-0.8) [0.4] score: 0.14400000000000002",
+            "曜: poke (0.32) kz recover (-0.8) [0.8] score: 0.2048",
+            "曜: recover (0.21) kz defense (0.78) [0.4] score: 0.06552000000000001",
+            "曜: erupt (0.45) kz defense (0.78) [-0.6] score: -0.2106",
+            "曜: penetrate (0.15) kz defense (0.78) [0.8] score: 0.0936",
+            "曜: poke (0.32) kz defense (0.78) [-0.4] score: -0.09984000000000001",
+            "曜: speed (0.68) kz control (0.85) [-0.8] score: -0.4624000000000001",
+            "曜: recover (0.21) kz poke (0.3) [0.4] score: 0.0252",
+            "曜: defense (0.42) kz poke (0.3) [0.4] score: 0.0504"
+        ],
+        "hot": 1.0
+    },
+    {
+        "name": "诸葛亮",
+        "kz_index_sum": -0.33387999999999984,
+        "reason": [
+            "诸葛亮: erupt (0.75) kz recover (-0.8) [0.4] score: 0.24000000000000005",
+            "诸葛亮: poke (0.65) kz recover (-0.8) [0.8] score: 0.41600000000000004",
+            "诸葛亮: recover (0.5) kz defense (0.78) [0.4] score: 0.15600000000000003",
+            "诸葛亮: erupt (0.75) kz defense (0.78) [-0.6] score: -0.351",
+            "诸葛亮: penetrate (0.08) kz defense (0.78) [0.8] score: 0.049920000000000006",
+            "诸葛亮: poke (0.65) kz defense (0.78) [-0.4] score: -0.2028",
+            "诸葛亮: speed (0.65) kz control (0.85) [-0.8] score: -0.442",
+            "诸葛亮: defense (-0.5) kz control (0.85) [-0.4] score: -0.17",
+            "诸葛亮: recover (0.5) kz poke (0.3) [0.4] score: 0.06",
+            "诸葛亮: defense (-0.5) kz poke (0.3) [-0.6] score: -0.09"
+        ],
+        "hot": 2.0
+    },
+    {
+        "name": "刘邦",
+        "kz_index_sum": -0.26,
+        "reason": [
+            "刘邦: speed (0.25) kz control (0.85) [-0.8] score: -0.17",
+            "刘邦: recover (-0.85) kz poke (0.3) [-0.8] score: -0.20400000000000001",
+            "刘邦: defense (0.95) kz poke (0.3) [0.4] score: 0.11399999999999999"
+        ],
+        "hot": 3.0
+    },
+    {
+        "name": "项羽",
+        "kz_index_sum": -0.17244,
+        "reason": [
+            "项羽: erupt (0.63) kz recover (-0.8) [0.4] score: 0.2016",
+            "项羽: erupt (0.63) kz defense (0.78) [-0.6] score: -0.29484",
+            "项羽: recover (-0.81) kz poke (0.3) [-0.8] score: -0.19440000000000002",
+            "项羽: defense (0.96) kz poke (0.3) [0.4] score: 0.1152"
+        ],
+        "hot": 3.0
+    },
+    {
+        "name": "橘右京",
+        "kz_index_sum": 0.05104000000000013,
+        "reason": [
+            "橘右京: erupt (0.78) kz recover (-0.8) [0.4] score: 0.24960000000000004",
+            "橘右京: poke (0.38) kz recover (-0.8) [0.8] score: 0.24320000000000006",
+            "橘右京: recover (0.65) kz defense (0.78) [0.4] score: 0.2028",
+            "橘右京: erupt (0.78) kz defense (0.78) [-0.6] score: -0.36504000000000003",
+            "橘右京: penetrate (0.21) kz defense (0.78) [0.8] score: 0.13104000000000002",
+            "橘右京: poke (0.38) kz defense (0.78) [-0.4] score: -0.11856",
+            "橘右京: speed (0.65) kz control (0.85) [-0.8] score: -0.442",
+            "橘右京: recover (0.65) kz poke (0.3) [0.4] score: 0.07800000000000001",
+            "橘右京: defense (0.6) kz poke (0.3) [0.4] score: 0.072"
+        ],
+        "hot": 1.0
+    },
+    {
+        "name": "廉颇",
+        "kz_index_sum": -0.28068,
+        "reason": [
+            "廉颇: erupt (0.21) kz recover (-0.8) [0.4] score: 0.06720000000000001",
+            "廉颇: erupt (0.21) kz defense (0.78) [-0.6] score: -0.09827999999999999",
+            "廉颇: speed (0.21) kz control (0.85) [-0.8] score: -0.1428",
+            "廉颇: recover (-0.9) kz poke (0.3) [-0.8] score: -0.21600000000000003",
+            "廉颇: defense (0.91) kz poke (0.3) [0.4] score: 0.10920000000000002"
+        ],
+        "hot": 2.0
+    }
+]

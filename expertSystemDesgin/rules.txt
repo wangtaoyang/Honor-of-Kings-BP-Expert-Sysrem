@@ -1,66 +1,66 @@
 rule1:
 if recover = low then 
-erupt = high (0.3)
+erupt = high (0.4)
 
 rule2:
 if recover = low then 
-poke = high (0.9)
+poke = high (0.8)
 
 rule3:
 if recover = high then 
-defense = high (-0.6)
+defense = high (-0.4)
 
 rule4:
 if recover = high then 
-erupt = high (-0.3)
+erupt = high (-0.4)
 
 rule5:
 if recover = high then 
-poke = high (-0.9)
+poke = high (-0.4)
 
 rule6:
 if defense = low then 
-erupt = high (0.9)
+erupt = high (0.8)
 
 rule7:
 if defense = low then 
-control = high (0.3)
+control = high (0.4)
 
 rule8:
 if defense = low then 
-poke = high (0.3)
+poke = high (0.6)
 
 rule9:
 if defense = high then 
-recover = high (0.6)
+recover = high (0.4)
 
 rule10:
 if defense = high then 
-erupt = high (-0.3)
+erupt = high (-0.6)
 
 rule11:
 if defense = high then 
-penetrate = high (0.9)
+penetrate = high (0.8)
 
 rule12:
 if defense = high then 
-poke = high (-0.3)
+poke = high (-0.4)
 
 rule13:
 if erupt = high then 
-recover = low (-0.3)
+recover = low (-0.4)
 
 rule14:
 if erupt = high then 
-recover = high (0.3)
+recover = high (0.4)
 
 rule15:
 if erupt = high then 
-defense = high (0.3)
+defense = high (0.6)
 
 rule16:
 if erupt = high then 
-defense = low (-0.9)
+defense = low (-0.8)
 
 rule17:
 if erupt = high then 
@@ -68,37 +68,37 @@ speed = low (-0.6)
 
 rule18:
 if penetrate = high then 
-defense = high (-0.9)
+defense = high (-1)
 
 rule19:
 if penetrate = low then 
-defense = high (0.9)
+defense = high (1)
 
 rule20:
 if control = low then 
-speed = high (0.9)
+speed = high (0.8)
 
 rule21:
 if control = high then 
-speed = high (-0.9)
+speed = high (-0.8)
 
 rule22:
 if control = high then 
-defense = low (-0.3)
+defense = low (-0.4)
 
 rule23:
 if poke = high then 
-recover = low (-0.9)
+recover = low (-0.8)
 
 rule24:
 if poke = high then 
-recover = high (0.9)
+recover = high (0.4)
 
 rule25:
 if poke = high then 
-defense = low (-0.3)
+defense = low (-0.6)
 
 rule26:
 if poke = high then 
-defense = high (0.3)
+defense = high (0.4)
 

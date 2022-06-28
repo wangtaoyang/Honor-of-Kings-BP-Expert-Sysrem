@@ -1,0 +1,1906 @@
+[
+    {
+        "name": "°×Æğ",
+        "kz_index_sum": 0.31926,
+        "reason": [
+            "°×Æğ: defense (0.95) kz recover (0.23) [-0.4] score: -0.0874",
+            "°×Æğ: erupt (0.46) kz recover (0.23) [-0.4] score: -0.04232",
+            "°×Æğ: recover (0.75) kz defense (0.15) [0.4] score: 0.045",
+            "°×Æğ: erupt (0.46) kz defense (0.15) [-0.6] score: -0.0414",
+            "°×Æğ: recover (0.75) kz erupt (0.31) [0.4] score: 0.093",
+            "°×Æğ: defense (0.95) kz erupt (0.31) [0.6] score: 0.1767",
+            "°×Æğ: speed (-0.72) kz erupt (0.31) [-0.6] score: -0.13391999999999998",
+            "°×Æğ: defense (0.95) kz penetrate (-0.24) [1] score: 0.22799999999999998",
+            "°×Æğ: recover (0.75) kz poke (0.12) [0.4] score: 0.036",
+            "°×Æğ: defense (0.95) kz poke (0.12) [0.4] score: 0.0456"
+        ],
+        "hot": 2.0
+    },
+    {
+        "name": "³ÌÒ§½ğ",
+        "kz_index_sum": 0.56014,
+        "reason": [
+            "³ÌÒ§½ğ: defense (0.89) kz recover (0.23) [-0.4] score: -0.08188000000000001",
+            "³ÌÒ§½ğ: recover (0.98) kz defense (0.15) [0.4] score: 0.0588",
+            "³ÌÒ§½ğ: recover (0.98) kz erupt (0.31) [0.4] score: 0.12152000000000002",
+            "³ÌÒ§½ğ: defense (0.89) kz erupt (0.31) [0.6] score: 0.16554",
+            "³ÌÒ§½ğ: defense (0.89) kz penetrate (-0.24) [1] score: 0.21359999999999998",
+            "³ÌÒ§½ğ: speed (0.02) kz control (0.45) [-0.8] score: -0.0072000000000000015",
+            "³ÌÒ§½ğ: recover (0.98) kz poke (0.12) [0.4] score: 0.04704",
+            "³ÌÒ§½ğ: defense (0.89) kz poke (0.12) [0.4] score: 0.04272"
+        ],
+        "hot": 3.0
+    },
+    {
+        "name": "´ïÄ¦",
+        "kz_index_sum": 0.004759999999999924,
+        "reason": [
+            "´ïÄ¦: defense (0.57) kz recover (0.23) [-0.4] score: -0.05244",
+            "´ïÄ¦: erupt (0.79) kz recover (0.23) [-0.4] score: -0.07268000000000001",
+            "´ïÄ¦: recover (0.4) kz defense (0.15) [0.4] score: 0.024",
+            "´ïÄ¦: erupt (0.79) kz defense (0.15) [-0.6] score: -0.0711",
+            "´ïÄ¦: recover (0.4) kz erupt (0.31) [0.4] score: 0.049600000000000005",
+            "´ïÄ¦: defense (0.57) kz erupt (0.31) [0.6] score: 0.10601999999999999",
+            "´ïÄ¦: defense (0.57) kz penetrate (-0.24) [1] score: 0.13679999999999998",
+            "´ïÄ¦: speed (0.45) kz control (0.45) [-0.8] score: -0.16200000000000003",
+            "´ïÄ¦: recover (0.4) kz poke (0.12) [0.4] score: 0.019200000000000002",
+            "´ïÄ¦: defense (0.57) kz poke (0.12) [0.4] score: 0.027359999999999995"
+        ],
+        "hot": 4.0
+    },
+    {
+        "name": "îø",
+        "kz_index_sum": 0.2581199999999999,
+        "reason": [
+            "îø: defense (0.72) kz recover (0.23) [-0.4] score: -0.06624000000000001",
+            "îø: erupt (0.74) kz recover (0.23) [-0.4] score: -0.06808000000000002",
+            "îø: poke (0.23) kz recover (0.23) [-0.4] score: -0.02116",
+            "îø: recover (0.71) kz defense (0.15) [0.4] score: 0.0426",
+            "îø: erupt (0.74) kz defense (0.15) [-0.6] score: -0.06659999999999999",
+            "îø: penetrate (0.17) kz defense (0.15) [0.8] score: 0.0204",
+            "îø: poke (0.23) kz defense (0.15) [-0.4] score: -0.013800000000000002",
+            "îø: recover (0.71) kz erupt (0.31) [0.4] score: 0.08804000000000001",
+            "îø: defense (0.72) kz erupt (0.31) [0.6] score: 0.13391999999999998",
+            "îø: defense (0.72) kz penetrate (-0.24) [1] score: 0.17279999999999998",
+            "îø: speed (0.09) kz control (0.45) [-0.8] score: -0.032400000000000005",
+            "îø: recover (0.71) kz poke (0.12) [0.4] score: 0.03408",
+            "îø: defense (0.72) kz poke (0.12) [0.4] score: 0.03456"
+        ],
+        "hot": 2.0
+    },
+    {
+        "name": "ÂÀ²¼",
+        "kz_index_sum": 0.33021999999999996,
+        "reason": [
+            "ÂÀ²¼: defense (0.71) kz recover (0.23) [-0.4] score: -0.06532",
+            "ÂÀ²¼: erupt (0.54) kz recover (0.23) [-0.4] score: -0.04968000000000001",
+            "ÂÀ²¼: recover (0.62) kz defense (0.15) [0.4] score: 0.037200000000000004",
+            "ÂÀ²¼: erupt (0.54) kz defense (0.15) [-0.6] score: -0.0486",
+            "ÂÀ²¼: penetrate (0.98) kz defense (0.15) [0.8] score: 0.1176",
+            "ÂÀ²¼: recover (0.62) kz erupt (0.31) [0.4] score: 0.07688",
+            "ÂÀ²¼: defense (0.71) kz erupt (0.31) [0.6] score: 0.13205999999999998",
+            "ÂÀ²¼: speed (-0.56) kz erupt (0.31) [-0.6] score: -0.10416",
+            "ÂÀ²¼: defense (0.71) kz penetrate (-0.24) [1] score: 0.1704",
+            "ÂÀ²¼: recover (0.62) kz poke (0.12) [0.4] score: 0.029759999999999998",
+            "ÂÀ²¼: defense (0.71) kz poke (0.12) [0.4] score: 0.03408"
+        ],
+        "hot": 1.0
+    },
+    {
+        "name": "ÃÉÌñ",
+        "kz_index_sum": 0.33286000000000004,
+        "reason": [
+            "ÃÉÌñ: defense (0.87) kz recover (0.23) [-0.4] score: -0.08004",
+            "ÃÉÌñ: erupt (0.69) kz recover (0.23) [-0.4] score: -0.06348000000000001",
+            "ÃÉÌñ: recover (0.7) kz defense (0.15) [0.4] score: 0.042",
+            "ÃÉÌñ: erupt (0.69) kz defense (0.15) [-0.6] score: -0.062099999999999995",
+            "ÃÉÌñ: penetrate (0.24) kz defense (0.15) [0.8] score: 0.0288",
+            "ÃÉÌñ: recover (0.7) kz erupt (0.31) [0.4] score: 0.0868",
+            "ÃÉÌñ: defense (0.87) kz erupt (0.31) [0.6] score: 0.16182",
+            "ÃÉÌñ: speed (-0.35) kz erupt (0.31) [-0.6] score: -0.06509999999999999",
+            "ÃÉÌñ: defense (0.87) kz penetrate (-0.24) [1] score: 0.20879999999999999",
+            "ÃÉÌñ: recover (0.7) kz poke (0.12) [0.4] score: 0.0336",
+            "ÃÉÌñ: defense (0.87) kz poke (0.12) [0.4] score: 0.04176"
+        ],
+        "hot": 1.0
+    },
+    {
+        "name": "Ëï²ß",
+        "kz_index_sum": -0.02010000000000005,
+        "reason": [
+            "Ëï²ß: defense (0.57) kz recover (0.23) [-0.4] score: -0.05244",
+            "Ëï²ß: erupt (0.72) kz recover (0.23) [-0.4] score: -0.06624000000000001",
+            "Ëï²ß: recover (0.3) kz defense (0.15) [0.4] score: 0.018",
+            "Ëï²ß: erupt (0.72) kz defense (0.15) [-0.6] score: -0.0648",
+            "Ëï²ß: recover (0.3) kz erupt (0.31) [0.4] score: 0.037200000000000004",
+            "Ëï²ß: defense (0.57) kz erupt (0.31) [0.6] score: 0.10601999999999999",
+            "Ëï²ß: defense (0.57) kz penetrate (-0.24) [1] score: 0.13679999999999998",
+            "Ëï²ß: speed (0.49) kz control (0.45) [-0.8] score: -0.1764",
+            "Ëï²ß: recover (0.3) kz poke (0.12) [0.4] score: 0.0144",
+            "Ëï²ß: defense (0.57) kz poke (0.12) [0.4] score: 0.027359999999999995"
+        ],
+        "hot": 2.0
+    },
+    {
+        "name": "ÏÄºîª",
+        "kz_index_sum": 0.49818,
+        "reason": [
+            "ÏÄºîª: defense (0.91) kz recover (0.23) [-0.4] score: -0.08372000000000002",
+            "ÏÄºîª: recover (0.68) kz defense (0.15) [0.4] score: 0.0408",
+            "ÏÄºîª: penetrate (0.21) kz defense (0.15) [0.8] score: 0.0252",
+            "ÏÄºîª: recover (0.68) kz erupt (0.31) [0.4] score: 0.08432",
+            "ÏÄºîª: defense (0.91) kz erupt (0.31) [0.6] score: 0.16926",
+            "ÏÄºîª: defense (0.91) kz penetrate (-0.24) [1] score: 0.2184",
+            "ÏÄºîª: speed (0.09) kz control (0.45) [-0.8] score: -0.032400000000000005",
+            "ÏÄºîª: recover (0.68) kz poke (0.12) [0.4] score: 0.03264",
+            "ÏÄºîª: defense (0.91) kz poke (0.12) [0.4] score: 0.043680000000000004"
+        ],
+        "hot": 2.0
+    },
+    {
+        "name": "ÑÇÉª",
+        "kz_index_sum": 0.28916,
+        "reason": [
+            "ÑÇÉª: defense (0.7) kz recover (0.23) [-0.4] score: -0.0644",
+            "ÑÇÉª: recover (0.58) kz defense (0.15) [0.4] score: 0.0348",
+            "ÑÇÉª: penetrate (0.08) kz defense (0.15) [0.8] score: 0.009600000000000001",
+            "ÑÇÉª: recover (0.58) kz erupt (0.31) [0.4] score: 0.07192",
+            "ÑÇÉª: defense (0.7) kz erupt (0.31) [0.6] score: 0.13019999999999998",
+            "ÑÇÉª: defense (0.7) kz penetrate (-0.24) [1] score: 0.16799999999999998",
+            "ÑÇÉª: speed (0.34) kz control (0.45) [-0.8] score: -0.12240000000000002",
+            "ÑÇÉª: recover (0.58) kz poke (0.12) [0.4] score: 0.02784",
+            "ÑÇÉª: defense (0.7) kz poke (0.12) [0.4] score: 0.0336"
+        ],
+        "hot": 4.0
+    },
+    {
+        "name": "ÖÓÎŞÑŞ",
+        "kz_index_sum": -0.07321999999999998,
+        "reason": [
+            "ÖÓÎŞÑŞ: defense (0.66) kz recover (0.23) [-0.4] score: -0.06072000000000001",
+            "ÖÓÎŞÑŞ: erupt (0.47) kz recover (0.23) [-0.4] score: -0.04324",
+            "ÖÓÎŞÑŞ: erupt (0.47) kz defense (0.15) [-0.6] score: -0.0423",
+            "ÖÓÎŞÑŞ: penetrate (0.08) kz defense (0.15) [0.8] score: 0.009600000000000001",
+            "ÖÓÎŞÑŞ: recover (-0.79) kz erupt (0.31) [-0.4] score: -0.09796",
+            "ÖÓÎŞÑŞ: defense (0.66) kz erupt (0.31) [0.6] score: 0.12276",
+            "ÖÓÎŞÑŞ: defense (0.66) kz penetrate (-0.24) [1] score: 0.1584",
+            "ÖÓÎŞÑŞ: speed (0.21) kz control (0.45) [-0.8] score: -0.0756",
+            "ÖÓÎŞÑŞ: recover (-0.79) kz poke (0.12) [-0.8] score: -0.07584",
+            "ÖÓÎŞÑŞ: defense (0.66) kz poke (0.12) [0.4] score: 0.03168000000000001"
+        ],
+        "hot": 3.0
+    },
+    {
+        "name": "Öí°Ë½ä",
+        "kz_index_sum": 0.4212999999999999,
+        "reason": [
+            "Öí°Ë½ä: defense (0.95) kz recover (0.23) [-0.4] score: -0.0874",
+            "Öí°Ë½ä: recover (0.95) kz defense (0.15) [0.4] score: 0.056999999999999995",
+            "Öí°Ë½ä: recover (0.95) kz erupt (0.31) [0.4] score: 0.1178",
+            "Öí°Ë½ä: defense (0.95) kz erupt (0.31) [0.6] score: 0.1767",
+            "Öí°Ë½ä: defense (0.95) kz penetrate (-0.24) [1] score: 0.22799999999999998",
+            "Öí°Ë½ä: speed (0.45) kz control (0.45) [-0.8] score: -0.16200000000000003",
+            "Öí°Ë½ä: recover (0.95) kz poke (0.12) [0.4] score: 0.0456",
+            "Öí°Ë½ä: defense (0.95) kz poke (0.12) [0.4] score: 0.0456"
+        ],
+        "hot": 1.0
+    },
+    {
+        "name": "²Ü²Ù",
+        "kz_index_sum": 0.18902000000000002,
+        "reason": [
+            "²Ü²Ù: defense (0.63) kz recover (0.23) [-0.4] score: -0.057960000000000005",
+            "²Ü²Ù: erupt (0.58) kz recover (0.23) [-0.4] score: -0.05336",
+            "²Ü²Ù: poke (0.08) kz recover (0.23) [-0.4] score: -0.00736",
+            "²Ü²Ù: recover (0.89) kz defense (0.15) [0.4] score: 0.0534",
+            "²Ü²Ù: erupt (0.58) kz defense (0.15) [-0.6] score: -0.052199999999999996",
+            "²Ü²Ù: poke (0.08) kz defense (0.15) [-0.4] score: -0.0048000000000000004",
+            "²Ü²Ù: recover (0.89) kz erupt (0.31) [0.4] score: 0.11036",
+            "²Ü²Ù: defense (0.63) kz erupt (0.31) [0.6] score: 0.11717999999999999",
+            "²Ü²Ù: defense (0.63) kz penetrate (-0.24) [1] score: 0.1512",
+            "²Ü²Ù: speed (0.39) kz control (0.45) [-0.8] score: -0.14040000000000002",
+            "²Ü²Ù: recover (0.89) kz poke (0.12) [0.4] score: 0.04272",
+            "²Ü²Ù: defense (0.63) kz poke (0.12) [0.4] score: 0.030240000000000003"
+        ],
+        "hot": 2.0
+    },
+    {
+        "name": "¹ØÓğ",
+        "kz_index_sum": -0.31714000000000014,
+        "reason": [
+            "¹ØÓğ: defense (0.66) kz recover (0.23) [-0.4] score: -0.06072000000000001",
+            "¹ØÓğ: erupt (0.43) kz recover (0.23) [-0.4] score: -0.039560000000000005",
+            "¹ØÓğ: poke (0.55) kz recover (0.23) [-0.4] score: -0.05060000000000001",
+            "¹ØÓğ: erupt (0.43) kz defense (0.15) [-0.6] score: -0.0387",
+            "¹ØÓğ: penetrate (0.07) kz defense (0.15) [0.8] score: 0.008400000000000001",
+            "¹ØÓğ: poke (0.55) kz defense (0.15) [-0.4] score: -0.033",
+            "¹ØÓğ: recover (-0.45) kz erupt (0.31) [-0.4] score: -0.05580000000000001",
+            "¹ØÓğ: defense (0.66) kz erupt (0.31) [0.6] score: 0.12276",
+            "¹ØÓğ: defense (0.66) kz penetrate (-0.24) [1] score: 0.1584",
+            "¹ØÓğ: speed (0.88) kz control (0.45) [-0.8] score: -0.3168",
+            "¹ØÓğ: recover (-0.45) kz poke (0.12) [-0.8] score: -0.0432",
+            "¹ØÓğ: defense (0.66) kz poke (0.12) [0.4] score: 0.03168000000000001"
+        ],
+        "hot": 1.0
+    },
+    {
+        "name": "»¨Ä¾À¼",
+        "kz_index_sum": -0.33286000000000004,
+        "reason": [
+            "»¨Ä¾À¼: defense (0.68) kz recover (0.23) [-0.4] score: -0.06256",
+            "»¨Ä¾À¼: erupt (0.91) kz recover (0.23) [-0.4] score: -0.08372000000000002",
+            "»¨Ä¾À¼: poke (0.45) kz recover (0.23) [-0.4] score: -0.041400000000000006",
+            "»¨Ä¾À¼: erupt (0.91) kz defense (0.15) [-0.6] score: -0.0819",
+            "»¨Ä¾À¼: penetrate (0.21) kz defense (0.15) [0.8] score: 0.0252",
+            "»¨Ä¾À¼: poke (0.45) kz defense (0.15) [-0.4] score: -0.027000000000000003",
+            "»¨Ä¾À¼: recover (-0.91) kz erupt (0.31) [-0.4] score: -0.11284000000000001",
+            "»¨Ä¾À¼: defense (0.68) kz erupt (0.31) [0.6] score: 0.12648",
+            "»¨Ä¾À¼: defense (0.68) kz penetrate (-0.24) [1] score: 0.1632",
+            "»¨Ä¾À¼: speed (0.51) kz control (0.45) [-0.8] score: -0.1836",
+            "»¨Ä¾À¼: recover (-0.91) kz poke (0.12) [-0.8] score: -0.08736000000000001",
+            "»¨Ä¾À¼: defense (0.68) kz poke (0.12) [0.4] score: 0.03264"
+        ],
+        "hot": 0.0
+    },
+    {
+        "name": "¿ñÌú",
+        "kz_index_sum": 0.25726,
+        "reason": [
+            "¿ñÌú: defense (0.54) kz recover (0.23) [-0.4] score: -0.04968000000000001",
+            "¿ñÌú: erupt (0.69) kz recover (0.23) [-0.4] score: -0.06348000000000001",
+            "¿ñÌú: recover (0.88) kz defense (0.15) [0.4] score: 0.05280000000000001",
+            "¿ñÌú: erupt (0.69) kz defense (0.15) [-0.6] score: -0.062099999999999995",
+            "¿ñÌú: penetrate (0.22) kz defense (0.15) [0.8] score: 0.026400000000000003",
+            "¿ñÌú: recover (0.88) kz erupt (0.31) [0.4] score: 0.10912",
+            "¿ñÌú: defense (0.54) kz erupt (0.31) [0.6] score: 0.10044000000000002",
+            "¿ñÌú: defense (0.54) kz penetrate (-0.24) [1] score: 0.1296",
+            "¿ñÌú: speed (0.15) kz control (0.45) [-0.8] score: -0.054000000000000006",
+            "¿ñÌú: recover (0.88) kz poke (0.12) [0.4] score: 0.04224",
+            "¿ñÌú: defense (0.54) kz poke (0.12) [0.4] score: 0.02592"
+        ],
+        "hot": 2.0
+    },
+    {
+        "name": "ÀÏ·ò×Ó",
+        "kz_index_sum": 0.48997999999999997,
+        "reason": [
+            "ÀÏ·ò×Ó: defense (0.92) kz recover (0.23) [-0.4] score: -0.08464",
+            "ÀÏ·ò×Ó: recover (0.33) kz defense (0.15) [0.4] score: 0.0198",
+            "ÀÏ·ò×Ó: penetrate (0.78) kz defense (0.15) [0.8] score: 0.0936",
+            "ÀÏ·ò×Ó: recover (0.33) kz erupt (0.31) [0.4] score: 0.040920000000000005",
+            "ÀÏ·ò×Ó: defense (0.92) kz erupt (0.31) [0.6] score: 0.17112",
+            "ÀÏ·ò×Ó: speed (-0.17) kz erupt (0.31) [-0.6] score: -0.03162",
+            "ÀÏ·ò×Ó: defense (0.92) kz penetrate (-0.24) [1] score: 0.2208",
+            "ÀÏ·ò×Ó: recover (0.33) kz poke (0.12) [0.4] score: 0.015840000000000003",
+            "ÀÏ·ò×Ó: defense (0.92) kz poke (0.12) [0.4] score: 0.044160000000000005"
+        ],
+        "hot": 0.5
+    },
+    {
+        "name": "ÀîĞÅ",
+        "kz_index_sum": -0.0024999999999999883,
+        "reason": [
+            "ÀîĞÅ: defense (0.56) kz recover (0.23) [-0.4] score: -0.05152000000000001",
+            "ÀîĞÅ: erupt (0.75) kz recover (0.23) [-0.4] score: -0.069",
+            "ÀîĞÅ: poke (0.59) kz recover (0.23) [-0.4] score: -0.054279999999999995",
+            "ÀîĞÅ: recover (0.43) kz defense (0.15) [0.4] score: 0.025800000000000003",
+            "ÀîĞÅ: erupt (0.75) kz defense (0.15) [-0.6] score: -0.06749999999999999",
+            "ÀîĞÅ: poke (0.59) kz defense (0.15) [-0.4] score: -0.0354",
+            "ÀîĞÅ: recover (0.43) kz erupt (0.31) [0.4] score: 0.053320000000000006",
+            "ÀîĞÅ: defense (0.56) kz erupt (0.31) [0.6] score: 0.10416",
+            "ÀîĞÅ: defense (0.56) kz penetrate (-0.24) [1] score: 0.13440000000000002",
+            "ÀîĞÅ: speed (0.25) kz control (0.45) [-0.8] score: -0.09000000000000001",
+            "ÀîĞÅ: recover (0.43) kz poke (0.12) [0.4] score: 0.020640000000000002",
+            "ÀîĞÅ: defense (0.56) kz poke (0.12) [0.4] score: 0.026880000000000005"
+        ],
+        "hot": 2.0
+    },
+    {
+        "name": "Âí³¬",
+        "kz_index_sum": -0.25026000000000004,
+        "reason": [
+            "Âí³¬: defense (0.38) kz recover (0.23) [-0.4] score: -0.034960000000000005",
+            "Âí³¬: erupt (0.57) kz recover (0.23) [-0.4] score: -0.05244",
+            "Âí³¬: poke (0.43) kz recover (0.23) [-0.4] score: -0.039560000000000005",
+            "Âí³¬: recover (0.39) kz defense (0.15) [0.4] score: 0.0234",
+            "Âí³¬: erupt (0.57) kz defense (0.15) [-0.6] score: -0.05129999999999999",
+            "Âí³¬: penetrate (0.09) kz defense (0.15) [0.8] score: 0.0108",
+            "Âí³¬: poke (0.43) kz defense (0.15) [-0.4] score: -0.025800000000000003",
+            "Âí³¬: recover (0.39) kz erupt (0.31) [0.4] score: 0.04836000000000001",
+            "Âí³¬: defense (0.38) kz erupt (0.31) [0.6] score: 0.07067999999999999",
+            "Âí³¬: defense (0.38) kz penetrate (-0.24) [1] score: 0.0912",
+            "Âí³¬: speed (0.91) kz control (0.45) [-0.8] score: -0.32760000000000006",
+            "Âí³¬: recover (0.39) kz poke (0.12) [0.4] score: 0.01872",
+            "Âí³¬: defense (0.38) kz poke (0.12) [0.4] score: 0.018240000000000003"
+        ],
+        "hot": 1.0
+    },
+    {
+        "name": "ÃÎÆæ",
+        "kz_index_sum": 0.06369999999999995,
+        "reason": [
+            "ÃÎÆæ: defense (0.59) kz recover (0.23) [-0.4] score: -0.054279999999999995",
+            "ÃÎÆæ: poke (0.85) kz recover (0.23) [-0.4] score: -0.0782",
+            "ÃÎÆæ: recover (0.31) kz defense (0.15) [0.4] score: 0.018600000000000002",
+            "ÃÎÆæ: penetrate (0.15) kz defense (0.15) [0.8] score: 0.018",
+            "ÃÎÆæ: poke (0.85) kz defense (0.15) [-0.4] score: -0.051000000000000004",
+            "ÃÎÆæ: recover (0.31) kz erupt (0.31) [0.4] score: 0.03844",
+            "ÃÎÆæ: defense (0.59) kz erupt (0.31) [0.6] score: 0.10973999999999999",
+            "ÃÎÆæ: defense (0.59) kz penetrate (-0.24) [1] score: 0.14159999999999998",
+            "ÃÎÆæ: speed (0.34) kz control (0.45) [-0.8] score: -0.12240000000000002",
+            "ÃÎÆæ: recover (0.31) kz poke (0.12) [0.4] score: 0.014879999999999999",
+            "ÃÎÆæ: defense (0.59) kz poke (0.12) [0.4] score: 0.028319999999999998"
+        ],
+        "hot": 1.0
+    },
+    {
+        "name": "ÄÄß¸",
+        "kz_index_sum": -0.2546800000000001,
+        "reason": [
+            "ÄÄß¸: defense (0.65) kz recover (0.23) [-0.4] score: -0.05980000000000001",
+            "ÄÄß¸: erupt (0.39) kz recover (0.23) [-0.4] score: -0.03588",
+            "ÄÄß¸: erupt (0.39) kz defense (0.15) [-0.6] score: -0.0351",
+            "ÄÄß¸: penetrate (0.6) kz defense (0.15) [0.8] score: 0.072",
+            "ÄÄß¸: recover (-0.9) kz erupt (0.31) [-0.4] score: -0.11160000000000002",
+            "ÄÄß¸: defense (0.65) kz erupt (0.31) [0.6] score: 0.12090000000000001",
+            "ÄÄß¸: defense (0.65) kz penetrate (-0.24) [1] score: 0.156",
+            "ÄÄß¸: speed (0.85) kz control (0.45) [-0.8] score: -0.30600000000000005",
+            "ÄÄß¸: recover (-0.9) kz poke (0.12) [-0.8] score: -0.0864",
+            "ÄÄß¸: defense (0.65) kz poke (0.12) [0.4] score: 0.031200000000000002"
+        ],
+        "hot": 3.0
+    },
+    {
+        "name": "ÏÄÂåÌØ",
+        "kz_index_sum": 0.02873999999999998,
+        "reason": [
+            "ÏÄÂåÌØ: defense (0.66) kz recover (0.23) [-0.4] score: -0.06072000000000001",
+            "ÏÄÂåÌØ: erupt (0.11) kz recover (0.23) [-0.4] score: -0.01012",
+            "ÏÄÂåÌØ: poke (0.34) kz recover (0.23) [-0.4] score: -0.03128",
+            "ÏÄÂåÌØ: recover (0.51) kz defense (0.15) [0.4] score: 0.030600000000000002",
+            "ÏÄÂåÌØ: erupt (0.11) kz defense (0.15) [-0.6] score: -0.0099",
+            "ÏÄÂåÌØ: poke (0.34) kz defense (0.15) [-0.4] score: -0.0204",
+            "ÏÄÂåÌØ: recover (0.51) kz erupt (0.31) [0.4] score: 0.06324",
+            "ÏÄÂåÌØ: defense (0.66) kz erupt (0.31) [0.6] score: 0.12276",
+            "ÏÄÂåÌØ: defense (0.66) kz penetrate (-0.24) [1] score: 0.1584",
+            "ÏÄÂåÌØ: speed (0.75) kz control (0.45) [-0.8] score: -0.27",
+            "ÏÄÂåÌØ: recover (0.51) kz poke (0.12) [0.4] score: 0.024480000000000002",
+            "ÏÄÂåÌØ: defense (0.66) kz poke (0.12) [0.4] score: 0.03168000000000001"
+        ],
+        "hot": 0.5
+    },
+    {
+        "name": "Ñîê¯",
+        "kz_index_sum": 0.17117999999999994,
+        "reason": [
+            "Ñîê¯: defense (0.46) kz recover (0.23) [-0.4] score: -0.04232",
+            "Ñîê¯: erupt (0.45) kz recover (0.23) [-0.4] score: -0.041400000000000006",
+            "Ñîê¯: poke (0.09) kz recover (0.23) [-0.4] score: -0.008280000000000001",
+            "Ñîê¯: recover (0.77) kz defense (0.15) [0.4] score: 0.0462",
+            "Ñîê¯: erupt (0.45) kz defense (0.15) [-0.6] score: -0.0405",
+            "Ñîê¯: penetrate (0.29) kz defense (0.15) [0.8] score: 0.0348",
+            "Ñîê¯: poke (0.09) kz defense (0.15) [-0.4] score: -0.0054",
+            "Ñîê¯: recover (0.77) kz erupt (0.31) [0.4] score: 0.09548000000000001",
+            "Ñîê¯: defense (0.46) kz erupt (0.31) [0.6] score: 0.08556",
+            "Ñîê¯: defense (0.46) kz penetrate (-0.24) [1] score: 0.1104",
+            "Ñîê¯: speed (0.34) kz control (0.45) [-0.8] score: -0.12240000000000002",
+            "Ñîê¯: recover (0.77) kz poke (0.12) [0.4] score: 0.03696",
+            "Ñîê¯: defense (0.46) kz poke (0.12) [0.4] score: 0.022080000000000002"
+        ],
+        "hot": 2.0
+    },
+    {
+        "name": "Ôª¸è",
+        "kz_index_sum": -1.1841000000000002,
+        "reason": [
+            "Ôª¸è: erupt (0.95) kz recover (0.23) [-0.4] score: -0.0874",
+            "Ôª¸è: poke (0.7) kz recover (0.23) [-0.4] score: -0.0644",
+            "Ôª¸è: erupt (0.95) kz defense (0.15) [-0.6] score: -0.08549999999999999",
+            "Ôª¸è: penetrate (0.56) kz defense (0.15) [0.8] score: 0.06720000000000001",
+            "Ôª¸è: poke (0.7) kz defense (0.15) [-0.4] score: -0.042",
+            "Ôª¸è: recover (-0.9) kz erupt (0.31) [-0.4] score: -0.11160000000000002",
+            "Ôª¸è: defense (-0.9) kz erupt (0.31) [-0.8] score: -0.22320000000000004",
+            "Ôª¸è: speed (0.9) kz control (0.45) [-0.8] score: -0.32400000000000007",
+            "Ôª¸è: defense (-0.9) kz control (0.45) [-0.4] score: -0.16200000000000003",
+            "Ôª¸è: recover (-0.9) kz poke (0.12) [-0.8] score: -0.0864",
+            "Ôª¸è: defense (-0.9) kz poke (0.12) [-0.6] score: -0.0648"
+        ],
+        "hot": 1.0
+    },
+    {
+        "name": "°¢¹Å¶ä",
+        "kz_index_sum": 0.3498,
+        "reason": [
+            "°¢¹Å¶ä: defense (0.6) kz recover (0.23) [-0.4] score: -0.055200000000000006",
+            "°¢¹Å¶ä: recover (0.6) kz defense (0.15) [0.4] score: 0.036",
+            "°¢¹Å¶ä: recover (0.6) kz erupt (0.31) [0.4] score: 0.07440000000000001",
+            "°¢¹Å¶ä: defense (0.6) kz erupt (0.31) [0.6] score: 0.11159999999999999",
+            "°¢¹Å¶ä: speed (-0.1) kz erupt (0.31) [-0.6] score: -0.0186",
+            "°¢¹Å¶ä: defense (0.6) kz penetrate (-0.24) [1] score: 0.144",
+            "°¢¹Å¶ä: recover (0.6) kz poke (0.12) [0.4] score: 0.0288",
+            "°¢¹Å¶ä: defense (0.6) kz poke (0.12) [0.4] score: 0.0288"
+        ],
+        "hot": 3.0
+    },
+    {
+        "name": "µäÎ¤",
+        "kz_index_sum": 0.2512,
+        "reason": [
+            "µäÎ¤: defense (0.61) kz recover (0.23) [-0.4] score: -0.05612",
+            "µäÎ¤: erupt (0.61) kz recover (0.23) [-0.4] score: -0.05612",
+            "µäÎ¤: recover (0.65) kz defense (0.15) [0.4] score: 0.03900000000000001",
+            "µäÎ¤: erupt (0.61) kz defense (0.15) [-0.6] score: -0.0549",
+            "µäÎ¤: penetrate (0.51) kz defense (0.15) [0.8] score: 0.061200000000000004",
+            "µäÎ¤: recover (0.65) kz erupt (0.31) [0.4] score: 0.0806",
+            "µäÎ¤: defense (0.61) kz erupt (0.31) [0.6] score: 0.11345999999999999",
+            "µäÎ¤: defense (0.61) kz penetrate (-0.24) [1] score: 0.1464",
+            "µäÎ¤: speed (0.23) kz control (0.45) [-0.8] score: -0.08280000000000001",
+            "µäÎ¤: recover (0.65) kz poke (0.12) [0.4] score: 0.031200000000000002",
+            "µäÎ¤: defense (0.61) kz poke (0.12) [0.4] score: 0.02928"
+        ],
+        "hot": 5.0
+    },
+    {
+        "name": "•›",
+        "kz_index_sum": -0.3789000000000001,
+        "reason": [
+            "•›: defense (0.15) kz recover (0.23) [-0.4] score: -0.013800000000000002",
+            "•›: erupt (0.86) kz recover (0.23) [-0.4] score: -0.07912000000000001",
+            "•›: poke (0.25) kz recover (0.23) [-0.4] score: -0.023000000000000003",
+            "•›: recover (0.21) kz defense (0.15) [0.4] score: 0.0126",
+            "•›: erupt (0.86) kz defense (0.15) [-0.6] score: -0.0774",
+            "•›: penetrate (0.31) kz defense (0.15) [0.8] score: 0.037200000000000004",
+            "•›: poke (0.25) kz defense (0.15) [-0.4] score: -0.015",
+            "•›: recover (0.21) kz erupt (0.31) [0.4] score: 0.026039999999999997",
+            "•›: defense (0.15) kz erupt (0.31) [0.6] score: 0.027899999999999998",
+            "•›: defense (0.15) kz penetrate (-0.24) [1] score: 0.036",
+            "•›: speed (0.91) kz control (0.45) [-0.8] score: -0.32760000000000006",
+            "•›: recover (0.21) kz poke (0.12) [0.4] score: 0.010079999999999999",
+            "•›: defense (0.15) kz poke (0.12) [0.4] score: 0.0072"
+        ],
+        "hot": 1.0
+    },
+    {
+        "name": "¹¬±¾Îä²Ø",
+        "kz_index_sum": -0.25926000000000005,
+        "reason": [
+            "¹¬±¾Îä²Ø: defense (0.15) kz recover (0.23) [-0.4] score: -0.013800000000000002",
+            "¹¬±¾Îä²Ø: erupt (0.58) kz recover (0.23) [-0.4] score: -0.05336",
+            "¹¬±¾Îä²Ø: erupt (0.58) kz defense (0.15) [-0.6] score: -0.052199999999999996",
+            "¹¬±¾Îä²Ø: recover (-0.19) kz erupt (0.31) [-0.4] score: -0.02356",
+            "¹¬±¾Îä²Ø: defense (0.15) kz erupt (0.31) [0.6] score: 0.027899999999999998",
+            "¹¬±¾Îä²Ø: defense (0.15) kz penetrate (-0.24) [1] score: 0.036",
+            "¹¬±¾Îä²Ø: speed (0.47) kz control (0.45) [-0.8] score: -0.16920000000000002",
+            "¹¬±¾Îä²Ø: recover (-0.19) kz poke (0.12) [-0.8] score: -0.018240000000000003",
+            "¹¬±¾Îä²Ø: defense (0.15) kz poke (0.12) [0.4] score: 0.0072"
+        ],
+        "hot": 4.0
+    },
+    {
+        "name": "Áõ±¸",
+        "kz_index_sum": 0.05110000000000001,
+        "reason": [
+            "Áõ±¸: defense (0.28) kz recover (0.23) [-0.4] score: -0.025760000000000005",
+            "Áõ±¸: erupt (0.59) kz recover (0.23) [-0.4] score: -0.054279999999999995",
+            "Áõ±¸: recover (0.61) kz defense (0.15) [0.4] score: 0.0366",
+            "Áõ±¸: erupt (0.59) kz defense (0.15) [-0.6] score: -0.053099999999999994",
+            "Áõ±¸: recover (0.61) kz erupt (0.31) [0.4] score: 0.07564",
+            "Áõ±¸: defense (0.28) kz erupt (0.31) [0.6] score: 0.05208",
+            "Áõ±¸: defense (0.28) kz penetrate (-0.24) [1] score: 0.06720000000000001",
+            "Áõ±¸: speed (0.25) kz control (0.45) [-0.8] score: -0.09000000000000001",
+            "Áõ±¸: recover (0.61) kz poke (0.12) [0.4] score: 0.02928",
+            "Áõ±¸: defense (0.28) kz poke (0.12) [0.4] score: 0.013440000000000002"
+        ],
+        "hot": 3.0
+    },
+    {
+        "name": "Â¶ÄÈ",
+        "kz_index_sum": -0.14408000000000007,
+        "reason": [
+            "Â¶ÄÈ: defense (0.24) kz recover (0.23) [-0.4] score: -0.022080000000000002",
+            "Â¶ÄÈ: poke (0.22) kz recover (0.23) [-0.4] score: -0.02024",
+            "Â¶ÄÈ: recover (0.54) kz defense (0.15) [0.4] score: 0.032400000000000005",
+            "Â¶ÄÈ: poke (0.22) kz defense (0.15) [-0.4] score: -0.013200000000000002",
+            "Â¶ÄÈ: recover (0.54) kz erupt (0.31) [0.4] score: 0.06696",
+            "Â¶ÄÈ: defense (0.24) kz erupt (0.31) [0.6] score: 0.04463999999999999",
+            "Â¶ÄÈ: defense (0.24) kz penetrate (-0.24) [1] score: 0.0576",
+            "Â¶ÄÈ: speed (0.91) kz control (0.45) [-0.8] score: -0.32760000000000006",
+            "Â¶ÄÈ: recover (0.54) kz poke (0.12) [0.4] score: 0.02592",
+            "Â¶ÄÈ: defense (0.24) kz poke (0.12) [0.4] score: 0.01152"
+        ],
+        "hot": 1.0
+    },
+    {
+        "name": "ÅÌ¹Å",
+        "kz_index_sum": 0.033579999999999985,
+        "reason": [
+            "ÅÌ¹Å: defense (0.22) kz recover (0.23) [-0.4] score: -0.02024",
+            "ÅÌ¹Å: erupt (0.29) kz recover (0.23) [-0.4] score: -0.02668",
+            "ÅÌ¹Å: poke (0.23) kz recover (0.23) [-0.4] score: -0.02116",
+            "ÅÌ¹Å: recover (0.44) kz defense (0.15) [0.4] score: 0.026400000000000003",
+            "ÅÌ¹Å: erupt (0.29) kz defense (0.15) [-0.6] score: -0.026099999999999998",
+            "ÅÌ¹Å: penetrate (0.15) kz defense (0.15) [0.8] score: 0.018",
+            "ÅÌ¹Å: poke (0.23) kz defense (0.15) [-0.4] score: -0.013800000000000002",
+            "ÅÌ¹Å: recover (0.44) kz erupt (0.31) [0.4] score: 0.05456",
+            "ÅÌ¹Å: defense (0.22) kz erupt (0.31) [0.6] score: 0.04092",
+            "ÅÌ¹Å: defense (0.22) kz penetrate (-0.24) [1] score: 0.0528",
+            "ÅÌ¹Å: speed (0.23) kz control (0.45) [-0.8] score: -0.08280000000000001",
+            "ÅÌ¹Å: recover (0.44) kz poke (0.12) [0.4] score: 0.02112",
+            "ÅÌ¹Å: defense (0.22) kz poke (0.12) [0.4] score: 0.01056"
+        ],
+        "hot": 3.0
+    },
+    {
+        "name": "ÅáÇÜ»¢",
+        "kz_index_sum": -0.25524,
+        "reason": [
+            "ÅáÇÜ»¢: defense (0.15) kz recover (0.23) [-0.4] score: -0.013800000000000002",
+            "ÅáÇÜ»¢: erupt (0.77) kz recover (0.23) [-0.4] score: -0.07084",
+            "ÅáÇÜ»¢: poke (0.45) kz recover (0.23) [-0.4] score: -0.041400000000000006",
+            "ÅáÇÜ»¢: recover (0.55) kz defense (0.15) [0.4] score: 0.033",
+            "ÅáÇÜ»¢: erupt (0.77) kz defense (0.15) [-0.6] score: -0.06929999999999999",
+            "ÅáÇÜ»¢: penetrate (0.32) kz defense (0.15) [0.8] score: 0.038400000000000004",
+            "ÅáÇÜ»¢: poke (0.45) kz defense (0.15) [-0.4] score: -0.027000000000000003",
+            "ÅáÇÜ»¢: recover (0.55) kz erupt (0.31) [0.4] score: 0.06820000000000001",
+            "ÅáÇÜ»¢: defense (0.15) kz erupt (0.31) [0.6] score: 0.027899999999999998",
+            "ÅáÇÜ»¢: defense (0.15) kz penetrate (-0.24) [1] score: 0.036",
+            "ÅáÇÜ»¢: speed (0.75) kz control (0.45) [-0.8] score: -0.27",
+            "ÅáÇÜ»¢: recover (0.55) kz poke (0.12) [0.4] score: 0.026400000000000003",
+            "ÅáÇÜ»¢: defense (0.15) kz poke (0.12) [0.4] score: 0.0072"
+        ],
+        "hot": 1.0
+    },
+    {
+        "name": "ËïÎò¿Õ",
+        "kz_index_sum": -0.2546800000000001,
+        "reason": [
+            "ËïÎò¿Õ: defense (0.23) kz recover (0.23) [-0.4] score: -0.02116",
+            "ËïÎò¿Õ: erupt (0.81) kz recover (0.23) [-0.4] score: -0.07452000000000002",
+            "ËïÎò¿Õ: recover (0.24) kz defense (0.15) [0.4] score: 0.0144",
+            "ËïÎò¿Õ: erupt (0.81) kz defense (0.15) [-0.6] score: -0.07289999999999999",
+            "ËïÎò¿Õ: penetrate (0.25) kz defense (0.15) [0.8] score: 0.03",
+            "ËïÎò¿Õ: recover (0.24) kz erupt (0.31) [0.4] score: 0.029759999999999998",
+            "ËïÎò¿Õ: defense (0.23) kz erupt (0.31) [0.6] score: 0.04278",
+            "ËïÎò¿Õ: defense (0.23) kz penetrate (-0.24) [1] score: 0.0552",
+            "ËïÎò¿Õ: speed (0.78) kz control (0.45) [-0.8] score: -0.28080000000000005",
+            "ËïÎò¿Õ: recover (0.24) kz poke (0.12) [0.4] score: 0.01152",
+            "ËïÎò¿Õ: defense (0.23) kz poke (0.12) [0.4] score: 0.011040000000000001"
+        ],
+        "hot": 3.0
+    },
+    {
+        "name": "ÑÅµäÄÈ",
+        "kz_index_sum": -0.09227999999999997,
+        "reason": [
+            "ÑÅµäÄÈ: defense (0.23) kz recover (0.23) [-0.4] score: -0.02116",
+            "ÑÅµäÄÈ: erupt (0.45) kz recover (0.23) [-0.4] score: -0.041400000000000006",
+            "ÑÅµäÄÈ: recover (0.43) kz defense (0.15) [0.4] score: 0.025800000000000003",
+            "ÑÅµäÄÈ: erupt (0.45) kz defense (0.15) [-0.6] score: -0.0405",
+            "ÑÅµäÄÈ: penetrate (0.45) kz defense (0.15) [0.8] score: 0.054000000000000006",
+            "ÑÅµäÄÈ: recover (0.43) kz erupt (0.31) [0.4] score: 0.053320000000000006",
+            "ÑÅµäÄÈ: defense (0.23) kz erupt (0.31) [0.6] score: 0.04278",
+            "ÑÅµäÄÈ: defense (0.23) kz penetrate (-0.24) [1] score: 0.0552",
+            "ÑÅµäÄÈ: speed (0.7) kz control (0.45) [-0.8] score: -0.252",
+            "ÑÅµäÄÈ: recover (0.43) kz poke (0.12) [0.4] score: 0.020640000000000002",
+            "ÑÅµäÄÈ: defense (0.23) kz poke (0.12) [0.4] score: 0.011040000000000001"
+        ],
+        "hot": 3.0
+    },
+    {
+        "name": "ÔÆÓ§",
+        "kz_index_sum": -0.10642000000000008,
+        "reason": [
+            "ÔÆÓ§: defense (0.42) kz recover (0.23) [-0.4] score: -0.03864000000000001",
+            "ÔÆÓ§: erupt (0.45) kz recover (0.23) [-0.4] score: -0.041400000000000006",
+            "ÔÆÓ§: poke (0.32) kz recover (0.23) [-0.4] score: -0.02944",
+            "ÔÆÓ§: recover (0.39) kz defense (0.15) [0.4] score: 0.0234",
+            "ÔÆÓ§: erupt (0.45) kz defense (0.15) [-0.6] score: -0.0405",
+            "ÔÆÓ§: penetrate (0.15) kz defense (0.15) [0.8] score: 0.018",
+            "ÔÆÓ§: poke (0.32) kz defense (0.15) [-0.4] score: -0.019200000000000002",
+            "ÔÆÓ§: recover (0.39) kz erupt (0.31) [0.4] score: 0.04836000000000001",
+            "ÔÆÓ§: defense (0.42) kz erupt (0.31) [0.6] score: 0.07811999999999998",
+            "ÔÆÓ§: defense (0.42) kz penetrate (-0.24) [1] score: 0.10079999999999999",
+            "ÔÆÓ§: speed (0.68) kz control (0.45) [-0.8] score: -0.24480000000000005",
+            "ÔÆÓ§: recover (0.39) kz poke (0.12) [0.4] score: 0.01872",
+            "ÔÆÓ§: defense (0.42) kz poke (0.12) [0.4] score: 0.020159999999999997"
+        ],
+        "hot": 1.0
+    },
+    {
+        "name": "ÔÆÖĞ¾ı",
+        "kz_index_sum": -0.133,
+        "reason": [
+            "ÔÆÖĞ¾ı: defense (0.15) kz recover (0.23) [-0.4] score: -0.013800000000000002",
+            "ÔÆÖĞ¾ı: erupt (0.77) kz recover (0.23) [-0.4] score: -0.07084",
+            "ÔÆÖĞ¾ı: recover (0.87) kz defense (0.15) [0.4] score: 0.0522",
+            "ÔÆÖĞ¾ı: erupt (0.77) kz defense (0.15) [-0.6] score: -0.06929999999999999",
+            "ÔÆÖĞ¾ı: penetrate (0.15) kz defense (0.15) [0.8] score: 0.018",
+            "ÔÆÖĞ¾ı: recover (0.87) kz erupt (0.31) [0.4] score: 0.10788",
+            "ÔÆÖĞ¾ı: defense (0.15) kz erupt (0.31) [0.6] score: 0.027899999999999998",
+            "ÔÆÖĞ¾ı: defense (0.15) kz penetrate (-0.24) [1] score: 0.036",
+            "ÔÆÖĞ¾ı: speed (0.75) kz control (0.45) [-0.8] score: -0.27",
+            "ÔÆÖĞ¾ı: recover (0.87) kz poke (0.12) [0.4] score: 0.04176",
+            "ÔÆÖĞ¾ı: defense (0.15) kz poke (0.12) [0.4] score: 0.0072"
+        ],
+        "hot": 4.0
+    },
+    {
+        "name": "ÕÔÔÆ",
+        "kz_index_sum": -0.14928000000000002,
+        "reason": [
+            "ÕÔÔÆ: defense (0.39) kz recover (0.23) [-0.4] score: -0.03588",
+            "ÕÔÔÆ: erupt (0.75) kz recover (0.23) [-0.4] score: -0.069",
+            "ÕÔÔÆ: recover (0.27) kz defense (0.15) [0.4] score: 0.016200000000000003",
+            "ÕÔÔÆ: erupt (0.75) kz defense (0.15) [-0.6] score: -0.06749999999999999",
+            "ÕÔÔÆ: penetrate (0.08) kz defense (0.15) [0.8] score: 0.009600000000000001",
+            "ÕÔÔÆ: recover (0.27) kz erupt (0.31) [0.4] score: 0.03348",
+            "ÕÔÔÆ: defense (0.39) kz erupt (0.31) [0.6] score: 0.07254000000000001",
+            "ÕÔÔÆ: defense (0.39) kz penetrate (-0.24) [1] score: 0.0936",
+            "ÕÔÔÆ: speed (0.65) kz control (0.45) [-0.8] score: -0.23400000000000004",
+            "ÕÔÔÆ: recover (0.27) kz poke (0.12) [0.4] score: 0.01296",
+            "ÕÔÔÆ: defense (0.39) kz poke (0.12) [0.4] score: 0.01872"
+        ],
+        "hot": 3.0
+    },
+    {
+        "name": "°¢éğ",
+        "kz_index_sum": -0.2866000000000001,
+        "reason": [
+            "°¢éğ: defense (0.15) kz recover (0.23) [-0.4] score: -0.013800000000000002",
+            "°¢éğ: erupt (0.77) kz recover (0.23) [-0.4] score: -0.07084",
+            "°¢éğ: recover (0.27) kz defense (0.15) [0.4] score: 0.016200000000000003",
+            "°¢éğ: erupt (0.77) kz defense (0.15) [-0.6] score: -0.06929999999999999",
+            "°¢éğ: penetrate (0.09) kz defense (0.15) [0.8] score: 0.0108",
+            "°¢éğ: recover (0.27) kz erupt (0.31) [0.4] score: 0.03348",
+            "°¢éğ: defense (0.15) kz erupt (0.31) [0.6] score: 0.027899999999999998",
+            "°¢éğ: defense (0.15) kz penetrate (-0.24) [1] score: 0.036",
+            "°¢éğ: speed (0.77) kz control (0.45) [-0.8] score: -0.27720000000000006",
+            "°¢éğ: recover (0.27) kz poke (0.12) [0.4] score: 0.01296",
+            "°¢éğ: defense (0.15) kz poke (0.12) [0.4] score: 0.0072"
+        ],
+        "hot": 2.0
+    },
+    {
+        "name": "º«ĞÅ",
+        "kz_index_sum": -0.26328,
+        "reason": [
+            "º«ĞÅ: defense (0.15) kz recover (0.23) [-0.4] score: -0.013800000000000002",
+            "º«ĞÅ: erupt (0.31) kz recover (0.23) [-0.4] score: -0.028520000000000004",
+            "º«ĞÅ: poke (0.23) kz recover (0.23) [-0.4] score: -0.02116",
+            "º«ĞÅ: recover (0.45) kz defense (0.15) [0.4] score: 0.027000000000000003",
+            "º«ĞÅ: erupt (0.31) kz defense (0.15) [-0.6] score: -0.027899999999999998",
+            "º«ĞÅ: penetrate (0.07) kz defense (0.15) [0.8] score: 0.008400000000000001",
+            "º«ĞÅ: poke (0.23) kz defense (0.15) [-0.4] score: -0.013800000000000002",
+            "º«ĞÅ: recover (0.45) kz erupt (0.31) [0.4] score: 0.05580000000000001",
+            "º«ĞÅ: defense (0.15) kz erupt (0.31) [0.6] score: 0.027899999999999998",
+            "º«ĞÅ: defense (0.15) kz penetrate (-0.24) [1] score: 0.036",
+            "º«ĞÅ: speed (0.95) kz control (0.45) [-0.8] score: -0.342",
+            "º«ĞÅ: recover (0.45) kz poke (0.12) [0.4] score: 0.0216",
+            "º«ĞÅ: defense (0.15) kz poke (0.12) [0.4] score: 0.0072"
+        ],
+        "hot": 2.0
+    },
+    {
+        "name": "¾µ",
+        "kz_index_sum": -0.25212000000000007,
+        "reason": [
+            "¾µ: defense (0.25) kz recover (0.23) [-0.4] score: -0.023000000000000003",
+            "¾µ: erupt (0.95) kz recover (0.23) [-0.4] score: -0.0874",
+            "¾µ: poke (0.07) kz recover (0.23) [-0.4] score: -0.006440000000000001",
+            "¾µ: recover (0.56) kz defense (0.15) [0.4] score: 0.033600000000000005",
+            "¾µ: erupt (0.95) kz defense (0.15) [-0.6] score: -0.08549999999999999",
+            "¾µ: penetrate (0.25) kz defense (0.15) [0.8] score: 0.03",
+            "¾µ: poke (0.07) kz defense (0.15) [-0.4] score: -0.004200000000000001",
+            "¾µ: recover (0.56) kz erupt (0.31) [0.4] score: 0.06944",
+            "¾µ: defense (0.25) kz erupt (0.31) [0.6] score: 0.0465",
+            "¾µ: defense (0.25) kz penetrate (-0.24) [1] score: 0.06",
+            "¾µ: speed (0.9) kz control (0.45) [-0.8] score: -0.32400000000000007",
+            "¾µ: recover (0.56) kz poke (0.12) [0.4] score: 0.026880000000000005",
+            "¾µ: defense (0.25) kz poke (0.12) [0.4] score: 0.012"
+        ],
+        "hot": 0.5
+    },
+    {
+        "name": "À¼ÁêÍõ",
+        "kz_index_sum": -0.3016800000000001,
+        "reason": [
+            "À¼ÁêÍõ: defense (0.15) kz recover (0.23) [-0.4] score: -0.013800000000000002",
+            "À¼ÁêÍõ: erupt (0.91) kz recover (0.23) [-0.4] score: -0.08372000000000002",
+            "À¼ÁêÍõ: poke (0.21) kz recover (0.23) [-0.4] score: -0.019320000000000004",
+            "À¼ÁêÍõ: recover (0.23) kz defense (0.15) [0.4] score: 0.013800000000000002",
+            "À¼ÁêÍõ: erupt (0.91) kz defense (0.15) [-0.6] score: -0.0819",
+            "À¼ÁêÍõ: penetrate (0.25) kz defense (0.15) [0.8] score: 0.03",
+            "À¼ÁêÍõ: poke (0.21) kz defense (0.15) [-0.4] score: -0.0126",
+            "À¼ÁêÍõ: recover (0.23) kz erupt (0.31) [0.4] score: 0.028520000000000004",
+            "À¼ÁêÍõ: defense (0.15) kz erupt (0.31) [0.6] score: 0.027899999999999998",
+            "À¼ÁêÍõ: defense (0.15) kz penetrate (-0.24) [1] score: 0.036",
+            "À¼ÁêÍõ: speed (0.68) kz control (0.45) [-0.8] score: -0.24480000000000005",
+            "À¼ÁêÍõ: recover (0.23) kz poke (0.12) [0.4] score: 0.011040000000000001",
+            "À¼ÁêÍõ: defense (0.15) kz poke (0.12) [0.4] score: 0.0072"
+        ],
+        "hot": 2.0
+    },
+    {
+        "name": "À½",
+        "kz_index_sum": -0.07736000000000005,
+        "reason": [
+            "À½: defense (0.25) kz recover (0.23) [-0.4] score: -0.023000000000000003",
+            "À½: erupt (0.25) kz recover (0.23) [-0.4] score: -0.023000000000000003",
+            "À½: recover (0.77) kz defense (0.15) [0.4] score: 0.0462",
+            "À½: erupt (0.25) kz defense (0.15) [-0.6] score: -0.0225",
+            "À½: recover (0.77) kz erupt (0.31) [0.4] score: 0.09548000000000001",
+            "À½: defense (0.25) kz erupt (0.31) [0.6] score: 0.0465",
+            "À½: defense (0.25) kz penetrate (-0.24) [1] score: 0.06",
+            "À½: speed (0.85) kz control (0.45) [-0.8] score: -0.30600000000000005",
+            "À½: recover (0.77) kz poke (0.12) [0.4] score: 0.03696",
+            "À½: defense (0.25) kz poke (0.12) [0.4] score: 0.012"
+        ],
+        "hot": 0.5
+    },
+    {
+        "name": "Àî°×",
+        "kz_index_sum": -0.33280000000000004,
+        "reason": [
+            "Àî°×: defense (0.05) kz recover (0.23) [-0.4] score: -0.004600000000000001",
+            "Àî°×: erupt (0.45) kz recover (0.23) [-0.4] score: -0.041400000000000006",
+            "Àî°×: poke (0.45) kz recover (0.23) [-0.4] score: -0.041400000000000006",
+            "Àî°×: recover (0.45) kz defense (0.15) [0.4] score: 0.027000000000000003",
+            "Àî°×: erupt (0.45) kz defense (0.15) [-0.6] score: -0.0405",
+            "Àî°×: poke (0.45) kz defense (0.15) [-0.4] score: -0.027000000000000003",
+            "Àî°×: recover (0.45) kz erupt (0.31) [0.4] score: 0.05580000000000001",
+            "Àî°×: defense (0.05) kz erupt (0.31) [0.6] score: 0.0093",
+            "Àî°×: defense (0.05) kz penetrate (-0.24) [1] score: 0.012",
+            "Àî°×: speed (0.85) kz control (0.45) [-0.8] score: -0.30600000000000005",
+            "Àî°×: recover (0.45) kz poke (0.12) [0.4] score: 0.0216",
+            "Àî°×: defense (0.05) kz poke (0.12) [0.4] score: 0.0024000000000000002"
+        ],
+        "hot": 1.0
+    },
+    {
+        "name": "ÄÈ¿ÉÂ¶Â¶",
+        "kz_index_sum": -0.20962,
+        "reason": [
+            "ÄÈ¿ÉÂ¶Â¶: defense (0.15) kz recover (0.23) [-0.4] score: -0.013800000000000002",
+            "ÄÈ¿ÉÂ¶Â¶: erupt (0.86) kz recover (0.23) [-0.4] score: -0.07912000000000001",
+            "ÄÈ¿ÉÂ¶Â¶: recover (0.45) kz defense (0.15) [0.4] score: 0.027000000000000003",
+            "ÄÈ¿ÉÂ¶Â¶: erupt (0.86) kz defense (0.15) [-0.6] score: -0.0774",
+            "ÄÈ¿ÉÂ¶Â¶: penetrate (0.46) kz defense (0.15) [0.8] score: 0.055200000000000006",
+            "ÄÈ¿ÉÂ¶Â¶: recover (0.45) kz erupt (0.31) [0.4] score: 0.05580000000000001",
+            "ÄÈ¿ÉÂ¶Â¶: defense (0.15) kz erupt (0.31) [0.6] score: 0.027899999999999998",
+            "ÄÈ¿ÉÂ¶Â¶: defense (0.15) kz penetrate (-0.24) [1] score: 0.036",
+            "ÄÈ¿ÉÂ¶Â¶: speed (0.75) kz control (0.45) [-0.8] score: -0.27",
+            "ÄÈ¿ÉÂ¶Â¶: recover (0.45) kz poke (0.12) [0.4] score: 0.0216",
+            "ÄÈ¿ÉÂ¶Â¶: defense (0.15) kz poke (0.12) [0.4] score: 0.0072"
+        ],
+        "hot": 0.0
+    },
+    {
+        "name": "æÏ¶ğ",
+        "kz_index_sum": -0.024200000000000027,
+        "reason": [
+            "æÏ¶ğ: defense (0.6) kz recover (0.23) [-0.4] score: -0.055200000000000006",
+            "æÏ¶ğ: erupt (0.7) kz recover (0.23) [-0.4] score: -0.0644",
+            "æÏ¶ğ: poke (0.2) kz recover (0.23) [-0.4] score: -0.018400000000000003",
+            "æÏ¶ğ: erupt (0.7) kz defense (0.15) [-0.6] score: -0.063",
+            "æÏ¶ğ: penetrate (0.5) kz defense (0.15) [0.8] score: 0.06",
+            "æÏ¶ğ: poke (0.2) kz defense (0.15) [-0.4] score: -0.012",
+            "æÏ¶ğ: recover (-0.2) kz erupt (0.31) [-0.4] score: -0.024800000000000003",
+            "æÏ¶ğ: defense (0.6) kz erupt (0.31) [0.6] score: 0.11159999999999999",
+            "æÏ¶ğ: speed (-0.6) kz erupt (0.31) [-0.6] score: -0.11159999999999999",
+            "æÏ¶ğ: defense (0.6) kz penetrate (-0.24) [1] score: 0.144",
+            "æÏ¶ğ: recover (-0.2) kz poke (0.12) [-0.8] score: -0.019200000000000002",
+            "æÏ¶ğ: defense (0.6) kz poke (0.12) [0.4] score: 0.0288"
+        ],
+        "hot": 1.0
+    },
+    {
+        "name": "Ä«×Ó",
+        "kz_index_sum": -0.09584000000000002,
+        "reason": [
+            "Ä«×Ó: defense (0.24) kz recover (0.23) [-0.4] score: -0.022080000000000002",
+            "Ä«×Ó: poke (0.95) kz recover (0.23) [-0.4] score: -0.0874",
+            "Ä«×Ó: recover (0.14) kz defense (0.15) [0.4] score: 0.008400000000000001",
+            "Ä«×Ó: poke (0.95) kz defense (0.15) [-0.4] score: -0.056999999999999995",
+            "Ä«×Ó: recover (0.14) kz erupt (0.31) [0.4] score: 0.01736",
+            "Ä«×Ó: defense (0.24) kz erupt (0.31) [0.6] score: 0.04463999999999999",
+            "Ä«×Ó: defense (0.24) kz penetrate (-0.24) [1] score: 0.0576",
+            "Ä«×Ó: speed (0.21) kz control (0.45) [-0.8] score: -0.0756",
+            "Ä«×Ó: recover (0.14) kz poke (0.12) [0.4] score: 0.006720000000000001",
+            "Ä«×Ó: defense (0.24) kz poke (0.12) [0.4] score: 0.01152"
+        ],
+        "hot": 2.0
+    },
+    {
+        "name": "²»Öª»ğÎè",
+        "kz_index_sum": -0.6815000000000001,
+        "reason": [
+            "²»Öª»ğÎè: erupt (0.85) kz recover (0.23) [-0.4] score: -0.0782",
+            "²»Öª»ğÎè: poke (0.85) kz recover (0.23) [-0.4] score: -0.0782",
+            "²»Öª»ğÎè: recover (0.45) kz defense (0.15) [0.4] score: 0.027000000000000003",
+            "²»Öª»ğÎè: erupt (0.85) kz defense (0.15) [-0.6] score: -0.0765",
+            "²»Öª»ğÎè: penetrate (0.45) kz defense (0.15) [0.8] score: 0.054000000000000006",
+            "²»Öª»ğÎè: poke (0.85) kz defense (0.15) [-0.4] score: -0.051000000000000004",
+            "²»Öª»ğÎè: recover (0.45) kz erupt (0.31) [0.4] score: 0.05580000000000001",
+            "²»Öª»ğÎè: defense (-0.5) kz erupt (0.31) [-0.8] score: -0.124",
+            "²»Öª»ğÎè: speed (0.85) kz control (0.45) [-0.8] score: -0.30600000000000005",
+            "²»Öª»ğÎè: defense (-0.5) kz control (0.45) [-0.4] score: -0.09000000000000001",
+            "²»Öª»ğÎè: recover (0.45) kz poke (0.12) [0.4] score: 0.0216",
+            "²»Öª»ğÎè: defense (-0.5) kz poke (0.12) [-0.6] score: -0.036"
+        ],
+        "hot": 0.5
+    },
+    {
+        "name": "õõ²õ",
+        "kz_index_sum": -0.13060000000000005,
+        "reason": [
+            "õõ²õ: poke (0.4) kz recover (0.23) [-0.4] score: -0.036800000000000006",
+            "õõ²õ: recover (0.85) kz defense (0.15) [0.4] score: 0.051000000000000004",
+            "õõ²õ: penetrate (0.95) kz defense (0.15) [0.8] score: 0.11399999999999999",
+            "õõ²õ: poke (0.4) kz defense (0.15) [-0.4] score: -0.024",
+            "õõ²õ: recover (0.85) kz erupt (0.31) [0.4] score: 0.10540000000000001",
+            "õõ²õ: defense (-0.15) kz erupt (0.31) [-0.8] score: -0.037200000000000004",
+            "õõ²õ: speed (0.85) kz control (0.45) [-0.8] score: -0.30600000000000005",
+            "õõ²õ: defense (-0.15) kz control (0.45) [-0.4] score: -0.027000000000000003",
+            "õõ²õ: recover (0.85) kz poke (0.12) [0.4] score: 0.0408",
+            "õõ²õ: defense (-0.15) kz poke (0.12) [-0.6] score: -0.010799999999999999"
+        ],
+        "hot": 1.0
+    },
+    {
+        "name": "ÉÏ¹ÙÍñ¶ù",
+        "kz_index_sum": -0.6283000000000001,
+        "reason": [
+            "ÉÏ¹ÙÍñ¶ù: erupt (0.85) kz recover (0.23) [-0.4] score: -0.0782",
+            "ÉÏ¹ÙÍñ¶ù: poke (0.5) kz recover (0.23) [-0.4] score: -0.046000000000000006",
+            "ÉÏ¹ÙÍñ¶ù: recover (0.45) kz defense (0.15) [0.4] score: 0.027000000000000003",
+            "ÉÏ¹ÙÍñ¶ù: erupt (0.85) kz defense (0.15) [-0.6] score: -0.0765",
+            "ÉÏ¹ÙÍñ¶ù: penetrate (0.45) kz defense (0.15) [0.8] score: 0.054000000000000006",
+            "ÉÏ¹ÙÍñ¶ù: poke (0.5) kz defense (0.15) [-0.4] score: -0.03",
+            "ÉÏ¹ÙÍñ¶ù: recover (0.45) kz erupt (0.31) [0.4] score: 0.05580000000000001",
+            "ÉÏ¹ÙÍñ¶ù: defense (-0.5) kz erupt (0.31) [-0.8] score: -0.124",
+            "ÉÏ¹ÙÍñ¶ù: speed (0.85) kz control (0.45) [-0.8] score: -0.30600000000000005",
+            "ÉÏ¹ÙÍñ¶ù: defense (-0.5) kz control (0.45) [-0.4] score: -0.09000000000000001",
+            "ÉÏ¹ÙÍñ¶ù: recover (0.45) kz poke (0.12) [0.4] score: 0.0216",
+            "ÉÏ¹ÙÍñ¶ù: defense (-0.5) kz poke (0.12) [-0.6] score: -0.036"
+        ],
+        "hot": 2.0
+    },
+    {
+        "name": "Ë¾ÂíÜ²",
+        "kz_index_sum": -0.5473000000000001,
+        "reason": [
+            "Ë¾ÂíÜ²: erupt (0.75) kz recover (0.23) [-0.4] score: -0.069",
+            "Ë¾ÂíÜ²: recover (0.45) kz defense (0.15) [0.4] score: 0.027000000000000003",
+            "Ë¾ÂíÜ²: erupt (0.75) kz defense (0.15) [-0.6] score: -0.06749999999999999",
+            "Ë¾ÂíÜ²: penetrate (0.34) kz defense (0.15) [0.8] score: 0.0408",
+            "Ë¾ÂíÜ²: recover (0.45) kz erupt (0.31) [0.4] score: 0.05580000000000001",
+            "Ë¾ÂíÜ²: defense (-0.5) kz erupt (0.31) [-0.8] score: -0.124",
+            "Ë¾ÂíÜ²: speed (0.85) kz control (0.45) [-0.8] score: -0.30600000000000005",
+            "Ë¾ÂíÜ²: defense (-0.5) kz control (0.45) [-0.4] score: -0.09000000000000001",
+            "Ë¾ÂíÜ²: recover (0.45) kz poke (0.12) [0.4] score: 0.0216",
+            "Ë¾ÂíÜ²: defense (-0.5) kz poke (0.12) [-0.6] score: -0.036"
+        ],
+        "hot": 2.0
+    },
+    {
+        "name": "°²ç÷À­",
+        "kz_index_sum": -0.5218,
+        "reason": [
+            "°²ç÷À­: erupt (0.8) kz recover (0.23) [-0.4] score: -0.07360000000000001",
+            "°²ç÷À­: poke (0.65) kz recover (0.23) [-0.4] score: -0.05980000000000001",
+            "°²ç÷À­: recover (0.05) kz defense (0.15) [0.4] score: 0.003",
+            "°²ç÷À­: erupt (0.8) kz defense (0.15) [-0.6] score: -0.072",
+            "°²ç÷À­: penetrate (0.45) kz defense (0.15) [0.8] score: 0.054000000000000006",
+            "°²ç÷À­: poke (0.65) kz defense (0.15) [-0.4] score: -0.03900000000000001",
+            "°²ç÷À­: recover (0.05) kz erupt (0.31) [0.4] score: 0.006200000000000001",
+            "°²ç÷À­: defense (-0.5) kz erupt (0.31) [-0.8] score: -0.124",
+            "°²ç÷À­: speed (-0.5) kz erupt (0.31) [-0.6] score: -0.093",
+            "°²ç÷À­: defense (-0.5) kz control (0.45) [-0.4] score: -0.09000000000000001",
+            "°²ç÷À­: recover (0.05) kz poke (0.12) [0.4] score: 0.0024000000000000002",
+            "°²ç÷À­: defense (-0.5) kz poke (0.12) [-0.6] score: -0.036"
+        ],
+        "hot": 3.0
+    },
+    {
+        "name": "±âÈµ",
+        "kz_index_sum": 0.09079999999999996,
+        "reason": [
+            "±âÈµ: defense (0.1) kz recover (0.23) [-0.4] score: -0.009200000000000002",
+            "±âÈµ: poke (0.65) kz recover (0.23) [-0.4] score: -0.05980000000000001",
+            "±âÈµ: recover (0.95) kz defense (0.15) [0.4] score: 0.056999999999999995",
+            "±âÈµ: penetrate (0.2) kz defense (0.15) [0.8] score: 0.024",
+            "±âÈµ: poke (0.65) kz defense (0.15) [-0.4] score: -0.03900000000000001",
+            "±âÈµ: recover (0.95) kz erupt (0.31) [0.4] score: 0.1178",
+            "±âÈµ: defense (0.1) kz erupt (0.31) [0.6] score: 0.0186",
+            "±âÈµ: speed (-0.5) kz erupt (0.31) [-0.6] score: -0.093",
+            "±âÈµ: defense (0.1) kz penetrate (-0.24) [1] score: 0.024",
+            "±âÈµ: recover (0.95) kz poke (0.12) [0.4] score: 0.0456",
+            "±âÈµ: defense (0.1) kz poke (0.12) [0.4] score: 0.0048000000000000004"
+        ],
+        "hot": 3.0
+    },
+    {
+        "name": "æ§¼º",
+        "kz_index_sum": -0.4803,
+        "reason": [
+            "æ§¼º: erupt (0.95) kz recover (0.23) [-0.4] score: -0.0874",
+            "æ§¼º: recover (0.05) kz defense (0.15) [0.4] score: 0.003",
+            "æ§¼º: erupt (0.95) kz defense (0.15) [-0.6] score: -0.08549999999999999",
+            "æ§¼º: penetrate (0.2) kz defense (0.15) [0.8] score: 0.024",
+            "æ§¼º: recover (0.05) kz erupt (0.31) [0.4] score: 0.006200000000000001",
+            "æ§¼º: defense (-0.5) kz erupt (0.31) [-0.8] score: -0.124",
+            "æ§¼º: speed (-0.5) kz erupt (0.31) [-0.6] score: -0.093",
+            "æ§¼º: defense (-0.5) kz control (0.45) [-0.4] score: -0.09000000000000001",
+            "æ§¼º: recover (0.05) kz poke (0.12) [0.4] score: 0.0024000000000000002",
+            "æ§¼º: defense (-0.5) kz poke (0.12) [-0.6] score: -0.036"
+        ],
+        "hot": 4.0
+    },
+    {
+        "name": "¸É½«ÄªĞ°",
+        "kz_index_sum": -0.5994200000000001,
+        "reason": [
+            "¸É½«ÄªĞ°: erupt (0.91) kz recover (0.23) [-0.4] score: -0.08372000000000002",
+            "¸É½«ÄªĞ°: poke (0.95) kz recover (0.23) [-0.4] score: -0.0874",
+            "¸É½«ÄªĞ°: recover (0.05) kz defense (0.15) [0.4] score: 0.003",
+            "¸É½«ÄªĞ°: erupt (0.91) kz defense (0.15) [-0.6] score: -0.0819",
+            "¸É½«ÄªĞ°: penetrate (0.35) kz defense (0.15) [0.8] score: 0.042",
+            "¸É½«ÄªĞ°: poke (0.95) kz defense (0.15) [-0.4] score: -0.056999999999999995",
+            "¸É½«ÄªĞ°: recover (0.05) kz erupt (0.31) [0.4] score: 0.006200000000000001",
+            "¸É½«ÄªĞ°: defense (-0.5) kz erupt (0.31) [-0.8] score: -0.124",
+            "¸É½«ÄªĞ°: speed (-0.5) kz erupt (0.31) [-0.6] score: -0.093",
+            "¸É½«ÄªĞ°: defense (-0.5) kz control (0.45) [-0.4] score: -0.09000000000000001",
+            "¸É½«ÄªĞ°: recover (0.05) kz poke (0.12) [0.4] score: 0.0024000000000000002",
+            "¸É½«ÄªĞ°: defense (-0.5) kz poke (0.12) [-0.6] score: -0.036"
+        ],
+        "hot": 2.0
+    },
+    {
+        "name": "¸ß½¥Àë",
+        "kz_index_sum": 0.044860000000000004,
+        "reason": [
+            "¸ß½¥Àë: defense (0.1) kz recover (0.23) [-0.4] score: -0.009200000000000002",
+            "¸ß½¥Àë: erupt (0.55) kz recover (0.23) [-0.4] score: -0.05060000000000001",
+            "¸ß½¥Àë: recover (0.68) kz defense (0.15) [0.4] score: 0.0408",
+            "¸ß½¥Àë: erupt (0.55) kz defense (0.15) [-0.6] score: -0.0495",
+            "¸ß½¥Àë: penetrate (0.35) kz defense (0.15) [0.8] score: 0.042",
+            "¸ß½¥Àë: recover (0.68) kz erupt (0.31) [0.4] score: 0.08432",
+            "¸ß½¥Àë: defense (0.1) kz erupt (0.31) [0.6] score: 0.0186",
+            "¸ß½¥Àë: speed (-0.5) kz erupt (0.31) [-0.6] score: -0.093",
+            "¸ß½¥Àë: defense (0.1) kz penetrate (-0.24) [1] score: 0.024",
+            "¸ß½¥Àë: recover (0.68) kz poke (0.12) [0.4] score: 0.03264",
+            "¸ß½¥Àë: defense (0.1) kz poke (0.12) [0.4] score: 0.0048000000000000004"
+        ],
+        "hot": 3.0
+    },
+    {
+        "name": "½ª×ÓÑÀ",
+        "kz_index_sum": -0.6462,
+        "reason": [
+            "½ª×ÓÑÀ: erupt (0.4) kz recover (0.23) [-0.4] score: -0.036800000000000006",
+            "½ª×ÓÑÀ: poke (0.95) kz recover (0.23) [-0.4] score: -0.0874",
+            "½ª×ÓÑÀ: erupt (0.4) kz defense (0.15) [-0.6] score: -0.036",
+            "½ª×ÓÑÀ: penetrate (0.75) kz defense (0.15) [0.8] score: 0.09",
+            "½ª×ÓÑÀ: poke (0.95) kz defense (0.15) [-0.4] score: -0.056999999999999995",
+            "½ª×ÓÑÀ: recover (-0.8) kz erupt (0.31) [-0.4] score: -0.09920000000000001",
+            "½ª×ÓÑÀ: defense (-0.5) kz erupt (0.31) [-0.8] score: -0.124",
+            "½ª×ÓÑÀ: speed (-0.5) kz erupt (0.31) [-0.6] score: -0.093",
+            "½ª×ÓÑÀ: defense (-0.5) kz control (0.45) [-0.4] score: -0.09000000000000001",
+            "½ª×ÓÑÀ: recover (-0.8) kz poke (0.12) [-0.8] score: -0.07680000000000001",
+            "½ª×ÓÑÀ: defense (-0.5) kz poke (0.12) [-0.6] score: -0.036"
+        ],
+        "hot": 2.0
+    },
+    {
+        "name": "½ğ²õ",
+        "kz_index_sum": -0.6127600000000001,
+        "reason": [
+            "½ğ²õ: poke (0.68) kz recover (0.23) [-0.4] score: -0.06256",
+            "½ğ²õ: penetrate (0.08) kz defense (0.15) [0.8] score: 0.009600000000000001",
+            "½ğ²õ: poke (0.68) kz defense (0.15) [-0.4] score: -0.0408",
+            "½ğ²õ: recover (-0.8) kz erupt (0.31) [-0.4] score: -0.09920000000000001",
+            "½ğ²õ: defense (-0.5) kz erupt (0.31) [-0.8] score: -0.124",
+            "½ğ²õ: speed (-0.5) kz erupt (0.31) [-0.6] score: -0.093",
+            "½ğ²õ: defense (-0.5) kz control (0.45) [-0.4] score: -0.09000000000000001",
+            "½ğ²õ: recover (-0.8) kz poke (0.12) [-0.8] score: -0.07680000000000001",
+            "½ğ²õ: defense (-0.5) kz poke (0.12) [-0.6] score: -0.036"
+        ],
+        "hot": 1.0
+    },
+    {
+        "name": "Ã×À³µÒ",
+        "kz_index_sum": -0.5215600000000001,
+        "reason": [
+            "Ã×À³µÒ: poke (0.08) kz recover (0.23) [-0.4] score: -0.00736",
+            "Ã×À³µÒ: penetrate (0.08) kz defense (0.15) [0.8] score: 0.009600000000000001",
+            "Ã×À³µÒ: poke (0.08) kz defense (0.15) [-0.4] score: -0.0048000000000000004",
+            "Ã×À³µÒ: recover (-0.8) kz erupt (0.31) [-0.4] score: -0.09920000000000001",
+            "Ã×À³µÒ: defense (-0.5) kz erupt (0.31) [-0.8] score: -0.124",
+            "Ã×À³µÒ: speed (-0.5) kz erupt (0.31) [-0.6] score: -0.093",
+            "Ã×À³µÒ: defense (-0.5) kz control (0.45) [-0.4] score: -0.09000000000000001",
+            "Ã×À³µÒ: recover (-0.8) kz poke (0.12) [-0.8] score: -0.07680000000000001",
+            "Ã×À³µÒ: defense (-0.5) kz poke (0.12) [-0.6] score: -0.036"
+        ],
+        "hot": 2.0
+    },
+    {
+        "name": "Å®æ´",
+        "kz_index_sum": -0.76818,
+        "reason": [
+            "Å®æ´: erupt (0.89) kz recover (0.23) [-0.4] score: -0.08188000000000001",
+            "Å®æ´: poke (0.85) kz recover (0.23) [-0.4] score: -0.0782",
+            "Å®æ´: erupt (0.89) kz defense (0.15) [-0.6] score: -0.0801",
+            "Å®æ´: penetrate (0.35) kz defense (0.15) [0.8] score: 0.042",
+            "Å®æ´: poke (0.85) kz defense (0.15) [-0.4] score: -0.051000000000000004",
+            "Å®æ´: recover (-0.8) kz erupt (0.31) [-0.4] score: -0.09920000000000001",
+            "Å®æ´: defense (-0.5) kz erupt (0.31) [-0.8] score: -0.124",
+            "Å®æ´: speed (-0.5) kz erupt (0.31) [-0.6] score: -0.093",
+            "Å®æ´: defense (-0.5) kz control (0.45) [-0.4] score: -0.09000000000000001",
+            "Å®æ´: recover (-0.8) kz poke (0.12) [-0.8] score: -0.07680000000000001",
+            "Å®æ´: defense (-0.5) kz poke (0.12) [-0.6] score: -0.036"
+        ],
+        "hot": 2.0
+    },
+    {
+        "name": "ÉòÃÎÏª",
+        "kz_index_sum": -0.7033,
+        "reason": [
+            "ÉòÃÎÏª: erupt (0.45) kz recover (0.23) [-0.4] score: -0.041400000000000006",
+            "ÉòÃÎÏª: poke (0.95) kz recover (0.23) [-0.4] score: -0.0874",
+            "ÉòÃÎÏª: erupt (0.45) kz defense (0.15) [-0.6] score: -0.0405",
+            "ÉòÃÎÏª: penetrate (0.35) kz defense (0.15) [0.8] score: 0.042",
+            "ÉòÃÎÏª: poke (0.95) kz defense (0.15) [-0.4] score: -0.056999999999999995",
+            "ÉòÃÎÏª: recover (-0.8) kz erupt (0.31) [-0.4] score: -0.09920000000000001",
+            "ÉòÃÎÏª: defense (-0.5) kz erupt (0.31) [-0.8] score: -0.124",
+            "ÉòÃÎÏª: speed (-0.5) kz erupt (0.31) [-0.6] score: -0.093",
+            "ÉòÃÎÏª: defense (-0.5) kz control (0.45) [-0.4] score: -0.09000000000000001",
+            "ÉòÃÎÏª: recover (-0.8) kz poke (0.12) [-0.8] score: -0.07680000000000001",
+            "ÉòÃÎÏª: defense (-0.5) kz poke (0.12) [-0.6] score: -0.036"
+        ],
+        "hot": 1.0
+    },
+    {
+        "name": "ÍõÕÑ¾ı",
+        "kz_index_sum": -0.38320000000000004,
+        "reason": [
+            "ÍõÕÑ¾ı: poke (0.65) kz recover (0.23) [-0.4] score: -0.05980000000000001",
+            "ÍõÕÑ¾ı: penetrate (0.08) kz defense (0.15) [0.8] score: 0.009600000000000001",
+            "ÍõÕÑ¾ı: poke (0.65) kz defense (0.15) [-0.4] score: -0.03900000000000001",
+            "ÍõÕÑ¾ı: recover (-0.8) kz erupt (0.31) [-0.4] score: -0.09920000000000001",
+            "ÍõÕÑ¾ı: defense (-0.05) kz erupt (0.31) [-0.8] score: -0.012400000000000001",
+            "ÍõÕÑ¾ı: speed (-0.5) kz erupt (0.31) [-0.6] score: -0.093",
+            "ÍõÕÑ¾ı: defense (-0.05) kz control (0.45) [-0.4] score: -0.009000000000000001",
+            "ÍõÕÑ¾ı: recover (-0.8) kz poke (0.12) [-0.8] score: -0.07680000000000001",
+            "ÍõÕÑ¾ı: defense (-0.05) kz poke (0.12) [-0.6] score: -0.0036"
+        ],
+        "hot": 3.0
+    },
+    {
+        "name": "ÎäÔòÌì",
+        "kz_index_sum": -0.6901,
+        "reason": [
+            "ÎäÔòÌì: erupt (0.45) kz recover (0.23) [-0.4] score: -0.041400000000000006",
+            "ÎäÔòÌì: poke (0.65) kz recover (0.23) [-0.4] score: -0.05980000000000001",
+            "ÎäÔòÌì: erupt (0.45) kz defense (0.15) [-0.6] score: -0.0405",
+            "ÎäÔòÌì: penetrate (0.08) kz defense (0.15) [0.8] score: 0.009600000000000001",
+            "ÎäÔòÌì: poke (0.65) kz defense (0.15) [-0.4] score: -0.03900000000000001",
+            "ÎäÔòÌì: recover (-0.8) kz erupt (0.31) [-0.4] score: -0.09920000000000001",
+            "ÎäÔòÌì: defense (-0.5) kz erupt (0.31) [-0.8] score: -0.124",
+            "ÎäÔòÌì: speed (-0.5) kz erupt (0.31) [-0.6] score: -0.093",
+            "ÎäÔòÌì: defense (-0.5) kz control (0.45) [-0.4] score: -0.09000000000000001",
+            "ÎäÔòÌì: recover (-0.8) kz poke (0.12) [-0.8] score: -0.07680000000000001",
+            "ÎäÔòÌì: defense (-0.5) kz poke (0.12) [-0.6] score: -0.036"
+        ],
+        "hot": 3.0
+    },
+    {
+        "name": "Î÷Ê©",
+        "kz_index_sum": -0.32660000000000006,
+        "reason": [
+            "Î÷Ê©: poke (0.4) kz recover (0.23) [-0.4] score: -0.036800000000000006",
+            "Î÷Ê©: penetrate (0.08) kz defense (0.15) [0.8] score: 0.009600000000000001",
+            "Î÷Ê©: poke (0.4) kz defense (0.15) [-0.4] score: -0.024",
+            "Î÷Ê©: recover (-0.8) kz erupt (0.31) [-0.4] score: -0.09920000000000001",
+            "Î÷Ê©: defense (-0.05) kz erupt (0.31) [-0.8] score: -0.012400000000000001",
+            "Î÷Ê©: speed (-0.4) kz erupt (0.31) [-0.6] score: -0.0744",
+            "Î÷Ê©: defense (-0.05) kz control (0.45) [-0.4] score: -0.009000000000000001",
+            "Î÷Ê©: recover (-0.8) kz poke (0.12) [-0.8] score: -0.07680000000000001",
+            "Î÷Ê©: defense (-0.05) kz poke (0.12) [-0.6] score: -0.0036"
+        ],
+        "hot": 0.5
+    },
+    {
+        "name": "Ğ¡ÇÇ",
+        "kz_index_sum": -0.6311,
+        "reason": [
+            "Ğ¡ÇÇ: erupt (0.75) kz recover (0.23) [-0.4] score: -0.069",
+            "Ğ¡ÇÇ: poke (0.55) kz recover (0.23) [-0.4] score: -0.05060000000000001",
+            "Ğ¡ÇÇ: erupt (0.75) kz defense (0.15) [-0.6] score: -0.06749999999999999",
+            "Ğ¡ÇÇ: penetrate (0.35) kz defense (0.15) [0.8] score: 0.042",
+            "Ğ¡ÇÇ: poke (0.55) kz defense (0.15) [-0.4] score: -0.033",
+            "Ğ¡ÇÇ: recover (-0.5) kz erupt (0.31) [-0.4] score: -0.062",
+            "Ğ¡ÇÇ: defense (-0.5) kz erupt (0.31) [-0.8] score: -0.124",
+            "Ğ¡ÇÇ: speed (-0.5) kz erupt (0.31) [-0.6] score: -0.093",
+            "Ğ¡ÇÇ: defense (-0.5) kz control (0.45) [-0.4] score: -0.09000000000000001",
+            "Ğ¡ÇÇ: recover (-0.5) kz poke (0.12) [-0.8] score: -0.048",
+            "Ğ¡ÇÇ: defense (-0.5) kz poke (0.12) [-0.6] score: -0.036"
+        ],
+        "hot": 3.0
+    },
+    {
+        "name": "ÑîÓñ»·",
+        "kz_index_sum": -0.20580000000000004,
+        "reason": [
+            "ÑîÓñ»·: poke (0.55) kz recover (0.23) [-0.4] score: -0.05060000000000001",
+            "ÑîÓñ»·: recover (0.75) kz defense (0.15) [0.4] score: 0.045",
+            "ÑîÓñ»·: penetrate (0.08) kz defense (0.15) [0.8] score: 0.009600000000000001",
+            "ÑîÓñ»·: poke (0.55) kz defense (0.15) [-0.4] score: -0.033",
+            "ÑîÓñ»·: recover (0.75) kz erupt (0.31) [0.4] score: 0.093",
+            "ÑîÓñ»·: defense (-0.5) kz erupt (0.31) [-0.8] score: -0.124",
+            "ÑîÓñ»·: speed (-0.3) kz erupt (0.31) [-0.6] score: -0.055799999999999995",
+            "ÑîÓñ»·: defense (-0.5) kz control (0.45) [-0.4] score: -0.09000000000000001",
+            "ÑîÓñ»·: recover (0.75) kz poke (0.12) [0.4] score: 0.036",
+            "ÑîÓñ»·: defense (-0.5) kz poke (0.12) [-0.6] score: -0.036"
+        ],
+        "hot": 1.0
+    },
+    {
+        "name": "ŞÈĞÇ",
+        "kz_index_sum": -0.37556,
+        "reason": [
+            "ŞÈĞÇ: poke (0.68) kz recover (0.23) [-0.4] score: -0.06256",
+            "ŞÈĞÇ: penetrate (0.08) kz defense (0.15) [0.8] score: 0.009600000000000001",
+            "ŞÈĞÇ: poke (0.68) kz defense (0.15) [-0.4] score: -0.0408",
+            "ŞÈĞÇ: recover (-0.8) kz erupt (0.31) [-0.4] score: -0.09920000000000001",
+            "ŞÈĞÇ: defense (-0.1) kz erupt (0.31) [-0.8] score: -0.024800000000000003",
+            "ŞÈĞÇ: speed (-0.3) kz erupt (0.31) [-0.6] score: -0.055799999999999995",
+            "ŞÈĞÇ: defense (-0.1) kz control (0.45) [-0.4] score: -0.018000000000000002",
+            "ŞÈĞÇ: recover (-0.8) kz poke (0.12) [-0.8] score: -0.07680000000000001",
+            "ŞÈĞÇ: defense (-0.1) kz poke (0.12) [-0.6] score: -0.0072"
+        ],
+        "hot": 1
+    },
+    {
+        "name": "ÙøÕş",
+        "kz_index_sum": -0.6138,
+        "reason": [
+            "ÙøÕş: poke (0.9) kz recover (0.23) [-0.4] score: -0.08280000000000001",
+            "ÙøÕş: penetrate (0.35) kz defense (0.15) [0.8] score: 0.042",
+            "ÙøÕş: poke (0.9) kz defense (0.15) [-0.4] score: -0.054000000000000006",
+            "ÙøÕş: recover (-0.8) kz erupt (0.31) [-0.4] score: -0.09920000000000001",
+            "ÙøÕş: defense (-0.5) kz erupt (0.31) [-0.8] score: -0.124",
+            "ÙøÕş: speed (-0.5) kz erupt (0.31) [-0.6] score: -0.093",
+            "ÙøÕş: defense (-0.5) kz control (0.45) [-0.4] score: -0.09000000000000001",
+            "ÙøÕş: recover (-0.8) kz poke (0.12) [-0.8] score: -0.07680000000000001",
+            "ÙøÕş: defense (-0.5) kz poke (0.12) [-0.6] score: -0.036"
+        ],
+        "hot": 1.0
+    },
+    {
+        "name": "ÕÅÁ¼",
+        "kz_index_sum": -0.34075999999999995,
+        "reason": [
+            "ÕÅÁ¼: defense (0.1) kz recover (0.23) [-0.4] score: -0.009200000000000002",
+            "ÕÅÁ¼: erupt (0.3) kz recover (0.23) [-0.4] score: -0.027600000000000003",
+            "ÕÅÁ¼: poke (0.68) kz recover (0.23) [-0.4] score: -0.06256",
+            "ÕÅÁ¼: erupt (0.3) kz defense (0.15) [-0.6] score: -0.027",
+            "ÕÅÁ¼: penetrate (0.4) kz defense (0.15) [0.8] score: 0.048",
+            "ÕÅÁ¼: poke (0.68) kz defense (0.15) [-0.4] score: -0.0408",
+            "ÕÅÁ¼: recover (-0.8) kz erupt (0.31) [-0.4] score: -0.09920000000000001",
+            "ÕÅÁ¼: defense (0.1) kz erupt (0.31) [0.6] score: 0.0186",
+            "ÕÅÁ¼: speed (-0.5) kz erupt (0.31) [-0.6] score: -0.093",
+            "ÕÅÁ¼: defense (0.1) kz penetrate (-0.24) [1] score: 0.024",
+            "ÕÅÁ¼: recover (-0.8) kz poke (0.12) [-0.8] score: -0.07680000000000001",
+            "ÕÅÁ¼: defense (0.1) kz poke (0.12) [0.4] score: 0.0048000000000000004"
+        ],
+        "hot": 1.0
+    },
+    {
+        "name": "Õç¼§",
+        "kz_index_sum": -0.57476,
+        "reason": [
+            "Õç¼§: poke (0.43) kz recover (0.23) [-0.4] score: -0.039560000000000005",
+            "Õç¼§: penetrate (0.08) kz defense (0.15) [0.8] score: 0.009600000000000001",
+            "Õç¼§: poke (0.43) kz defense (0.15) [-0.4] score: -0.025800000000000003",
+            "Õç¼§: recover (-0.8) kz erupt (0.31) [-0.4] score: -0.09920000000000001",
+            "Õç¼§: defense (-0.5) kz erupt (0.31) [-0.8] score: -0.124",
+            "Õç¼§: speed (-0.5) kz erupt (0.31) [-0.6] score: -0.093",
+            "Õç¼§: defense (-0.5) kz control (0.45) [-0.4] score: -0.09000000000000001",
+            "Õç¼§: recover (-0.8) kz poke (0.12) [-0.8] score: -0.07680000000000001",
+            "Õç¼§: defense (-0.5) kz poke (0.12) [-0.6] score: -0.036"
+        ],
+        "hot": 5.0
+    },
+    {
+        "name": "ÖÜè¤",
+        "kz_index_sum": -0.011179999999999987,
+        "reason": [
+            "ÖÜè¤: defense (0.1) kz recover (0.23) [-0.4] score: -0.009200000000000002",
+            "ÖÜè¤: erupt (0.15) kz recover (0.23) [-0.4] score: -0.013800000000000002",
+            "ÖÜè¤: poke (0.75) kz recover (0.23) [-0.4] score: -0.069",
+            "ÖÜè¤: recover (0.51) kz defense (0.15) [0.4] score: 0.030600000000000002",
+            "ÖÜè¤: erupt (0.15) kz defense (0.15) [-0.6] score: -0.0135",
+            "ÖÜè¤: penetrate (0.4) kz defense (0.15) [0.8] score: 0.048",
+            "ÖÜè¤: poke (0.75) kz defense (0.15) [-0.4] score: -0.045",
+            "ÖÜè¤: recover (0.51) kz erupt (0.31) [0.4] score: 0.06324",
+            "ÖÜè¤: defense (0.1) kz erupt (0.31) [0.6] score: 0.0186",
+            "ÖÜè¤: speed (-0.4) kz erupt (0.31) [-0.6] score: -0.0744",
+            "ÖÜè¤: defense (0.1) kz penetrate (-0.24) [1] score: 0.024",
+            "ÖÜè¤: recover (0.51) kz poke (0.12) [0.4] score: 0.024480000000000002",
+            "ÖÜè¤: defense (0.1) kz poke (0.12) [0.4] score: 0.0048000000000000004"
+        ],
+        "hot": 1.0
+    },
+    {
+        "name": "°ÙÀïÊØÔ¼",
+        "kz_index_sum": -0.7178000000000001,
+        "reason": [
+            "°ÙÀïÊØÔ¼: erupt (0.6) kz recover (0.23) [-0.4] score: -0.055200000000000006",
+            "°ÙÀïÊØÔ¼: poke (0.9) kz recover (0.23) [-0.4] score: -0.08280000000000001",
+            "°ÙÀïÊØÔ¼: erupt (0.6) kz defense (0.15) [-0.6] score: -0.054",
+            "°ÙÀïÊØÔ¼: penetrate (0.5) kz defense (0.15) [0.8] score: 0.06",
+            "°ÙÀïÊØÔ¼: poke (0.9) kz defense (0.15) [-0.4] score: -0.054000000000000006",
+            "°ÙÀïÊØÔ¼: recover (-0.8) kz erupt (0.31) [-0.4] score: -0.09920000000000001",
+            "°ÙÀïÊØÔ¼: defense (-0.6) kz erupt (0.31) [-0.8] score: -0.14880000000000002",
+            "°ÙÀïÊØÔ¼: speed (-0.3) kz erupt (0.31) [-0.6] score: -0.055799999999999995",
+            "°ÙÀïÊØÔ¼: defense (-0.6) kz control (0.45) [-0.4] score: -0.10800000000000001",
+            "°ÙÀïÊØÔ¼: recover (-0.8) kz poke (0.12) [-0.8] score: -0.07680000000000001",
+            "°ÙÀïÊØÔ¼: defense (-0.6) kz poke (0.12) [-0.6] score: -0.043199999999999995"
+        ],
+        "hot": 1.0
+    },
+    {
+        "name": "°¬ÁÕ",
+        "kz_index_sum": -0.28559999999999997,
+        "reason": [
+            "°¬ÁÕ: erupt (0.2) kz recover (0.23) [-0.4] score: -0.018400000000000003",
+            "°¬ÁÕ: poke (0.75) kz recover (0.23) [-0.4] score: -0.069",
+            "°¬ÁÕ: recover (0.65) kz defense (0.15) [0.4] score: 0.03900000000000001",
+            "°¬ÁÕ: erupt (0.2) kz defense (0.15) [-0.6] score: -0.018",
+            "°¬ÁÕ: poke (0.75) kz defense (0.15) [-0.4] score: -0.045",
+            "°¬ÁÕ: recover (0.65) kz erupt (0.31) [0.4] score: 0.0806",
+            "°¬ÁÕ: defense (-0.5) kz erupt (0.31) [-0.8] score: -0.124",
+            "°¬ÁÕ: speed (0.1) kz control (0.45) [-0.8] score: -0.036000000000000004",
+            "°¬ÁÕ: defense (-0.5) kz control (0.45) [-0.4] score: -0.09000000000000001",
+            "°¬ÁÕ: recover (0.65) kz poke (0.12) [0.4] score: 0.031200000000000002",
+            "°¬ÁÕ: defense (-0.5) kz poke (0.12) [-0.6] score: -0.036"
+        ],
+        "hot": 2.0
+    },
+    {
+        "name": "³É¼ªË¼º¹",
+        "kz_index_sum": -0.507,
+        "reason": [
+            "³É¼ªË¼º¹: erupt (0.2) kz recover (0.23) [-0.4] score: -0.018400000000000003",
+            "³É¼ªË¼º¹: poke (0.65) kz recover (0.23) [-0.4] score: -0.05980000000000001",
+            "³É¼ªË¼º¹: recover (0.2) kz defense (0.15) [0.4] score: 0.012",
+            "³É¼ªË¼º¹: erupt (0.2) kz defense (0.15) [-0.6] score: -0.018",
+            "³É¼ªË¼º¹: penetrate (0.1) kz defense (0.15) [0.8] score: 0.012",
+            "³É¼ªË¼º¹: poke (0.65) kz defense (0.15) [-0.4] score: -0.03900000000000001",
+            "³É¼ªË¼º¹: recover (0.2) kz erupt (0.31) [0.4] score: 0.024800000000000003",
+            "³É¼ªË¼º¹: defense (-0.6) kz erupt (0.31) [-0.8] score: -0.14880000000000002",
+            "³É¼ªË¼º¹: speed (-0.7) kz erupt (0.31) [-0.6] score: -0.13019999999999998",
+            "³É¼ªË¼º¹: defense (-0.6) kz control (0.45) [-0.4] score: -0.10800000000000001",
+            "³É¼ªË¼º¹: recover (0.2) kz poke (0.12) [0.4] score: 0.009600000000000001",
+            "³É¼ªË¼º¹: defense (-0.6) kz poke (0.12) [-0.6] score: -0.043199999999999995"
+        ],
+        "hot": 2.0
+    },
+    {
+        "name": "µÒÈÊ½Ü",
+        "kz_index_sum": -0.3672,
+        "reason": [
+            "µÒÈÊ½Ü: erupt (0.3) kz recover (0.23) [-0.4] score: -0.027600000000000003",
+            "µÒÈÊ½Ü: poke (0.5) kz recover (0.23) [-0.4] score: -0.046000000000000006",
+            "µÒÈÊ½Ü: recover (0.2) kz defense (0.15) [0.4] score: 0.012",
+            "µÒÈÊ½Ü: erupt (0.3) kz defense (0.15) [-0.6] score: -0.027",
+            "µÒÈÊ½Ü: penetrate (0.5) kz defense (0.15) [0.8] score: 0.06",
+            "µÒÈÊ½Ü: poke (0.5) kz defense (0.15) [-0.4] score: -0.03",
+            "µÒÈÊ½Ü: recover (0.2) kz erupt (0.31) [0.4] score: 0.024800000000000003",
+            "µÒÈÊ½Ü: defense (-0.5) kz erupt (0.31) [-0.8] score: -0.124",
+            "µÒÈÊ½Ü: speed (-0.5) kz erupt (0.31) [-0.6] score: -0.093",
+            "µÒÈÊ½Ü: defense (-0.5) kz control (0.45) [-0.4] score: -0.09000000000000001",
+            "µÒÈÊ½Ü: recover (0.2) kz poke (0.12) [0.4] score: 0.009600000000000001",
+            "µÒÈÊ½Ü: defense (-0.5) kz poke (0.12) [-0.6] score: -0.036"
+        ],
+        "hot": 1.0
+    },
+    {
+        "name": "Ù¤ÂŞ",
+        "kz_index_sum": -0.49280000000000007,
+        "reason": [
+            "Ù¤ÂŞ: erupt (0.2) kz recover (0.23) [-0.4] score: -0.018400000000000003",
+            "Ù¤ÂŞ: poke (0.75) kz recover (0.23) [-0.4] score: -0.069",
+            "Ù¤ÂŞ: recover (0.2) kz defense (0.15) [0.4] score: 0.012",
+            "Ù¤ÂŞ: erupt (0.2) kz defense (0.15) [-0.6] score: -0.018",
+            "Ù¤ÂŞ: penetrate (0.5) kz defense (0.15) [0.8] score: 0.06",
+            "Ù¤ÂŞ: poke (0.75) kz defense (0.15) [-0.4] score: -0.045",
+            "Ù¤ÂŞ: recover (0.2) kz erupt (0.31) [0.4] score: 0.024800000000000003",
+            "Ù¤ÂŞ: defense (-0.6) kz erupt (0.31) [-0.8] score: -0.14880000000000002",
+            "Ù¤ÂŞ: speed (-0.8) kz erupt (0.31) [-0.6] score: -0.1488",
+            "Ù¤ÂŞ: defense (-0.6) kz control (0.45) [-0.4] score: -0.10800000000000001",
+            "Ù¤ÂŞ: recover (0.2) kz poke (0.12) [0.4] score: 0.009600000000000001",
+            "Ù¤ÂŞ: defense (-0.6) kz poke (0.12) [-0.6] score: -0.043199999999999995"
+        ],
+        "hot": 3.0
+    },
+    {
+        "name": "¹«ËïÀë",
+        "kz_index_sum": -0.6216,
+        "reason": [
+            "¹«ËïÀë: erupt (0.6) kz recover (0.23) [-0.4] score: -0.055200000000000006",
+            "¹«ËïÀë: poke (0.85) kz recover (0.23) [-0.4] score: -0.0782",
+            "¹«ËïÀë: recover (0.65) kz defense (0.15) [0.4] score: 0.03900000000000001",
+            "¹«ËïÀë: erupt (0.6) kz defense (0.15) [-0.6] score: -0.054",
+            "¹«ËïÀë: penetrate (0.3) kz defense (0.15) [0.8] score: 0.036",
+            "¹«ËïÀë: poke (0.85) kz defense (0.15) [-0.4] score: -0.051000000000000004",
+            "¹«ËïÀë: recover (0.65) kz erupt (0.31) [0.4] score: 0.0806",
+            "¹«ËïÀë: defense (-0.6) kz erupt (0.31) [-0.8] score: -0.14880000000000002",
+            "¹«ËïÀë: speed (0.75) kz control (0.45) [-0.8] score: -0.27",
+            "¹«ËïÀë: defense (-0.6) kz control (0.45) [-0.4] score: -0.10800000000000001",
+            "¹«ËïÀë: recover (0.65) kz poke (0.12) [0.4] score: 0.031200000000000002",
+            "¹«ËïÀë: defense (-0.6) kz poke (0.12) [-0.6] score: -0.043199999999999995"
+        ],
+        "hot": 0.5
+    },
+    {
+        "name": "ºóÒá",
+        "kz_index_sum": -0.5024,
+        "reason": [
+            "ºóÒá: erupt (0.2) kz recover (0.23) [-0.4] score: -0.018400000000000003",
+            "ºóÒá: poke (0.65) kz recover (0.23) [-0.4] score: -0.05980000000000001",
+            "ºóÒá: recover (0.3) kz defense (0.15) [0.4] score: 0.018",
+            "ºóÒá: erupt (0.2) kz defense (0.15) [-0.6] score: -0.018",
+            "ºóÒá: penetrate (0.1) kz defense (0.15) [0.8] score: 0.012",
+            "ºóÒá: poke (0.65) kz defense (0.15) [-0.4] score: -0.03900000000000001",
+            "ºóÒá: recover (0.3) kz erupt (0.31) [0.4] score: 0.037200000000000004",
+            "ºóÒá: defense (-0.6) kz erupt (0.31) [-0.8] score: -0.14880000000000002",
+            "ºóÒá: speed (-0.8) kz erupt (0.31) [-0.6] score: -0.1488",
+            "ºóÒá: defense (-0.6) kz control (0.45) [-0.4] score: -0.10800000000000001",
+            "ºóÒá: recover (0.3) kz poke (0.12) [0.4] score: 0.0144",
+            "ºóÒá: defense (-0.6) kz poke (0.12) [-0.6] score: -0.043199999999999995"
+        ],
+        "hot": 1
+    },
+    {
+        "name": "»ÆÖÒ",
+        "kz_index_sum": -0.4908,
+        "reason": [
+            "»ÆÖÒ: erupt (0.2) kz recover (0.23) [-0.4] score: -0.018400000000000003",
+            "»ÆÖÒ: poke (0.75) kz recover (0.23) [-0.4] score: -0.069",
+            "»ÆÖÒ: recover (0.2) kz defense (0.15) [0.4] score: 0.012",
+            "»ÆÖÒ: erupt (0.2) kz defense (0.15) [-0.6] score: -0.018",
+            "»ÆÖÒ: penetrate (0.1) kz defense (0.15) [0.8] score: 0.012",
+            "»ÆÖÒ: poke (0.75) kz defense (0.15) [-0.4] score: -0.045",
+            "»ÆÖÒ: recover (0.2) kz erupt (0.31) [0.4] score: 0.024800000000000003",
+            "»ÆÖÒ: defense (-0.5) kz erupt (0.31) [-0.8] score: -0.124",
+            "»ÆÖÒ: speed (-0.8) kz erupt (0.31) [-0.6] score: -0.1488",
+            "»ÆÖÒ: defense (-0.5) kz control (0.45) [-0.4] score: -0.09000000000000001",
+            "»ÆÖÒ: recover (0.2) kz poke (0.12) [0.4] score: 0.009600000000000001",
+            "»ÆÖÒ: defense (-0.5) kz poke (0.12) [-0.6] score: -0.036"
+        ],
+        "hot": 4.0
+    },
+    {
+        "name": "ÀîÔª·¼",
+        "kz_index_sum": -0.5606,
+        "reason": [
+            "ÀîÔª·¼: erupt (0.5) kz recover (0.23) [-0.4] score: -0.046000000000000006",
+            "ÀîÔª·¼: poke (0.75) kz recover (0.23) [-0.4] score: -0.069",
+            "ÀîÔª·¼: recover (0.2) kz defense (0.15) [0.4] score: 0.012",
+            "ÀîÔª·¼: erupt (0.5) kz defense (0.15) [-0.6] score: -0.045",
+            "ÀîÔª·¼: penetrate (0.2) kz defense (0.15) [0.8] score: 0.024",
+            "ÀîÔª·¼: poke (0.75) kz defense (0.15) [-0.4] score: -0.045",
+            "ÀîÔª·¼: recover (0.2) kz erupt (0.31) [0.4] score: 0.024800000000000003",
+            "ÀîÔª·¼: defense (-0.6) kz erupt (0.31) [-0.8] score: -0.14880000000000002",
+            "ÀîÔª·¼: speed (0.35) kz control (0.45) [-0.8] score: -0.126",
+            "ÀîÔª·¼: defense (-0.6) kz control (0.45) [-0.4] score: -0.10800000000000001",
+            "ÀîÔª·¼: recover (0.2) kz poke (0.12) [0.4] score: 0.009600000000000001",
+            "ÀîÔª·¼: defense (-0.6) kz poke (0.12) [-0.6] score: -0.043199999999999995"
+        ],
+        "hot": 1.0
+    },
+    {
+        "name": "Â³°àÆßºÅ",
+        "kz_index_sum": -0.5184,
+        "reason": [
+            "Â³°àÆßºÅ: erupt (0.2) kz recover (0.23) [-0.4] score: -0.018400000000000003",
+            "Â³°àÆßºÅ: poke (0.8) kz recover (0.23) [-0.4] score: -0.07360000000000001",
+            "Â³°àÆßºÅ: recover (0.2) kz defense (0.15) [0.4] score: 0.012",
+            "Â³°àÆßºÅ: erupt (0.2) kz defense (0.15) [-0.6] score: -0.018",
+            "Â³°àÆßºÅ: penetrate (0.35) kz defense (0.15) [0.8] score: 0.042",
+            "Â³°àÆßºÅ: poke (0.8) kz defense (0.15) [-0.4] score: -0.048",
+            "Â³°àÆßºÅ: recover (0.2) kz erupt (0.31) [0.4] score: 0.024800000000000003",
+            "Â³°àÆßºÅ: defense (-0.6) kz erupt (0.31) [-0.8] score: -0.14880000000000002",
+            "Â³°àÆßºÅ: speed (-0.8) kz erupt (0.31) [-0.6] score: -0.1488",
+            "Â³°àÆßºÅ: defense (-0.6) kz control (0.45) [-0.4] score: -0.10800000000000001",
+            "Â³°àÆßºÅ: recover (0.2) kz poke (0.12) [0.4] score: 0.009600000000000001",
+            "Â³°àÆßºÅ: defense (-0.6) kz poke (0.12) [-0.6] score: -0.043199999999999995"
+        ],
+        "hot": 2.0
+    },
+    {
+        "name": "Âí¿É²¨ÂŞ",
+        "kz_index_sum": -0.5362,
+        "reason": [
+            "Âí¿É²¨ÂŞ: erupt (0.5) kz recover (0.23) [-0.4] score: -0.046000000000000006",
+            "Âí¿É²¨ÂŞ: poke (0.8) kz recover (0.23) [-0.4] score: -0.07360000000000001",
+            "Âí¿É²¨ÂŞ: recover (0.2) kz defense (0.15) [0.4] score: 0.012",
+            "Âí¿É²¨ÂŞ: erupt (0.5) kz defense (0.15) [-0.6] score: -0.045",
+            "Âí¿É²¨ÂŞ: penetrate (0.95) kz defense (0.15) [0.8] score: 0.11399999999999999",
+            "Âí¿É²¨ÂŞ: poke (0.8) kz defense (0.15) [-0.4] score: -0.048",
+            "Âí¿É²¨ÂŞ: recover (0.2) kz erupt (0.31) [0.4] score: 0.024800000000000003",
+            "Âí¿É²¨ÂŞ: defense (-0.5) kz erupt (0.31) [-0.8] score: -0.124",
+            "Âí¿É²¨ÂŞ: speed (0.65) kz control (0.45) [-0.8] score: -0.23400000000000004",
+            "Âí¿É²¨ÂŞ: defense (-0.5) kz control (0.45) [-0.4] score: -0.09000000000000001",
+            "Âí¿É²¨ÂŞ: recover (0.2) kz poke (0.12) [0.4] score: 0.009600000000000001",
+            "Âí¿É²¨ÂŞ: defense (-0.5) kz poke (0.12) [-0.6] score: -0.036"
+        ],
+        "hot": 1.0
+    },
+    {
+        "name": "ÃÉ ë",
+        "kz_index_sum": -0.4514,
+        "reason": [
+            "ÃÉ ë: erupt (0.3) kz recover (0.23) [-0.4] score: -0.027600000000000003",
+            "ÃÉ ë: poke (0.65) kz recover (0.23) [-0.4] score: -0.05980000000000001",
+            "ÃÉ ë: recover (0.5) kz defense (0.15) [0.4] score: 0.03",
+            "ÃÉ ë: erupt (0.3) kz defense (0.15) [-0.6] score: -0.027",
+            "ÃÉ ë: penetrate (0.1) kz defense (0.15) [0.8] score: 0.012",
+            "ÃÉ ë: poke (0.65) kz defense (0.15) [-0.4] score: -0.03900000000000001",
+            "ÃÉ ë: recover (0.5) kz erupt (0.31) [0.4] score: 0.062",
+            "ÃÉ ë: defense (-0.6) kz erupt (0.31) [-0.8] score: -0.14880000000000002",
+            "ÃÉ ë: speed (0.35) kz control (0.45) [-0.8] score: -0.126",
+            "ÃÉ ë: defense (-0.6) kz control (0.45) [-0.4] score: -0.10800000000000001",
+            "ÃÉ ë: recover (0.5) kz poke (0.12) [0.4] score: 0.024",
+            "ÃÉ ë: defense (-0.6) kz poke (0.12) [-0.6] score: -0.043199999999999995"
+        ],
+        "hot": 2.0
+    },
+    {
+        "name": "ËïÉĞÏã",
+        "kz_index_sum": -0.5488,
+        "reason": [
+            "ËïÉĞÏã: erupt (0.6) kz recover (0.23) [-0.4] score: -0.055200000000000006",
+            "ËïÉĞÏã: poke (0.75) kz recover (0.23) [-0.4] score: -0.069",
+            "ËïÉĞÏã: recover (0.2) kz defense (0.15) [0.4] score: 0.012",
+            "ËïÉĞÏã: erupt (0.6) kz defense (0.15) [-0.6] score: -0.054",
+            "ËïÉĞÏã: penetrate (0.45) kz defense (0.15) [0.8] score: 0.054000000000000006",
+            "ËïÉĞÏã: poke (0.75) kz defense (0.15) [-0.4] score: -0.045",
+            "ËïÉĞÏã: recover (0.2) kz erupt (0.31) [0.4] score: 0.024800000000000003",
+            "ËïÉĞÏã: defense (-0.6) kz erupt (0.31) [-0.8] score: -0.14880000000000002",
+            "ËïÉĞÏã: speed (0.35) kz control (0.45) [-0.8] score: -0.126",
+            "ËïÉĞÏã: defense (-0.6) kz control (0.45) [-0.4] score: -0.10800000000000001",
+            "ËïÉĞÏã: recover (0.2) kz poke (0.12) [0.4] score: 0.009600000000000001",
+            "ËïÉĞÏã: defense (-0.6) kz poke (0.12) [-0.6] score: -0.043199999999999995"
+        ],
+        "hot": 2.0
+    },
+    {
+        "name": "Óİ¼§",
+        "kz_index_sum": -0.39,
+        "reason": [
+            "Óİ¼§: erupt (0.2) kz recover (0.23) [-0.4] score: -0.018400000000000003",
+            "Óİ¼§: poke (0.75) kz recover (0.23) [-0.4] score: -0.069",
+            "Óİ¼§: recover (0.2) kz defense (0.15) [0.4] score: 0.012",
+            "Óİ¼§: erupt (0.2) kz defense (0.15) [-0.6] score: -0.018",
+            "Óİ¼§: penetrate (0.3) kz defense (0.15) [0.8] score: 0.036",
+            "Óİ¼§: poke (0.75) kz defense (0.15) [-0.4] score: -0.045",
+            "Óİ¼§: recover (0.2) kz erupt (0.31) [0.4] score: 0.024800000000000003",
+            "Óİ¼§: defense (-0.5) kz erupt (0.31) [-0.8] score: -0.124",
+            "Óİ¼§: speed (0.2) kz control (0.45) [-0.8] score: -0.07200000000000001",
+            "Óİ¼§: defense (-0.5) kz control (0.45) [-0.4] score: -0.09000000000000001",
+            "Óİ¼§: recover (0.2) kz poke (0.12) [0.4] score: 0.009600000000000001",
+            "Óİ¼§: defense (-0.5) kz poke (0.12) [-0.6] score: -0.036"
+        ],
+        "hot": 1.0
+    },
+    {
+        "name": "¶ÜÉ½",
+        "kz_index_sum": 0.24594,
+        "reason": [
+            "¶ÜÉ½: defense (0.8) kz recover (0.23) [-0.4] score: -0.07360000000000001",
+            "¶ÜÉ½: recover (0.28) kz defense (0.15) [0.4] score: 0.016800000000000002",
+            "¶ÜÉ½: recover (0.28) kz erupt (0.31) [0.4] score: 0.03472",
+            "¶ÜÉ½: defense (0.8) kz erupt (0.31) [0.6] score: 0.1488",
+            "¶ÜÉ½: speed (-0.67) kz erupt (0.31) [-0.6] score: -0.12462000000000001",
+            "¶ÜÉ½: defense (0.8) kz penetrate (-0.24) [1] score: 0.192",
+            "¶ÜÉ½: recover (0.28) kz poke (0.12) [0.4] score: 0.013440000000000002",
+            "¶ÜÉ½: defense (0.8) kz poke (0.12) [0.4] score: 0.038400000000000004"
+        ],
+        "hot": 0.0
+    },
+    {
+        "name": "¶«»ÊÌ«Ò»",
+        "kz_index_sum": 0.36698,
+        "reason": [
+            "¶«»ÊÌ«Ò»: defense (0.92) kz recover (0.23) [-0.4] score: -0.08464",
+            "¶«»ÊÌ«Ò»: poke (0.15) kz recover (0.23) [-0.4] score: -0.013800000000000002",
+            "¶«»ÊÌ«Ò»: recover (0.69) kz defense (0.15) [0.4] score: 0.0414",
+            "¶«»ÊÌ«Ò»: penetrate (0.21) kz defense (0.15) [0.8] score: 0.0252",
+            "¶«»ÊÌ«Ò»: poke (0.15) kz defense (0.15) [-0.4] score: -0.009",
+            "¶«»ÊÌ«Ò»: recover (0.69) kz erupt (0.31) [0.4] score: 0.08556",
+            "¶«»ÊÌ«Ò»: defense (0.92) kz erupt (0.31) [0.6] score: 0.17112",
+            "¶«»ÊÌ«Ò»: speed (-0.79) kz erupt (0.31) [-0.6] score: -0.14694",
+            "¶«»ÊÌ«Ò»: defense (0.92) kz penetrate (-0.24) [1] score: 0.2208",
+            "¶«»ÊÌ«Ò»: recover (0.69) kz poke (0.12) [0.4] score: 0.03312",
+            "¶«»ÊÌ«Ò»: defense (0.92) kz poke (0.12) [0.4] score: 0.044160000000000005"
+        ],
+        "hot": 0.5
+    },
+    {
+        "name": "Áõìø",
+        "kz_index_sum": 0.13362000000000002,
+        "reason": [
+            "Áõìø: defense (0.91) kz recover (0.23) [-0.4] score: -0.08372000000000002",
+            "Áõìø: recover (-0.4) kz erupt (0.31) [-0.4] score: -0.049600000000000005",
+            "Áõìø: defense (0.91) kz erupt (0.31) [0.6] score: 0.16926",
+            "Áõìø: defense (0.91) kz penetrate (-0.24) [1] score: 0.2184",
+            "Áõìø: speed (0.35) kz control (0.45) [-0.8] score: -0.126",
+            "Áõìø: recover (-0.4) kz poke (0.12) [-0.8] score: -0.038400000000000004",
+            "Áõìø: defense (0.91) kz poke (0.12) [0.4] score: 0.043680000000000004"
+        ],
+        "hot": 1.0
+    },
+    {
+        "name": "Å£Ä§",
+        "kz_index_sum": 0.024939999999999928,
+        "reason": [
+            "Å£Ä§: defense (0.82) kz recover (0.23) [-0.4] score: -0.07544000000000001",
+            "Å£Ä§: recover (-0.93) kz erupt (0.31) [-0.4] score: -0.11532",
+            "Å£Ä§: defense (0.82) kz erupt (0.31) [0.6] score: 0.15252",
+            "Å£Ä§: speed (-0.45) kz erupt (0.31) [-0.6] score: -0.08370000000000001",
+            "Å£Ä§: defense (0.82) kz penetrate (-0.24) [1] score: 0.19679999999999997",
+            "Å£Ä§: recover (-0.93) kz poke (0.12) [-0.8] score: -0.08928000000000001",
+            "Å£Ä§: defense (0.82) kz poke (0.12) [0.4] score: 0.03936"
+        ],
+        "hot": 1.0
+    },
+    {
+        "name": "ËÕÁÒ",
+        "kz_index_sum": 0.06447999999999997,
+        "reason": [
+            "ËÕÁÒ: defense (0.85) kz recover (0.23) [-0.4] score: -0.0782",
+            "ËÕÁÒ: recover (-0.87) kz erupt (0.31) [-0.4] score: -0.10788",
+            "ËÕÁÒ: defense (0.85) kz erupt (0.31) [0.6] score: 0.1581",
+            "ËÕÁÒ: speed (-0.37) kz erupt (0.31) [-0.6] score: -0.06881999999999999",
+            "ËÕÁÒ: defense (0.85) kz penetrate (-0.24) [1] score: 0.204",
+            "ËÕÁÒ: recover (-0.87) kz poke (0.12) [-0.8] score: -0.08352",
+            "ËÕÁÒ: defense (0.85) kz poke (0.12) [0.4] score: 0.0408"
+        ],
+        "hot": 2.0
+    },
+    {
+        "name": "Ì«ÒÒÕæÈË",
+        "kz_index_sum": -0.013660000000000005,
+        "reason": [
+            "Ì«ÒÒÕæÈË: defense (0.78) kz recover (0.23) [-0.4] score: -0.07176",
+            "Ì«ÒÒÕæÈË: recover (-0.85) kz erupt (0.31) [-0.4] score: -0.10540000000000001",
+            "Ì«ÒÒÕæÈË: defense (0.78) kz erupt (0.31) [0.6] score: 0.14508000000000001",
+            "Ì«ÒÒÕæÈË: speed (-0.67) kz erupt (0.31) [-0.6] score: -0.12462000000000001",
+            "Ì«ÒÒÕæÈË: defense (0.78) kz penetrate (-0.24) [1] score: 0.1872",
+            "Ì«ÒÒÕæÈË: recover (-0.85) kz poke (0.12) [-0.8] score: -0.0816",
+            "Ì«ÒÒÕæÈË: defense (0.78) kz poke (0.12) [0.4] score: 0.03744"
+        ],
+        "hot": 0.0
+    },
+    {
+        "name": "ÕÅ·É",
+        "kz_index_sum": 0.33342,
+        "reason": [
+            "ÕÅ·É: defense (0.85) kz recover (0.23) [-0.4] score: -0.0782",
+            "ÕÅ·É: recover (0.23) kz defense (0.15) [0.4] score: 0.013800000000000002",
+            "ÕÅ·É: recover (0.23) kz erupt (0.31) [0.4] score: 0.028520000000000004",
+            "ÕÅ·É: defense (0.85) kz erupt (0.31) [0.6] score: 0.1581",
+            "ÕÅ·É: speed (-0.24) kz erupt (0.31) [-0.6] score: -0.04463999999999999",
+            "ÕÅ·É: defense (0.85) kz penetrate (-0.24) [1] score: 0.204",
+            "ÕÅ·É: recover (0.23) kz poke (0.12) [0.4] score: 0.011040000000000001",
+            "ÕÅ·É: defense (0.85) kz poke (0.12) [0.4] score: 0.0408"
+        ],
+        "hot": 0.5
+    },
+    {
+        "name": "×¯ÖÜ",
+        "kz_index_sum": 0.13729999999999998,
+        "reason": [
+            "×¯ÖÜ: defense (0.95) kz recover (0.23) [-0.4] score: -0.0874",
+            "×¯ÖÜ: poke (0.03) kz recover (0.23) [-0.4] score: -0.0027600000000000003",
+            "×¯ÖÜ: penetrate (0.06) kz defense (0.15) [0.8] score: 0.0072",
+            "×¯ÖÜ: poke (0.03) kz defense (0.15) [-0.4] score: -0.0018",
+            "×¯ÖÜ: recover (-0.75) kz erupt (0.31) [-0.4] score: -0.093",
+            "×¯ÖÜ: defense (0.95) kz erupt (0.31) [0.6] score: 0.1767",
+            "×¯ÖÜ: speed (-0.34) kz erupt (0.31) [-0.6] score: -0.06324",
+            "×¯ÖÜ: defense (0.95) kz penetrate (-0.24) [1] score: 0.22799999999999998",
+            "×¯ÖÜ: recover (-0.75) kz poke (0.12) [-0.8] score: -0.072",
+            "×¯ÖÜ: defense (0.95) kz poke (0.12) [0.4] score: 0.0456"
+        ],
+        "hot": 2.0
+    },
+    {
+        "name": "Ëïë÷",
+        "kz_index_sum": -0.0664000000000001,
+        "reason": [
+            "Ëïë÷: defense (0.6) kz recover (0.23) [-0.4] score: -0.055200000000000006",
+            "Ëïë÷: poke (0.5) kz recover (0.23) [-0.4] score: -0.046000000000000006",
+            "Ëïë÷: recover (0.45) kz defense (0.15) [0.4] score: 0.027000000000000003",
+            "Ëïë÷: poke (0.5) kz defense (0.15) [-0.4] score: -0.03",
+            "Ëïë÷: recover (0.45) kz erupt (0.31) [0.4] score: 0.05580000000000001",
+            "Ëïë÷: defense (0.6) kz erupt (0.31) [0.6] score: 0.11159999999999999",
+            "Ëïë÷: defense (0.6) kz penetrate (-0.24) [1] score: 0.144",
+            "Ëïë÷: speed (0.9) kz control (0.45) [-0.8] score: -0.32400000000000007",
+            "Ëïë÷: recover (0.45) kz poke (0.12) [0.4] score: 0.0216",
+            "Ëïë÷: defense (0.6) kz poke (0.12) [0.4] score: 0.0288"
+        ],
+        "hot": 1.0
+    },
+    {
+        "name": "ÖÓØ¸",
+        "kz_index_sum": -0.09104000000000004,
+        "reason": [
+            "ÖÓØ¸: defense (0.78) kz recover (0.23) [-0.4] score: -0.07176",
+            "ÖÓØ¸: poke (0.3) kz recover (0.23) [-0.4] score: -0.027600000000000003",
+            "ÖÓØ¸: poke (0.3) kz defense (0.15) [-0.4] score: -0.018",
+            "ÖÓØ¸: recover (-0.8) kz erupt (0.31) [-0.4] score: -0.09920000000000001",
+            "ÖÓØ¸: defense (0.78) kz erupt (0.31) [0.6] score: 0.14508000000000001",
+            "ÖÓØ¸: speed (-0.9) kz erupt (0.31) [-0.6] score: -0.16740000000000002",
+            "ÖÓØ¸: defense (0.78) kz penetrate (-0.24) [1] score: 0.1872",
+            "ÖÓØ¸: recover (-0.8) kz poke (0.12) [-0.8] score: -0.07680000000000001",
+            "ÖÓØ¸: defense (0.78) kz poke (0.12) [0.4] score: 0.03744"
+        ],
+        "hot": 3.0
+    },
+    {
+        "name": "²ÌÎÄ¼§",
+        "kz_index_sum": 0.34996000000000005,
+        "reason": [
+            "²ÌÎÄ¼§: defense (0.68) kz recover (0.23) [-0.4] score: -0.06256",
+            "²ÌÎÄ¼§: recover (0.95) kz defense (0.15) [0.4] score: 0.056999999999999995",
+            "²ÌÎÄ¼§: recover (0.95) kz erupt (0.31) [0.4] score: 0.1178",
+            "²ÌÎÄ¼§: defense (0.68) kz erupt (0.31) [0.6] score: 0.12648",
+            "²ÌÎÄ¼§: speed (-0.7) kz erupt (0.31) [-0.6] score: -0.13019999999999998",
+            "²ÌÎÄ¼§: defense (0.68) kz penetrate (-0.24) [1] score: 0.1632",
+            "²ÌÎÄ¼§: recover (0.95) kz poke (0.12) [0.4] score: 0.0456",
+            "²ÌÎÄ¼§: defense (0.68) kz poke (0.12) [0.4] score: 0.03264"
+        ],
+        "hot": 2.0
+    },
+    {
+        "name": "´óÇÇ",
+        "kz_index_sum": 0.15656000000000003,
+        "reason": [
+            "´óÇÇ: defense (0.68) kz recover (0.23) [-0.4] score: -0.06256",
+            "´óÇÇ: poke (0.2) kz recover (0.23) [-0.4] score: -0.018400000000000003",
+            "´óÇÇ: recover (0.85) kz defense (0.15) [0.4] score: 0.051000000000000004",
+            "´óÇÇ: poke (0.2) kz defense (0.15) [-0.4] score: -0.012",
+            "´óÇÇ: recover (0.85) kz erupt (0.31) [0.4] score: 0.10540000000000001",
+            "´óÇÇ: defense (0.68) kz erupt (0.31) [0.6] score: 0.12648",
+            "´óÇÇ: defense (0.68) kz penetrate (-0.24) [1] score: 0.1632",
+            "´óÇÇ: speed (0.75) kz control (0.45) [-0.8] score: -0.27",
+            "´óÇÇ: recover (0.85) kz poke (0.12) [0.4] score: 0.0408",
+            "´óÇÇ: defense (0.68) kz poke (0.12) [0.4] score: 0.03264"
+        ],
+        "hot": 0.5
+    },
+    {
+        "name": "¹í¹È×Ó",
+        "kz_index_sum": -0.16264,
+        "reason": [
+            "¹í¹È×Ó: defense (0.68) kz recover (0.23) [-0.4] score: -0.06256",
+            "¹í¹È×Ó: poke (0.2) kz recover (0.23) [-0.4] score: -0.018400000000000003",
+            "¹í¹È×Ó: penetrate (0.45) kz defense (0.15) [0.8] score: 0.054000000000000006",
+            "¹í¹È×Ó: poke (0.2) kz defense (0.15) [-0.4] score: -0.012",
+            "¹í¹È×Ó: recover (-0.8) kz erupt (0.31) [-0.4] score: -0.09920000000000001",
+            "¹í¹È×Ó: defense (0.68) kz erupt (0.31) [0.6] score: 0.12648",
+            "¹í¹È×Ó: defense (0.68) kz penetrate (-0.24) [1] score: 0.1632",
+            "¹í¹È×Ó: speed (0.75) kz control (0.45) [-0.8] score: -0.27",
+            "¹í¹È×Ó: recover (-0.8) kz poke (0.12) [-0.8] score: -0.07680000000000001",
+            "¹í¹È×Ó: defense (0.68) kz poke (0.12) [0.4] score: 0.03264"
+        ],
+        "hot": 1.0
+    },
+    {
+        "name": "Â³°à´óÊ¦",
+        "kz_index_sum": -0.05474000000000007,
+        "reason": [
+            "Â³°à´óÊ¦: defense (0.93) kz recover (0.23) [-0.4] score: -0.08556000000000001",
+            "Â³°à´óÊ¦: recover (-0.8) kz erupt (0.31) [-0.4] score: -0.09920000000000001",
+            "Â³°à´óÊ¦: defense (0.93) kz erupt (0.31) [0.6] score: 0.17298",
+            "Â³°à´óÊ¦: defense (0.93) kz penetrate (-0.24) [1] score: 0.2232",
+            "Â³°à´óÊ¦: speed (0.65) kz control (0.45) [-0.8] score: -0.23400000000000004",
+            "Â³°à´óÊ¦: recover (-0.8) kz poke (0.12) [-0.8] score: -0.07680000000000001",
+            "Â³°à´óÊ¦: defense (0.93) kz poke (0.12) [0.4] score: 0.044640000000000006"
+        ],
+        "hot": 0.0
+    },
+    {
+        "name": "Ã÷ÊÀÒş",
+        "kz_index_sum": 0.3197,
+        "reason": [
+            "Ã÷ÊÀÒş: defense (0.75) kz recover (0.23) [-0.4] score: -0.069",
+            "Ã÷ÊÀÒş: poke (0.3) kz recover (0.23) [-0.4] score: -0.027600000000000003",
+            "Ã÷ÊÀÒş: recover (0.65) kz defense (0.15) [0.4] score: 0.03900000000000001",
+            "Ã÷ÊÀÒş: poke (0.3) kz defense (0.15) [-0.4] score: -0.018",
+            "Ã÷ÊÀÒş: recover (0.65) kz erupt (0.31) [0.4] score: 0.0806",
+            "Ã÷ÊÀÒş: defense (0.75) kz erupt (0.31) [0.6] score: 0.13949999999999999",
+            "Ã÷ÊÀÒş: defense (0.75) kz penetrate (-0.24) [1] score: 0.18",
+            "Ã÷ÊÀÒş: speed (0.2) kz control (0.45) [-0.8] score: -0.07200000000000001",
+            "Ã÷ÊÀÒş: recover (0.65) kz poke (0.12) [0.4] score: 0.031200000000000002",
+            "Ã÷ÊÀÒş: defense (0.75) kz poke (0.12) [0.4] score: 0.036"
+        ],
+        "hot": 4.0
+    },
+    {
+        "name": "É£Æô",
+        "kz_index_sum": 0.21856,
+        "reason": [
+            "É£Æô: defense (0.68) kz recover (0.23) [-0.4] score: -0.06256",
+            "É£Æô: poke (0.3) kz recover (0.23) [-0.4] score: -0.027600000000000003",
+            "É£Æô: recover (0.95) kz defense (0.15) [0.4] score: 0.056999999999999995",
+            "É£Æô: poke (0.3) kz defense (0.15) [-0.4] score: -0.018",
+            "É£Æô: recover (0.95) kz erupt (0.31) [0.4] score: 0.1178",
+            "É£Æô: defense (0.68) kz erupt (0.31) [0.6] score: 0.12648",
+            "É£Æô: defense (0.68) kz penetrate (-0.24) [1] score: 0.1632",
+            "É£Æô: speed (0.6) kz control (0.45) [-0.8] score: -0.21600000000000003",
+            "É£Æô: recover (0.95) kz poke (0.12) [0.4] score: 0.0456",
+            "É£Æô: defense (0.68) kz poke (0.12) [0.4] score: 0.03264"
+        ],
+        "hot": 1.0
+    },
+    {
+        "name": "Ñş",
+        "kz_index_sum": 0.31656,
+        "reason": [
+            "Ñş: defense (0.68) kz recover (0.23) [-0.4] score: -0.06256",
+            "Ñş: poke (0.45) kz recover (0.23) [-0.4] score: -0.041400000000000006",
+            "Ñş: recover (0.85) kz defense (0.15) [0.4] score: 0.051000000000000004",
+            "Ñş: poke (0.45) kz defense (0.15) [-0.4] score: -0.027000000000000003",
+            "Ñş: recover (0.85) kz erupt (0.31) [0.4] score: 0.10540000000000001",
+            "Ñş: defense (0.68) kz erupt (0.31) [0.6] score: 0.12648",
+            "Ñş: defense (0.68) kz penetrate (-0.24) [1] score: 0.1632",
+            "Ñş: speed (0.2) kz control (0.45) [-0.8] score: -0.07200000000000001",
+            "Ñş: recover (0.85) kz poke (0.12) [0.4] score: 0.0408",
+            "Ñş: defense (0.68) kz poke (0.12) [0.4] score: 0.03264"
+        ],
+        "hot": 2.0
+    },
+    {
+        "name": "ØÂÔÂ",
+        "kz_index_sum": 0.07423999999999994,
+        "reason": [
+            "ØÂÔÂ: defense (0.24) kz recover (0.23) [-0.4] score: -0.022080000000000002",
+            "ØÂÔÂ: recover (0.68) kz defense (0.15) [0.4] score: 0.0408",
+            "ØÂÔÂ: penetrate (0.49) kz defense (0.15) [0.8] score: 0.0588",
+            "ØÂÔÂ: recover (0.68) kz erupt (0.31) [0.4] score: 0.08432",
+            "ØÂÔÂ: defense (0.24) kz erupt (0.31) [0.6] score: 0.04463999999999999",
+            "ØÂÔÂ: defense (0.24) kz penetrate (-0.24) [1] score: 0.0576",
+            "ØÂÔÂ: speed (0.65) kz control (0.45) [-0.8] score: -0.23400000000000004",
+            "ØÂÔÂ: recover (0.68) kz poke (0.12) [0.4] score: 0.03264",
+            "ØÂÔÂ: defense (0.24) kz poke (0.12) [0.4] score: 0.01152"
+        ],
+        "hot": 2.0
+    },
+    {
+        "name": "Ë¾¿ÕÕğ",
+        "kz_index_sum": -0.28103999999999996,
+        "reason": [
+            "Ë¾¿ÕÕğ: defense (0.19) kz recover (0.23) [-0.4] score: -0.017480000000000002",
+            "Ë¾¿ÕÕğ: erupt (0.75) kz recover (0.23) [-0.4] score: -0.069",
+            "Ë¾¿ÕÕğ: poke (0.58) kz recover (0.23) [-0.4] score: -0.05336",
+            "Ë¾¿ÕÕğ: recover (0.67) kz defense (0.15) [0.4] score: 0.04020000000000001",
+            "Ë¾¿ÕÕğ: erupt (0.75) kz defense (0.15) [-0.6] score: -0.06749999999999999",
+            "Ë¾¿ÕÕğ: poke (0.58) kz defense (0.15) [-0.4] score: -0.0348",
+            "Ë¾¿ÕÕğ: recover (0.67) kz erupt (0.31) [0.4] score: 0.08308000000000001",
+            "Ë¾¿ÕÕğ: defense (0.19) kz erupt (0.31) [0.6] score: 0.035339999999999996",
+            "Ë¾¿ÕÕğ: defense (0.19) kz penetrate (-0.24) [1] score: 0.0456",
+            "Ë¾¿ÕÕğ: speed (0.79) kz control (0.45) [-0.8] score: -0.28440000000000004",
+            "Ë¾¿ÕÕğ: recover (0.67) kz poke (0.12) [0.4] score: 0.03216",
+            "Ë¾¿ÕÕğ: defense (0.19) kz poke (0.12) [0.4] score: 0.009120000000000001"
+        ],
+        "hot": 1.0
+    },
+    {
+        "name": "ê×",
+        "kz_index_sum": -0.14818000000000014,
+        "reason": [
+            "ê×: defense (0.42) kz recover (0.23) [-0.4] score: -0.03864000000000001",
+            "ê×: erupt (0.45) kz recover (0.23) [-0.4] score: -0.041400000000000006",
+            "ê×: poke (0.32) kz recover (0.23) [-0.4] score: -0.02944",
+            "ê×: recover (0.21) kz defense (0.15) [0.4] score: 0.0126",
+            "ê×: erupt (0.45) kz defense (0.15) [-0.6] score: -0.0405",
+            "ê×: penetrate (0.15) kz defense (0.15) [0.8] score: 0.018",
+            "ê×: poke (0.32) kz defense (0.15) [-0.4] score: -0.019200000000000002",
+            "ê×: recover (0.21) kz erupt (0.31) [0.4] score: 0.026039999999999997",
+            "ê×: defense (0.42) kz erupt (0.31) [0.6] score: 0.07811999999999998",
+            "ê×: defense (0.42) kz penetrate (-0.24) [1] score: 0.10079999999999999",
+            "ê×: speed (0.68) kz control (0.45) [-0.8] score: -0.24480000000000005",
+            "ê×: recover (0.21) kz poke (0.12) [0.4] score: 0.010079999999999999",
+            "ê×: defense (0.42) kz poke (0.12) [0.4] score: 0.020159999999999997"
+        ],
+        "hot": 1.0
+    },
+    {
+        "name": "Öî¸ğÁÁ",
+        "kz_index_sum": -0.5937000000000001,
+        "reason": [
+            "Öî¸ğÁÁ: erupt (0.75) kz recover (0.23) [-0.4] score: -0.069",
+            "Öî¸ğÁÁ: poke (0.65) kz recover (0.23) [-0.4] score: -0.05980000000000001",
+            "Öî¸ğÁÁ: recover (0.5) kz defense (0.15) [0.4] score: 0.03",
+            "Öî¸ğÁÁ: erupt (0.75) kz defense (0.15) [-0.6] score: -0.06749999999999999",
+            "Öî¸ğÁÁ: penetrate (0.08) kz defense (0.15) [0.8] score: 0.009600000000000001",
+            "Öî¸ğÁÁ: poke (0.65) kz defense (0.15) [-0.4] score: -0.03900000000000001",
+            "Öî¸ğÁÁ: recover (0.5) kz erupt (0.31) [0.4] score: 0.062",
+            "Öî¸ğÁÁ: defense (-0.5) kz erupt (0.31) [-0.8] score: -0.124",
+            "Öî¸ğÁÁ: speed (0.65) kz control (0.45) [-0.8] score: -0.23400000000000004",
+            "Öî¸ğÁÁ: defense (-0.5) kz control (0.45) [-0.4] score: -0.09000000000000001",
+            "Öî¸ğÁÁ: recover (0.5) kz poke (0.12) [0.4] score: 0.024",
+            "Öî¸ğÁÁ: defense (-0.5) kz poke (0.12) [-0.6] score: -0.036"
+        ],
+        "hot": 2.0
+    },
+    {
+        "name": "Áõ°î",
+        "kz_index_sum": 0.08589999999999993,
+        "reason": [
+            "Áõ°î: defense (0.95) kz recover (0.23) [-0.4] score: -0.0874",
+            "Áõ°î: recover (-0.85) kz erupt (0.31) [-0.4] score: -0.10540000000000001",
+            "Áõ°î: defense (0.95) kz erupt (0.31) [0.6] score: 0.1767",
+            "Áõ°î: defense (0.95) kz penetrate (-0.24) [1] score: 0.22799999999999998",
+            "Áõ°î: speed (0.25) kz control (0.45) [-0.8] score: -0.09000000000000001",
+            "Áõ°î: recover (-0.85) kz poke (0.12) [-0.8] score: -0.0816",
+            "Áõ°î: defense (0.95) kz poke (0.12) [0.4] score: 0.0456"
+        ],
+        "hot": 3.0
+    },
+    {
+        "name": "ÏîÓğ",
+        "kz_index_sum": -0.02100000000000004,
+        "reason": [
+            "ÏîÓğ: defense (0.96) kz recover (0.23) [-0.4] score: -0.08832000000000001",
+            "ÏîÓğ: erupt (0.63) kz recover (0.23) [-0.4] score: -0.057960000000000005",
+            "ÏîÓğ: erupt (0.63) kz defense (0.15) [-0.6] score: -0.0567",
+            "ÏîÓğ: recover (-0.81) kz erupt (0.31) [-0.4] score: -0.10044",
+            "ÏîÓğ: defense (0.96) kz erupt (0.31) [0.6] score: 0.17855999999999997",
+            "ÏîÓğ: speed (-0.51) kz erupt (0.31) [-0.6] score: -0.09485999999999999",
+            "ÏîÓğ: defense (0.96) kz penetrate (-0.24) [1] score: 0.2304",
+            "ÏîÓğ: recover (-0.81) kz poke (0.12) [-0.8] score: -0.07776000000000001",
+            "ÏîÓğ: defense (0.96) kz poke (0.12) [0.4] score: 0.04608"
+        ],
+        "hot": 3.0
+    },
+    {
+        "name": "éÙÓÒ¾©",
+        "kz_index_sum": -0.02852000000000004,
+        "reason": [
+            "éÙÓÒ¾©: defense (0.6) kz recover (0.23) [-0.4] score: -0.055200000000000006",
+            "éÙÓÒ¾©: erupt (0.78) kz recover (0.23) [-0.4] score: -0.07176",
+            "éÙÓÒ¾©: poke (0.38) kz recover (0.23) [-0.4] score: -0.034960000000000005",
+            "éÙÓÒ¾©: recover (0.65) kz defense (0.15) [0.4] score: 0.03900000000000001",
+            "éÙÓÒ¾©: erupt (0.78) kz defense (0.15) [-0.6] score: -0.0702",
+            "éÙÓÒ¾©: penetrate (0.21) kz defense (0.15) [0.8] score: 0.0252",
+            "éÙÓÒ¾©: poke (0.38) kz defense (0.15) [-0.4] score: -0.0228",
+            "éÙÓÒ¾©: recover (0.65) kz erupt (0.31) [0.4] score: 0.0806",
+            "éÙÓÒ¾©: defense (0.6) kz erupt (0.31) [0.6] score: 0.11159999999999999",
+            "éÙÓÒ¾©: defense (0.6) kz penetrate (-0.24) [1] score: 0.144",
+            "éÙÓÒ¾©: speed (0.65) kz control (0.45) [-0.8] score: -0.23400000000000004",
+            "éÙÓÒ¾©: recover (0.65) kz poke (0.12) [0.4] score: 0.031200000000000002",
+            "éÙÓÒ¾©: defense (0.6) kz poke (0.12) [0.4] score: 0.0288"
+        ],
+        "hot": 1.0
+    },
+    {
+        "name": "Á®ÆÄ",
+        "kz_index_sum": 0.03579999999999998,
+        "reason": [
+            "Á®ÆÄ: defense (0.91) kz recover (0.23) [-0.4] score: -0.08372000000000002",
+            "Á®ÆÄ: erupt (0.21) kz recover (0.23) [-0.4] score: -0.019320000000000004",
+            "Á®ÆÄ: erupt (0.21) kz defense (0.15) [-0.6] score: -0.0189",
+            "Á®ÆÄ: recover (-0.9) kz erupt (0.31) [-0.4] score: -0.11160000000000002",
+            "Á®ÆÄ: defense (0.91) kz erupt (0.31) [0.6] score: 0.16926",
+            "Á®ÆÄ: defense (0.91) kz penetrate (-0.24) [1] score: 0.2184",
+            "Á®ÆÄ: speed (0.21) kz control (0.45) [-0.8] score: -0.0756",
+            "Á®ÆÄ: recover (-0.9) kz poke (0.12) [-0.8] score: -0.0864",
+            "Á®ÆÄ: defense (0.91) kz poke (0.12) [0.4] score: 0.043680000000000004"
+        ],
+        "hot": 2.0
+    }
+]
